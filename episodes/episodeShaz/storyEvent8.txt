@@ -1,0 +1,210 @@
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Okay, stop! Stop!
+#TEXT_END
+#BACKGROUND cg\clipShazElevator2.png
+#PAUSE 600
+#BGM
+..\\..\\..\\..\\stages\Elevator\music\boss_krogh.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+Now you disappoint me!
+Aren't you fighting for your life?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Ain't you gotcha, you planktonbrain?
+Blade told me where to find ya and told ya where to find me!
+He gave me a dossier too!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+Huh?! This can't be...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+He wanted us to meet! And to cooperate!
+Not to kill each other!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+You are delusional! Blade wanted to save me!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+You idiot! Blade wanted to save US BOTH!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Listen, I kno' that you don't trust me, but for God's sake - be rational!
+Do ya honestly think that Go will let anyone of us away unharmed?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Especially, after I robbed him of so much money and you left the Syndicate and even went full human not to be found?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+...you have a point.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#STAGE_BACKGROUND elevator\\
+#TEXT_BEGIN
+(speaker) >Ground floor: Encorp surface station.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#SOUND
+chime.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#STAGE_BACKGROUND runawayTrain\\
+#TEXT_BEGIN
+It seems we reached our destination...
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+So, are you gonna stop tryin' killin' me?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+Let's call it a truce, 'kay? Unless until we get more information about Go's real motives.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Agreed. Just hope Blade won't get into troubles for helping us.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+Sounds good to me as we... uh?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+What's that... thing? The one at the end of the tunnel, I mean!
+#TEXT_END
+#PAUSE 600
+#BGM
+..\..\..\..\stages\RunawayTrain\music\beroza_drive_cut.ogg
+0.0
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Bloody moonfish!!!
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\\Mesh2\\
+#BACKGROUND cg\clipKrave2a.png
+#TEXT_BEGIN
+>Here you are! The both of you!
+#TEXT_END
+#PAUSE 600
+#BGM
+..\..\..\..\stages\RunawayTrain\music\beroza_drive_cut.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+WHAT IS THAT?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Come with me, Delfina! We don't have time to lose!
+That robot is too powerful!
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\\Mesh2\\
+#BACKGROUND cg\clipKrave2b.png
+#TEXT_BEGIN
+>Yes, yes, yes!
+>Resistance is futile, futile, futile!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+Wait, but...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#BACKGROUND cg\clipEpisodeEnd.png
+#TEXT_BEGIN
+JUST RUUUN!!!!
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#TOP_WINDOW
+#PAUSE 600
+#CLOSE_WINDOW
+#END

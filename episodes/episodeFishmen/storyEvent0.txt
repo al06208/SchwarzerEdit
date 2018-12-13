@@ -1,0 +1,467 @@
+#CHARA_MUGSHOT  chara_elena\Mesh49
+##TOP_WINDOW
+#TEXT_BEGIN
+Hey, Blade...
+#TEXT_END
+#STAGE_BACKGROUND Skyscraper\\
+#PAUSE 600
+#BGM
+atmosphere.ogg
+50.0
+1.0
+#END
+
+#BACKGROUND cg\cg1.jpg
+#CHARA_MUGSHOT chara_elena\Mesh49
+#TEXT_BEGIN
+...what do you think of my new look? Do you like it?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I think it suits you, but not too much.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT  chara_elena\Mesh49
+#TEXT_BEGIN
+Why do you think it doesn't suit me?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg1.jpg 200
+#BACKGROUND cg\cg2a.jpg
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+You have always been a somewhat focused fish, with clear ideals and a strong will.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Dressed like this, you look more like a punk teenager in her rebellious years, Delfina.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT  chara_elena\Mesh49
+#TEXT_BEGIN
+I'd... like to appear more human, Blade.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Why would you need that? We are not humans. We don't need to mingle with them.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg2a.jpg 200
+#BACKGROUND cg\cg2b.jpg
+#CHARA_MUGSHOT  chara_elena\Mesh49
+#TEXT_BEGIN
+Well... I would like to. But every time, no matter what, I'm reminded that I can't.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Care to make an example?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT  chara_elena\Mesh49
+#TEXT_BEGIN
+Today I was walking in the city centre. As usual, everybody was looking at me like they have seen a ghost or an alien.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT  chara_elena\Mesh49
+#TEXT_BEGIN
+I was not caring about anything... but then I saw IT!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\white.jpg 200
+#BACKGROUND cg\cg0b.jpg
+#CHARA_MUGSHOT chara_elena\Mesh49
+#TEXT_BEGIN
+A beautiful cosplay outfit for "Erin le Chat", one of my favourite characters ever.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_elena\Mesh49
+#TEXT_BEGIN
+It was on sale, and I had money out of my latest bounty. I was so excited, Blade! I would have liked to buy it...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_elena\Mesh49
+#TEXT_BEGIN
+...then, I realized that I could not wear it... because I'm not a human.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg0b.jpg 200
+#BACKGROUND cg\cg2a.jpg
+#CHARA_MUGSHOT chara_elena\Mesh49
+#TEXT_BEGIN
+I have a fin on the back fo my head, a fin on my back, hell, even a fin as an arm! Such an outfit on a monster like me would...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+No need for that. I find you pretty the way you are.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg2a.jpg 200
+#BACKGROUND cg\cg2b.jpg
+#CHARA_MUGSHOT chara_elena\Mesh49
+#TEXT_BEGIN
+Thanks, Blade... but I don't know anymore if it is enough for me.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I can't decide this for you, Delfina.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\white.jpg 200
+#BACKGROUND cg\cg2c.jpg
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+...this was what he said. "I can't decide this for you."
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Then, you went to Euterpe and defected, right?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Awright, awright. I ain't askin' more. After all, I owe ya one: that tunnel ya found saved us from the freakin' metalhead.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Yeah, fortunately he lost our tracks. In any case, I can't still believe that Blade made us meet, risking his life for us.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Speakin' of which... I didn't kno' you were so close to Blade, at that time. Was he like a big bro for ya?
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg2c.jpg 200
+#BACKGROUND cg\cg2d.jpg
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+...we were quite a lot more "intimate", if you get what I mean.
+#TEXT_END
+#PAUSE 600
+#END
+
+#BACKGROUND cg\cg2e.jpg
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Bloody moonfish! Are ya tellin' me that Blade was having an affair ALSO with ya?!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_renzo\arcade\sounds\glass.ogg
+100
+1.0
+#BGM
+comic.ogg
+40.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+W... why did you say... "also"?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Because... well, *I* was having an affair with him!
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg2f.jpg
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+WHAAAAAT?!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_renzo\arcade\sounds\glass.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+ARE YOU SERIOUS?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Dead serious!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+So, he is... he was... you were...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+That bastard! I... I will rip the bones out of his body and sell him as sliced sushi at the local fish market...
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg2e.jpg
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+W... wait a second. What does qualify as an "affair" to you? I mean, maybe we are talking about something different? You and Blade surely weren't... ehm, together, amirite?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+*cough* *cough*
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg2g.jpg
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+WHAAAAAT?!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_renzo\arcade\sounds\glass.ogg
+100
+1.0
+#BGM
+..\\..\\..\\..\\stages\\Skyscraper\\music\\ResonantHopesIgnitedWills.ogg
+0.0
+0.8
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+*awkward silence*
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+*even more awkward silence*
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+(I... I really *can't*/*don't* want to picture that in my mind!)
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+(Bloody moonfish! I didn't think Blade was so close to her to invite her gettin' wasted with him in a pub! I thought he was just doin' it with me...)
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+(In any case, I should change topic before she has a stroke!)
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+B... back to business, shall we? We still have to escape from Go!
+#TEXT_END
+#END
+
+#TRANSITION cg\cg2g.jpg 200
+#BACKGROUND cg\cg3.jpg
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+R... right. What's the plan?
+#TEXT_END
+#BGM
+..\\..\\..\\..\\stages\\Skyscraper\\music\\ResonantHopesIgnitedWills.ogg
+60.0
+0.8
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+I have a friend at "Le Coq Heureux" who can help us get to St.~ Patrick unnoticed. We'll head there in a couple hours, awright?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+And once there? Are you planning to escape for the rest of your life? Well, I'm not.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Listen, one thing at a time, okay? Go has no power in St.~ Patrick. Once there, we'll have much more time to devise a better plan.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+... not that I have other choices.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Good. Now, are ya thirsty? I gotta go take some soda to drink at the vending machine downstairs. Would ya like one as well?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+No, thanks. I'm good like this.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Be careful not to fall before I'm back, then.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\cg3.jpg 200
+#STAGE_BACKGROUND Skyscraper
+#NO_BACKGROUND
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+... he's far enough.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\\..\\..\\..\\stages\\Skyscraper\\music\\ResonantHopesIgnitedWills.ogg
+0.0
+0.8
+#END
+
+#AUTO
+#PAUSE 600
+#TOP_WINDOW
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#SOUND
+beep1.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+It's me. Yes, I KNOW I shouldn't have called you, but...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+No, NOT everything is fine. Later you have to explain me... like, a lot of stuff, okay?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+By the way, your plan worked, I've found him. So, how should I proceed for the "delivery"?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Okay, perfect. I will keep you up-to-date.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 600
+#TOP_WINDOW
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#SOUND
+beep1.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+(Sorry, Shaz. I don't want to run away for the rest of my life.)
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+(I'm sure you will understand...)
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#PAUSE 400
+#NO_BACKGROUND
+#END

@@ -1,0 +1,104 @@
+#BACKGROUND cg\cg9a.jpg
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+50.0
+1.0
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+Interesting...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+That "tide" that Donner feared so much.. mixed me up.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+But Aylin is still there. I can hear her voice, in the back of my mind.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+It's so awesome! It's the first time ever that this happens!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+Hello, Aylin, can you hear me? If so, just relax, please!
+#TEXT_END
+#END
+
+#TRANSITION cg\cg9a.jpg 300
+#BACKGROUND cg\cg9b.jpg
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+Take a backseat and watch, while I'm driving you out of harm's way.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+I'll treat your body... as if it were mine.
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#AUTO
+#BACKGROUND cg\cg10.jpg
+#TRANSITION cg\cg9b.jpg 300
+#NO_BACKGROUND
+#PAUSE 600
+#SOUND
+haemo.ogg
+100.0
+1.5
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+Noctiphages?! Here?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+... they are probably just entities recorded by this place. There's NO WAY they are the real ones!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#TOP_WINDOW
+#TEXT_BEGIN
+#TEXT_END
+#SOUND
+haemo.ogg
+100.0
+1.5
+#CLOSE_WINDOW
+#PAUSE 400
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+Well, I guess I will find it out soon enough!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+

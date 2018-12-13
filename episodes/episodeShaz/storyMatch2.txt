@@ -1,0 +1,21 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+That's what I mean with "taking a train on the fly"!
+#OPPONENT_WIN_QUOTE
+>Oh, yes! That was sooo awesome!
+#PLAYER_INTRO_QUOTE
+I hope you've learnt how to fly!
+#OPPONENT_INTRO_QUOTE
+>Not yet, but I can list all the reasons why you suck.
+#OPPONENT_LIFE_MULTIPLIER 1.5
+#PLAYER_LIFE_MULTIPLIER 1.2
+#OPPONENT_R_DAMAGE_MULTIPLIER 0.0
+#OPPONENT_R_B_DAMAGE_MULTIPLIER 0.0
+#OPPONENT chara_krave
+#PLAYER chara_shark
+#AI_LEVEL 6
+#STAGE RunawayTrain
+#TIMER 45
+#PLAYER_OUTFIT_ID 0
+#OPPONENT_OUTFIT_ID 1
+#WIN_CONDITION Ring_Out

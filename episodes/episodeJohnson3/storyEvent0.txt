@@ -1,0 +1,236 @@
+#AUTO
+#BACKGROUND cg\cg1a.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#BGM
+night.ogg
+100.0
+1.0
+#PAUSE 0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Do you have any idea of what that thing could be, Miss Husler?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+No idea, Johnson. Or should I call you "Jackson"?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+...we will sort this out later, okay?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+It looks like a sort of... portal? I can see something from the other side...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg2a.jpg
+#TRANSITION cg\cg1a.jpg 300
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Do you think he used it to escape?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+"Jumping from wall to wall as a shadow" my ass. That's how that freak survived the Disaster! He... took a shortcut!
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg2b.jpg
+#TRANSITION cg\cg2a.jpg 300
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+So, he could have as well lied on knowing my true name...
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg2c.jpg
+#TRANSITION cg\cg2b.jpg 300
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Now, what do we do, Johnson? That... thing is creeping the Hell out of me.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+I don't think I want to try out crossing it.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I... don't know. I want to find him again, true, but...
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg2d.jpg
+#TRANSITION cg\cg2c.jpg 300
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Oh, two more visitors! This place is getting crowded!
+#TEXT_END
+#BGM
+night.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+What the heck?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Please, don't be scared. I bear no ill will.
+#TEXT_END
+#BGM
+..\..\..\..\stages\Algol\music\invasion.ogg
+40.0
+0.5
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+I was just curious to watch the story unfolding.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Old rivals reunited, sparks of forgotten memories, the past that bites back! Man, THAT was entertaining!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+...and you would be?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+A chrysanthemum by any other name is still a chrysanthemum.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Wasn't it a rose?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Careful, Miss! Speaking of roses in Northern Algol can be dangerous. He could become upset, as he's ALWAYS hated roses.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+He?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+But Rosenmaester, obviously! The king and ruler of this beautiful dead garden!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Oh, sure.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\cg2d.jpg 200
+#BACKGROUND cg\cg1a.jpg 
+#NO_BACKGROUND
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I acknowledge I've become a magnet for weirdos. Seriously, what did go wrong in the first place?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+The way you dress, maybe?
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\cg1a.jpg 200
+#BACKGROUND cg\cg2d.jpg 
+#NO_BACKGROUND
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+You wouldn't ignore me if I told you I can guide you through the Shadow Gallery, right?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+You... what?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+You know where this... portal leads?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Obviously, but I'm not sure I can tell you.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Enough with this useless banter. If you REALLY know something, I will squeeze it out of you - with my methods.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+You are welcome to try it out, Miss Husler. But the result could be a suprise even for you.
+#TEXT_END
+#END

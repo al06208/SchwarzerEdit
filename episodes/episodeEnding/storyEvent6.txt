@@ -1,0 +1,755 @@
+#AUTO
+#BACKGROUND cg\cg6b.jpg
+#NO_BACKGROUND
+#NO_BUFFER_TIME
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 25
+#BGM
+music\arkaneis_theme.ogg
+25.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+*pant* that bastard is quite resilient.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+*pant* definitely.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+It was enough!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg6b.jpg 200
+#BACKGROUND cg\indomita\cgi1.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Move away! NOW!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\indomita\cgi2.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+0.5
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Can you feel it, Arkaneis?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\indomita\cgi3.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+0.7
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\indomita\cgi4.jpg
+#NO_BACKGROUND
+#PAUSE 500
+#TEXT_BEGIN
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+0.6
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\indomita\cgi5.jpg
+#NO_BACKGROUND
+#PAUSE 800
+#TEXT_BEGIN
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+0.5
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+THIS IS WHERE YOUR STORY ENDS!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\indomita\cgi6.jpg
+#TRANSITION cg\white.jpg 100
+#NO_BACKGROUND
+#PAUSE 400
+#TEXT_BEGIN
+#TEXT_END
+#SOUND
+explosion.ogg
+40
+0.8
+#END
+
+#AUTO
+#BACKGROUND cg\indomita\cgi6b.jpg
+#NO_BACKGROUND
+#PAUSE 100
+#TEXT_BEGIN
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\indomita\cgi6c.jpg
+#TRANSITION cg\white.jpg 100
+#NO_BACKGROUND
+#PAUSE 500
+#TEXT_BEGIN
+#TEXT_END
+#SOUND
+explosion.ogg
+40
+0.8
+#END
+
+#AUTO
+#BACKGROUND cg\indomita\cgi7.jpg
+#NO_BACKGROUND
+#PAUSE 100
+#TEXT_BEGIN
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\indomita\cgi8.jpg
+#TRANSITION cg\white.jpg 100
+#NO_BACKGROUND
+#PAUSE 500
+#TEXT_BEGIN
+#TEXT_END
+#SOUND
+explosion.ogg
+40
+0.8
+#END
+
+#AUTO
+#BACKGROUND cg\indomita\cgi9.jpg
+#TRANSITION cg\white.jpg 300
+#NO_BACKGROUND
+#PAUSE 1500
+#TEXT_BEGIN
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+Wait, what...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\indomita\cgi10.jpg
+#TRANSITION cg\white.jpg 300
+#NO_BACKGROUND
+#PAUSE 1500
+#TEXT_BEGIN
+#TEXT_END
+#SOUND
+explosion.ogg
+100
+0.3
+#END
+
+#BACKGROUND cg\indomita\cgi11.jpg
+#TRANSITION cg\indomita\cgi10.jpg 2000
+#NO_BACKGROUND
+#AUTO
+#TEXT_BEGIN
+AAAAAAAAAAAAH!
+#TEXT_END
+#PAUSE 2000
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\indomita\cgi12.jpg
+#TRANSITION cg\white.jpg 300
+#NO_BACKGROUND
+#PAUSE 5000
+#TEXT_BEGIN
+#TEXT_END
+#SOUND
+explosion.ogg
+40
+1.0
+#BGM
+music\arkaneis_theme.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Farewell, old man.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+This world doesn't need you anymore.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg7a.jpg
+#TRANSITION cg\indomita\cgi12.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+0.0
+1.0
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Donner, you did it!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+You... you saved us all!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Don't be so fast! We must check for the corpse!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+Nobody could have survived that...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+We don't have the luxury to count on this! Remember that that... thing down there is not human! Not anymore!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg7a.jpg
+#TRANSITION cg\cg7b.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+D... Donner?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I have overdone it a bit.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I had to be sure to finish him off.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg7a.jpg
+#TRANSITION cg\cg7b.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Donner! You are...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Don't worry for me, Kiyoko.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+25.0
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I did what I had to do. I have redeemed myself for good.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg7a.jpg
+#TRANSITION cg\cg7b.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+This is... what is called... going out with a bang, right?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Don't make me cry, Red, you bastard!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Fuck you, Ange. It's me who's disappearing, not you!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Besides, I hope there's a paradise. With booze and weed. Otherwise, it will be damn boring, in the afterlife.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+*hmmpf*
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+That's something Red could have said.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Right, huh?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Thanks, Red. I wish you a pleasant journey.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Without you talking, it will surely be. Say "hi" to the others for me. And tell Roger that I'm sorry for smashing his glasses, but I couldn't have hit him in the face otherwise.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+I'll do that.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg7a.jpg
+#TRANSITION cg\cg7b.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Kiyoko... Kaya...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Travel the world. Live your life. Make new experiences.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Now, you are free. You deserve this.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+D... don't leave us, please!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+It's not up to me. Besides...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg7c.jpg
+#TRANSITION cg\white.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+0.0
+1.0
+#SOUND
+explosion.ogg
+40
+1.5
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg7d.jpg
+#TRANSITION cg\white.jpg 600
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#SOUND
+explosion.ogg
+40
+0.8
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+ANGE!
+#TEXT_END
+#BGM
+night.ogg
+100.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Vermins.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Revolting, useless creatures.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg8a.jpg
+#TRANSITION cg\white.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND
+explosion.ogg
+40
+1.5
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Nothing you do...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg8b.jpg
+#TRANSITION cg\white.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND
+explosion.ogg
+40
+1.5
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Nothing you think...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg8c.jpg
+#TRANSITION cg\white.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#SOUND
+explosion.ogg
+40
+1.5
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+...has any importance, whatsoever.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg10a.jpg
+#TRANSITION cg\white.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Resign yourselves to your fate... and accept the truth.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg10b.jpg
+#TRANSITION cg\cg10a.jpg 800
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 1200
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+A simple, yet uncontestable truth.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg10c.jpg
+#TRANSITION cg\cg10b.jpg 800
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 1200
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+You can't change anything. Your choices... do not matter.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\arkanaIntro\27.jpg
+#TRANSITION cg\cg10c.jpg 800
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 1200
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\arkanaIntro\red27.jpg 1500
+#BACKGROUND cg\arkanaIntro\27.jpg
+#NO_BACKGROUND
+#SOUND
+sounds\flash.ogg
+100.0
+0.5
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 1200
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+You are completely powerless.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 1200
+#END

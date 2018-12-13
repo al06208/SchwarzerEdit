@@ -1,0 +1,346 @@
+#BACKGROUND cg\cg11.jpg
+#BGM
+night.ogg
+100.0
+1.0
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+More!
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg11b.jpg 200
+#BACKGROUND cg\cg11.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 300
+#SOUND 
+splash.ogg
+100
+2.0
+#END
+
+#AUTO
+#TRANSITION cg\cg11b.jpg 200
+#BACKGROUND cg\cg11.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 300
+#SOUND 
+splash.ogg
+100
+2.0
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+More! More! More!
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg11b.jpg 200
+#BACKGROUND cg\cg11.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 300
+#SOUND 
+splash.ogg
+100
+2.0
+#END
+
+#AUTO
+#TRANSITION cg\cg11b.jpg 200
+#BACKGROUND cg\cg11.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 300
+#SOUND 
+splash.ogg
+100
+2.0
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+The Night needs more blood!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg11b.jpg 200
+#BACKGROUND cg\cg11.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 300
+#SOUND 
+splash.ogg
+100
+2.0
+#END
+
+#AUTO
+#TRANSITION cg\cg11b.jpg 200
+#BACKGROUND cg\cg11.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 300
+#SOUND 
+splash.ogg
+100
+2.0
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+Oh, such a sweet vision! It's so enticing, so vivid!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_short.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+My adrenaline is skyrocketing! I've never felt so high! These monsters were a blessing, A BLESSING!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+Oh, my Night, my sweet Night! Oh, my...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg11b.jpg 200
+#BACKGROUND cg\cg11.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 300
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+1.5
+#BGM
+night.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+W... wait...
+#TEXT_END
+#END
+
+#TRANSITION cg\cg11.jpg 300
+#BACKGROUND cg\cg9a2.jpg
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+W... what am I even doing?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+I... I was raging at those corpses?! But... but why?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+Gosh, such an useless question. It's... it's obvious. My mind is degenerating even faster than I thought...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+No, I... I don't want to disappear! I don't! I don't want to go mad!
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+Oh, really? Isn't it a bit late for crying over spilled milk?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg9a2.jpg 200
+#BACKGROUND cg\cg12a.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 300
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_amy\Mesh2
+#TEXT_BEGIN
+Weren't it for your much too frequent dives into this reality for your own leisure, your mind would have not been fragmented so much.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+You... you can't be Aylin! W... who are you?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy\Mesh2
+#TEXT_BEGIN
+Someone you left behind. But I am not alone, sweet Lejl...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg12a.jpg 200
+#BACKGROUND cg\cg12b.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh4
+#TEXT_BEGIN
+That's correct, Lejl. You left behind a lot of us.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+... a horrible mockery of Aylin's body?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh4
+#TEXT_BEGIN
+A mockery? Oh, perish the thought! I am but a trace of your continuos trips into this godforsaken place.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg12b.jpg 200
+#BACKGROUND cg\cg12a.jpg
+#CHARA_MUGSHOT chara_amy\Mesh2
+#TEXT_BEGIN
+Each and every time you reach for this layer of unreality, you lose a part of yourself...
+#TEXT_END
+#END
+
+#TRANSITION cg\cg12a.jpg 200
+#BACKGROUND cg\cg12b.jpg
+#CHARA_MUGSHOT chara_night\Mesh4
+#TEXT_BEGIN
+...and every time you lose something, THAT something is reborn here, as a record of your passage.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg12b.jpg 200
+#BACKGROUND cg\cg12a.jpg
+#CHARA_MUGSHOT chara_amy\Mesh2
+#TEXT_BEGIN
+There are sooo many Amys here. And sooo many Lejls!
+#TEXT_END
+#END
+
+#TRANSITION cg\cg12a.jpg 200
+#BACKGROUND cg\cg12b.jpg
+#CHARA_MUGSHOT chara_night\Mesh4
+#TEXT_BEGIN
+You wouldn't believe how many parts of you died out here.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+You are telling me... that I'm losing myself because... because of this?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh4
+#TEXT_BEGIN
+Bravo, Lejl! Bravo!
+#TEXT_END
+#END
+
+#TRANSITION cg\cg12b.jpg 200
+#BACKGROUND cg\cg12a.jpg
+#CHARA_MUGSHOT chara_amy\Mesh2
+#TEXT_BEGIN
+I am afraid that the degeneration process is almost at its peak. We all witnessed how you treated those beasts. Unsurprisingly, I must add.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+No! S...~ shut up!
+#TEXT_END
+#END
+
+#TRANSITION cg\cg12a.jpg 200
+#BACKGROUND cg\cg12b.jpg
+#CHARA_MUGSHOT chara_night\Mesh4
+#TEXT_BEGIN
+You exposed your true self: a delusional, egoistic, psychopathic maniac.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+S...~ shut up!
+#TEXT_END
+#END
+
+#TRANSITION cg\cg12b.jpg 200
+#BACKGROUND cg\cg12a.jpg
+#CHARA_MUGSHOT chara_amy\Mesh2
+#TEXT_BEGIN
+And that's all that will remain of you, once you lose your mind. An empty shell of what Lejl used to be.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg12a.jpg 200
+#BACKGROUND cg\cg12b.jpg
+#CHARA_MUGSHOT chara_night\Mesh4
+#TEXT_BEGIN
+So, you don't mind if we accelerate the process by tearing your mind apart, right?
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END

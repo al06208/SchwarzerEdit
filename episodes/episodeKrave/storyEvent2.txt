@@ -1,0 +1,165 @@
+#NO_BACKGROUND
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TEXT_BEGIN
+...'kay, almost there...
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TEXT_BEGIN
+...just one turn more...
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\cg1a.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#BGM
+..\..\..\..\stages\Algol\music\invasion.ogg
+40.0
+0.5
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND
+beep1.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Aaaand there it goes!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+*Phew* It took me much more than expected. I was going to miss the episode of Eliphya...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg1a.jpg 300
+#BACKGROUND cg\cg1a_dim.jpg
+#NO_BACKGROUND
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TEXT_BEGIN
+>The first thing I remember, is that strange face of his. The sky was someway alien, as it was the place.
+>I wasn't sure of what was happening.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TEXT_BEGIN
+>One minute before, I was in Euterpe, fighting for my life against Der Wolf.
+>One minute later, I was facing some creep who would have greatly benefited from reconstructive surgery.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg1a_dim.jpg 300
+#BACKGROUND cg\cg1a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+So, can you speak like your other friend there?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>Warning. Another intruder detected, activating combat mode.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg1a.jpg 300
+#BACKGROUND cg\cg1b.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#PAUSE 0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Woah, woah! Hold your horses! First, I've been living here for almost three years, so I'm DEFINITELY not an intruder! Secondly, I'm the one who activated you again!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>What the hell happened? This is not Euterpe! This is not the lab!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>Damage assessment: 70% of the systems is malfunctioning. Right leg underfunctional, left arm missing.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>Where is Professor Mayer? Who are you?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+One... thing at a time, 'kay?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg1b.jpg 300
+#BACKGROUND cg\cg1a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+This can come out pretty shocking for you, but you are currently in Northern Algol, on the Irish isle.
+Today is 9th August, 2064... about four months since the Black Lightning disaster.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>I call bullshit on this. Now, would you please take me to the professor? I need some urgent fixes and I'm afraid I haven't got enough humor to appreciate your jokes.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Alright, I'll keep it short: Euterpe doesn't exist anymore. So, most likely this Prof.~ Mayer died there as well.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg1a.jpg 300
+#BACKGROUND cg\cg1b.jpg
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>Pardon me, but even at 30% power I'm more than capable enough of performing well in my hobby...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>That is, ripping off human spines from blatant liars.
+#TEXT_END
+#CLOSE_WINDOW
+#END

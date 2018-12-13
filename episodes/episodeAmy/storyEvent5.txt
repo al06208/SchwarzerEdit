@@ -1,0 +1,162 @@
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+... I've gathered no useful clues. But that's SO strange.
+#TEXT_END
+#STAGE_BACKGROUND TheWalkingNight\
+#PAUSE 600
+#BGM
+..\..\..\..\stages\TheWalkingNight\music\lilith_krogh.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+How can I have NO memories of an entire evening? I... I don't even remember being gone to sleep.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TOP_WINDOW
+#TEXT_BEGIN
+Hey, Miss. Is everything fine? You look worried. Maybe you are in troubles.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Who...
+#TEXT_END
+#BGM
+..\..\..\..\stages\TheWalkingNight\music\lilith_krogh.ogg
+0.0
+1.0
+#END
+
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\cgWN1mb.png
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+*gasp*
+#TEXT_END
+#BGM
+tension.ogg
+50.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Or, well, I would drop the "maybe". Don't move and nobody will get hurt.
+#TEXT_END
+#END
+
+#TRANSITION cg\cgWN1mb.png 300
+#BACKGROUND cg\cgWN2mb.png
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+M... mutants?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Why? What... what do you want from me? I... I don't think I've ever met you!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+That's not an issue, Miss. We know why we need you. That's aaaall that matters.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Lobster, immobilize her.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Pardon, sir. You are convinced that I will not oppose your attempts to restrain me. But, precisely, what makes you think so?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+We are two. And I have a gun. I think that's more than eno...
+#TEXT_END
+#END
+
+
+#TRANSITION cg\cgWN2mb.png 300
+#BACKGROUND cg\cgWN3c.png
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+EYAAAAAH!
+#TEXT_END
+#SOUND
+trigger.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+WHADDAHECK?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALAGASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\flight.ogg
+100
+1.0
+#END
+
+#TRANSITION cg\cgWN3c.png 300
+#BACKGROUND cg\cgWN4.png
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+You little bastard!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I don't want to hurt you, so please, desist from your purpose. I swear that I will not call the police, if you leave at once...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGA?
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\flight.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+No! I failed too many times to give up now! I will become food for zooplankton, if Blade finds this out!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Let's do it, lobster. We have to take her to Go!
+#TEXT_END
+#END

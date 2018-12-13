@@ -1,0 +1,215 @@
+#AUTO
+#STAGE_BACKGROUND neonlight
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 600
+#BGM
+..\..\..\..\stages\neonlight\music\Emergency.ogg
+60.0
+1
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+*sgrunt* They are thougher than expected. At this rate, someone will alert the police.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_mono
+#TEXT_BEGIN
+We were hired just to stall them, no need to take unnecessary risks.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Let's scramble, partner!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Mr.~ Aural? Here's Wally Alba. Mission accomplished.
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND
+beep1.ogg
+100
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_mono
+#TEXT_BEGIN
+Let them handle it now.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 200
+#BACKGROUND cg\cg8a.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#TOP_WINDOW
+#PAUSE 700
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+So? What's the situation?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+That freakin' raptor blew up two tires. Even with the spare one, we're pretty much stuck here.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+(... and I lost a good opportunity to strike Delfina. I've exaggerated, I shouldn't have made them run away.)
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+(Now, I'm on my own.)
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Oh, great! Any other bad news?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg8a.jpg 300
+#BACKGROUND cg\cg8b.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#TOP_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Don't be so negative, would ya? Maybe I can still fix it.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+It's just a matter of finding the right tool...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#TRANSITION cg\cg8c.jpg 400
+#BACKGROUND cg\cg8d.jpg
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+100
+1
+#BGM
+..\..\..\..\stages\neonlight\music\Emergency.ogg
+0.0
+1
+#PAUSE 700
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+... and watching my back. Right, Delfina?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+I didn't manage to win your trust, huh?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Ya almost had me. It was that speech 'bout not wantin' to run forever that betrayed you.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Well, that's a pity. I didn't want to incapacitate you, but...
+#TEXT_END
+#END
+
+#TRANSITION cg\cg8d.jpg 300
+#BACKGROUND cg\cg8e.jpg
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Incapacitate me, huh?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+You are making a terrible mistake, Delfina, if you think I'll be an easy prey.
+#TEXT_END
+#BGM
+..\..\..\..\stages\lavaCave\music\fight.ogg
+50.0
+1
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+W... what the...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+The fact that I look like a dumb serial drinker DOES not mean that I don't know what I do.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+I drink to forget this shitty life of mine, deprived of hope and purpose. I drink because I'm a prisoner in this golden cage that I myself have built for me. What a pitiful joke, isn't it?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+But the joke's on you now, because who's speaking is not your friendly, dizzy neighbour Shaz.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+If you want to sell me so badly to Go, you'll have to face Underwater.
+#TEXT_END
+#END

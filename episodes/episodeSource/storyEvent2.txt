@@ -1,0 +1,178 @@
+#TOP_WINDOW
+#BACKGROUND cg\cg1b.jpg
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+This is crazy. Why there?
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+... no way. What day is today?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+The thirteen of April. Tomorrow is the first anniversary of the Black Lightning Disaster.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg1c.jpg
+#TRANSITION cg\cg1b.jpg 300
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Heaven be damned! This means... no, it can't be...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Calm down, you two!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg1b.jpg
+#TRANSITION cg\cg1c.jpg 300
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+I admit it's a tempting hypothesis. The time, the place... all seems to fit.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+But what is the reason?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Something that has to do with the Black Lightning, that's for sure. Something that only Bonzaga and his henchmen could have access to.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+I started connecting the dots only a short time ago, but now I'm pretty sure of one thing...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeRenzo\cg_lite\cg_bonzaga_last2a.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Donner didn't go to the party at the Bonzaga mansion with the sole intent of retrieving Mayer's brain.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+And, no, it wasn't even for revenge against that fat bastard. Nor it was random.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Most likely, he wasn't even the one starting the fire.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeJohnson2\cg\cg_algol4.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Now that you make me think about it... there was something puzzling about how those two referred to me, when we met.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+They were SURE I saw them do... something. Maybe this is it? They killed Bonzaga and set fire to the villa BEFORE Donner arrived?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+That's my point, yes.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeRenzo\cg_lite\cg_bonzaga_last2a.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+So, why was Donner there, in that place, at that time?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Wait a second! If he wanted access to the laboratory...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+That's right, Johnson.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\black.jpg
+#TRANSITION ..\episodeRenzo\cg_lite\cg_bonzaga_last2a.jpg 300
+#PAUSE 500
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+Donner went there to get at least one kitsune.
+#TEXT_END
+#END

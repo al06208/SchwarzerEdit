@@ -1,0 +1,23 @@
+#EPISODE_NAME
+Ride the Lightning
+#DESCRIPTION
+With Donner defeated, the Shadow Gallery seems to 
+receed. However, it's just the calm before the storm.
+The day of the reckoning comes to an end.
+#DESCRIPTION_END
+#EVENT storyEvent0
+#EVENT storyEvent1
+#MATCH storyMatch0
+#EVENT storyEvent2
+#EVENT storyEvent3
+#EVENT storyEvent3c
+#EVENT storyEvent3b
+#EVENT storyEvent4
+#MATCH storyMatch1
+#EVENT storyEvent5
+#MATCH storyMatch2
+#MATCH storyMatch3
+#EVENT storyEvent6
+#EVENT storyEvent7
+#MATCH storyMatch4
+#EVENT storyEvent8

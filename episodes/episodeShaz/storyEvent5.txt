@@ -1,0 +1,229 @@
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+The train is almost empty... I have a carriage for myself.
+#TEXT_END
+#STAGE_BACKGROUND RunawayTrain\\
+#PAUSE 600
+#BGM
+..\\..\\..\\..\\stages\\manten\\music\\donniedrost_Lights.ogg
+35.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+It will still take some minutes. I can try to relax a bit.
+#TEXT_END
+#PAUSE 1200
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(speaker) >Oh, yessss! Here it comes our newwwww contestant!!!
+#TEXT_END
+#BGM
+..\..\..\..\stages\tanker\music\littlelilyswing.ogg
+60.0
+1.0
+#PAUSE 600
+#SOUND
+chime.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+What the...?!
+#TEXT_END
+#PAUSE 1200
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(speaker) >What is your name, you beautiful?
+>Yes, I'm speaking with you, fishface!
+#TEXT_END
+#PAUSE 600
+#SOUND
+chime.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Me?! How...
+#TEXT_END
+#PAUSE 1200
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(speaker) >"Me how"? I thought you were called Shaz Colder!
+>Or Shaz Aliart. Or Gaetano Trasimeno.
+>Actually you used quite a lot of names, huh?
+>Now, the question...
+#TEXT_END
+#PAUSE 600
+#SOUND
+chime.ogg
+100.0
+1.0
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(speaker) >For thirty thousand euro...
+>Who is going to kick your back and take the money?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+A synthetic voice...?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Bloody moonfish! That robot-thing that armless bitch told me about!
+#TEXT_END
+#BGM
+..\..\..\..\stages\RunawayTrain\music\beroza_drive_cut.ogg
+0.0
+1.0
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(speaker) >Right answer! You won a prize!
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#SOUND
+chime.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\\Mesh2\\
+#BACKGROUND cg\clipKrave1a.png
+#TEXT_BEGIN
+>The privilege to be spanked hard by this super-duper-beautiful killing machine!
+#TEXT_END
+#PAUSE 600
+#BGM
+..\..\..\..\stages\RunawayTrain\music\beroza_drive.ogg
+30.0
+1.0
+#END
+
+#BACKGROUND cg\clipKrave1add3b.png
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+In your wildest electric dreams, ya goddamn rustbucket!
+#TEXT_END
+#PAUSE 600
+#END
+
+#BACKGROUND cg\japan.png
+#TEXT_BEGIN
+SHAAKUPANCHI! BAANINGUFISUTOOOOOO!!!!!
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+*BONK*
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#SOUND
+thud.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#BACKGROUND cg\clipKrave1add4.png
+#TEXT_BEGIN
+OUCH!!!
+#TEXT_END
+#PAUSE 600
+#SOUND
+sounds\shaz_pain.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\\Mesh2\\
+#TEXT_BEGIN
+>Excuse me, did you actually broke your hand on purpose? I didn't know you were masochistic, beside being an idiot.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+THAT HURTS!!! THAT FREAKIN'HURTS!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#BACKGROUND cg\clipKrave1add4.png
+#TEXT_BEGIN
+MY POOR DOMINANT HAND!!! I DON'T EVEN HAVE A SPARE ONE!!!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\\Mesh2\\
+#TEXT_BEGIN
+>Kiss my booty-ful shiny butt, baby!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Y... You're made of damn freakin' metal! How am I supposed to hurt you?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\\Mesh2\\
+#BACKGROUND cg\clipKrave1a.png
+#TEXT_BEGIN
+>That's the catch, canned tuna!
+>Resistance is futile, futile, futile!
+>MUDA MUDA MUDA! WRYYYYYYY!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\\Mesh2\\
+##TOP_WINDOW
+#TEXT_BEGIN
+>Hey! Are you already running away?
+>There's only the roof that way, my dear!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+(That's exactly the idea. If I can't hurt you, maybe I can just...)
+#TEXT_END
+#CLOSE_WINDOWS
+#PAUSE 800
+#END
+

@@ -1,0 +1,205 @@
+#BACKGROUND cg\cg5d.jpg
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+B... but... why?!
+#TEXT_END
+#BGM
+..\..\..\..\stages\stadium\music\test.ogg
+80
+1.2
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Just. Stay. Down.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+GAAAK! It hurts! It hurts!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+*sigh*
+#TEXT_END
+#END
+
+#TRANSITION cg\cg5d.jpg 300
+#BACKGROUND cg\cg5e.jpg
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+'kay, Delfina! Good ol' Dkrav'lest has...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Holy squid on a tanker, didn't I say "NO TROUBLES"?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Well, *he* started harassing me. He also tried to French kiss me *without my consent*.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Come on, Renzo! Is it possible that you get bashed by all the freakin' girls you approach?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+First Amy, now her! Come on, gimme a break! Who's gonna pay my bills if you end up in the hospital every freakin' evening?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Gaetano, please! Tell her that my arm doesn't bend that way! Please! PLEASE!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Don't ya worry, pal. I and Del... Elena are leaving. I'm not gonna show up for a while, 'kay?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+In the meanwhile, don't get into troubles bigger than ya, ya goldfish! Can ya promise it?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+I'll... I'll try!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Good. Now, lets-a-go, Elena. We have a loooong night ahead.
+#TEXT_END
+#BGM
+..\..\..\..\stages\stadium\music\test.ogg
+0
+1.2
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+*sigh* affirmative.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\cg5e.jpg 300
+#STAGE_BACKGROUND CoqHeureux
+#NO_BACKGROUND
+#PAUSE 600
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+70.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+... huh, first I have to take a leak. Can you wait for me outside?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Sure. The sooner I get out of this place, the better.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 300
+#TOP_WINDOW
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+... awright, I'm far enough.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 600
+#TOP_WINDOW
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#SOUND
+beep1.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+It's me, pal. Yeah, I kno' that Go could be trackin' ya, but Imma sure ya took some precautions.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Hell, NOT everything is fine. Later you have to explain me... like, a lot of stuff, 'kay?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+By the way, ya saved my skin, pal, I've found her! So, where should I giv'her to ya?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+'kay, then. I'll call ya later.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 600
+#TOP_WINDOW
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#SOUND
+beep1.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+(Sorry, Delfina, but Go's not gonna go easy on me with aaaaall that money missing.)
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+(Plus, I have someway the feeling that I can't trust ya so much... just a gut feeling, though.)
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#PAUSE 400
+#NO_BACKGROUND
+#END

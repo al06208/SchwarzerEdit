@@ -1,0 +1,317 @@
+#STAGE_BACKGROUND coqHeureux
+#TOP_WINDOW
+#TEXT_BEGIN
+(Waiter) Sir? I'm sorry but our club is closed until nine.
+#TEXT_END
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+70.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I'm Commander Sambiong, from Delta Team. The girl with me is one of my soldiers. We would like to speak with Mr.~ Daevka.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(Waiter) Huh? I think I have already met her. Wasn't she here when that dumb sharkman wrecked the club?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Ehm... kinda... maybe?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Whatever, we are not here for leisure. We need to talk to him as soon as reasonably possible and...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+No need to shout, pussycat.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+0.0
+1.0
+#END
+
+#BACKGROUND cg\cgd1.jpg
+#MUGSHOT devil.png
+#TEXT_BEGIN
+I can hear you loud and clear.
+#TEXT_END
+#BGM
+tension.ogg
+60.0
+0.8
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I would like to say it is a pleasure to see your alien skin again, but I'd lie, Dkrav'lest.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Same with me, Earthling. I don't like furries. Especially lions, but this is another story.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+I give you five minutes of my time, not more. Time is money, and I'm already stressed out by the upcoming meeting of the United Nations in Euterpe.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Didn't you resign as ambassador more than fifteen years ago? I thought this was your brother Andrakta's business, now.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+I will organize the catering, okay? World leaders have some pretty interesting "wishes" that my girls and boys could "fulfill".
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+You know what I'm talking about, right?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Yes, it's quite evident. Still, I can't understand why people would sell themselves for such things...
+#TEXT_END
+#END
+
+#TRANSITION cg\cgd1.jpg 300
+#BACKGROUND cg\cgd2.jpg
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Always quick to judge, huh? Your beloved Amy was doing it aaaall the time, by her own volition. She was one of the most requested, before she decided to "make a clear cut with that life".
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+What...?
+#TEXT_END
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+(Ah, ah! I KNEW she was a stripper!)
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+...~ so, you already know everything?
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+There's more than one reason why I'm still alive, even if the army, the Fishface, EXODUS, and a consistent part of the United Kingdom want me six feet under.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Also, I've received a call from General Boost, urging me to call him back if you would put your furry face inside my club.
+#TEXT_END
+#BGM
+tension.ogg
+60.0
+0.8
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+I just laughed it off and closed the call. He has literally no power over me.
+#TEXT_END
+#END
+
+#TRANSITION cg\cgd2.jpg 300
+#BACKGROUND cg\cgd1.jpg
+#MUGSHOT devil.png
+#TEXT_BEGIN
+...and this is why you are here, right? You need my protection.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+No, not I. And not even Cyphr. We are here for Amy. We need a place to hide her, until we get the situation under control.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+For Amy...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I don't like you, Dkrav'lest. Heck, most likely everyone, except your employees, thinks that you are just a stingy, old bastard. But Amy respected you, because you trusted her.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#TRANSITION cg\cgd1.jpg 300
+#BACKGROUND cg\cgd2.jpg
+#MUGSHOT devil.png
+#TEXT_BEGIN
+You know... I have an idea.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+As I told you, I'm providing the catering for a critical meeting of the UN, about the construction of new distortion power plants and what to do with the old ones.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+I have received pressures from EXODUS to make it such that nobody can consider casting their vote against our curent proposition...
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Therefore I had to promise vice-ambassador Dinox that I would have sent more "qualified" personnel. One of my airplanes will depart this night, to ship some... additional material, if you know what I mean.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Nobody would look for you outside the U.K., right? Besides, I'm sure that Boost has no official document to restrain Amy. He doesn't want to keep a paper trail for interesting specimens, otherwise the government could smell the stink.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Fair enough. How can we reach the airport?
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Leave it to me, 'kay? I just have to make a couple calls.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Thanks, I guess.
+#TEXT_END
+#END
+
+#TRANSITION cg\cgd2.jpg 300
+#BACKGROUND cg\cgd1.jpg
+#MUGSHOT devil.png
+#TEXT_BEGIN
+I'm only doing it for Amy, 'kay? If it were just for you, I'd have already sent your furry ass down the river.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+...~ while the girl there would have made a nice sideshow for my club. I mean, I assume you are able to strike a lot of weird poses with those legs of yours and be quite... "versatile".
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+N... nein! Not in a million years!
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Never say never, sweetie. If you change your mind... and you *could* change your mind, just come back to me once everything is over.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+First, I must attend some OTHER important business. In the meanwhile, take some clothes from the dressing room and cover that poor girl. I can't believe you left her naked for the whole trip.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cgd1.jpg 300
+#STAGE_BACKGROUND coqHeureux
+#TOP_WINDOW
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+70.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+S... such a creepy bastard...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+A creepy bastard who has the power to save our lives, apparently.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+This doesn't change the fact that he IS a creepy bastard.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Let's hope that Amy wakes up soon...
+#TEXT_END
+#CLOSE_ALL_WINDOWS
+#END

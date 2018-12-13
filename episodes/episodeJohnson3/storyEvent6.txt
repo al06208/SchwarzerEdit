@@ -1,0 +1,581 @@
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 200
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+We kept on walking for hours, walking through that apocalyptic vision of a world we were crossing.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Groups of fresh footprints were our primary trail, growing fainter the deeper we adventured ourselves inside this grove, this neverchanging mass of redness.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Sand, crimson sand everywhere, beneath an alien crimson sky, surrounded by alien tentacles.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Here and there, a oil-like fluid was flowing, gathering into small puddles of the same thick, black substance.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Small, bizarre insects were flying around in unnatural, irregular pattern, broken straight line with sudden sharp turns.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I have never seen Hell, but this place comes pretty close to my depiction of it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Then, after what felt days of traveling, our guide stopped.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG1.jpg
+#TRANSITION cg\black.jpg 600
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+50.0
+1.0
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Already tired, Johnson?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Just lost. I can't figure out how do you manage to orient yourself in this environment.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+It's not that hard, once you understand the rules.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+In any case, that's it. We're almost there.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+...~ what makes you think so?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+You can see that, can't you?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG7.jpg
+#TRANSITION cg\cgSG1.jpg 300
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Another portal?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+That's right. And the footprints end around here. This has to be the exit.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+What if it isn't?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Well, then I'd be mistaken. Isn't it exciting?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>I can't find any biological traces. The trail ends here.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+I'm sure this portal will lead you where you are supposed to go. I have a strong feeling about it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG8.jpg
+#TRANSITION cg\cgSG7.jpg 300
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+So, what do we do, Johnson? Shall we trust him?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I have come too far to give up. A little risk spices up life.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+When it doesn't end it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+If that gentleman wanted to kill us or leave us for dead, he would have already done it long ago.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+This place is so alien and dangerous he literally had one million ways to dispose of us. Yet, he guided us until here, safe.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Is it the right time to tell you that I'm scared?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Definitely not, but, well, I'm scared too. Who wouldn't be?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG7.jpg
+#TRANSITION cg\cgSG8.jpg 300
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+I see. Fear of the unknown, huh?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+What are your alternatives?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG8.jpg
+#TRANSITION cg\cgSG7.jpg 300
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+That's the point. We have NO alternatives.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Then... let's do this, once again. Anything you want to say, before we cross the gate?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Nothing special. You?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Thanks for having helped me reach this point. I would have never dared to do it alone.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+... you are welcome, I guess.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND_PICTURE
+#TRANSITION cg\cgSG8.jpg 300
+#NO_BACKGROUND
+#PAUSE 500
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I close my eyes and, hesitantly, take the first step towards the portal. This time, I'll be the first one.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I haven't got any regrets. This could be the last act of my story. Yet... I feel relieved.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I'm gonna end this, one way or another. This is what I think, while I once again dare to face the unknown.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#AUTO
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 3000
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+100
+0.3
+#BGM
+night.ogg
+0.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\cgSG10.jpg
+#TRANSITION cg\black.jpg 800
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 1000
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+What the heck?! This place...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Nonsense! We are back in New Langdon?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+The place you two belong to. Back. To square. One.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cgSG11.jpg
+#TRANSITION cg\cgSG10.jpg 300
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+You one-eyed bastard! We trusted you!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Johnson! The portal! The portal is...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#AUTO
+#BACKGROUND cg\cgSG11b.jpg
+#TRANSITION cg\cgSG11.jpg 800
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 2000
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+100
+0.3
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+NO!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\black.jpg
+#TRANSITION cg\cgSG11b.jpg 800
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 1000
+#BGM
+night.ogg
+0.0
+1.0
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+NO! NO! NOOOO!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#AUTO
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 3000
+1.0
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\cgSG9.jpg
+#TRANSITION cg\black.jpg 800
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 1000
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+50.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>I don't understand. Wasn't it the right exit?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+The last tide wiped the footprints. I just used this to get rid of them.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>I fail to follow your logic.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+The point where hope turns to despair! The last hope spot! That is a truly marvellous occurrence to witness!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Watching Johnson's horrified expression was the pinnacle of the performance! How could I deprive myself of such a show?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Besides, they are not worthy to find Donner. They can't understand his secret. But *I* can.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Now, let's keep going on. I don't know how far we will need to walk to reach him.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+You seem troubled, my friend.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>You are outside all my behavioural schematics.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+I'm outside much more than your schematics, my friend. I see... I feel I'm gonna grasp the one truth, very, very soon!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\black.jpg
+#TRANSITION cg\cgSG9.jpg 300
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+...~ and I can't wait to watch the drama unfolding.
+#TEXT_END
+#CLOSE_WINDOW
+#END

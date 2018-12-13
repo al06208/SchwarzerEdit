@@ -1,0 +1,216 @@
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+I refuse to watch her fall. I'm not strong enough to see a human being dying.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+I don't hear any scream, either. It's like time has stopped.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+When I finally decide to open my eyes...
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+...I see nothing. Nothing that makes the tiniest amount of sense, at least.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#STAGE_BACKGROUND neonlight\
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Sven? Have you tracked the target?
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#BGM
+..\..\..\..\stages\neonlight\music\Emergency.ogg
+40.0
+1
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(pilot) Negative, sir! I can't seem to find her anywhere.
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Is that... what's left of an ambulance?
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(pilot) Affirmative. It looks like that was her primary target.
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I'm going down using the emergency ladder. Keep the sensors up, I don't want any bad surprises.
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(pilot) Copy that!
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+... damn...
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(pilot) What's down there?
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Three dismembered corpses, in a pool of blood. And... and...
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cgN4d.png
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Oh my God, she's still alive! Sven! I found a girl, she's breathing!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Quick, land on the highway! There's still some chances to save her!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(pilot) Copy that!
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+(girl) ...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Hey! Can you hear me? Please, answer something, anything!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+(girl) Mom...? Dad...? I... I'm not a... a..
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+(She passed out...)
+#TEXT_END
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+(pilot) I'm ready sir.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Good. Let's go!
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TRANSITION cg\cgN4d.png 300
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+We didn't find the assassin. She managed to escape, unfortunately.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+But, at least, we saved a life. And that's enough for me.
+#TEXT_END
+#END

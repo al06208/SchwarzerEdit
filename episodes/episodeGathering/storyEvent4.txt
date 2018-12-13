@@ -1,0 +1,124 @@
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg4a.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\Algol\music\invasion.ogg
+40.0
+0.5
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Interesting. The breadcrumbs took us right where everything began...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>Euterpe.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Exactly, my friend. Donner must have headed for the epicenter of the disaster.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg4b.jpg
+#TRANSITION cg\cg4a.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>I can't find a logical reason behind this decision.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Me neither, but logic is not everything, isn't it?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Especially, in this bad parody of a world we are "living" in.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>I can't understand your statement.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg4a.jpg
+#TRANSITION cg\cg4b.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+No reasons to get upset, my friend. It's well beyond anything any human or machine can grasp. You are excused for your ignorance.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+By the way... wouldn't it be interesting, if Sambiong showed up, here and now? A wonderful coincidence, isn't it?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>Too much of a coincidence.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+No, Graf. Just unlikely enough to be likely.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Now, let's proceed, without further ado. The Shadow Gallery awaits us... once more.
+#TEXT_END
+#CLOSE_WINDOW
+#END

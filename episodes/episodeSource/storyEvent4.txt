@@ -1,0 +1,156 @@
+#TOP_WINDOW
+#BACKGROUND cg\cg1b.jpg
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Okay, okay! Time out! This has an obvious flaw!
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Why would Donner need those hysterical kitsune? Couldn't he just teleport at will and break everything?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+That guy can shot goddamn lightnings from his hands! No electronic door would resist him!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Maybe the Shadow Gallery is someway limited, I guess?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+This would explain why we didn't find many more portals. Probably, it can't be used as freely as we thought.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg1c.jpg
+#TRANSITION cg\cg1b.jpg 300
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Okay, but why not assaulting the facility, then? Should I remind you of his power?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeJohnson2\cg\cg_algol7.jpg
+#NO_BACKGROUND
+#PAUSE 700
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+He literally wiped the floor with us!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg1c.jpg
+#TRANSITION cg\white.jpg 300
+#NO_BACKGROUND
+#PAUSE 700
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Violence and brute force can't solve everything.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Some modern doors would just end up jammed, if hit with such a discharge... and he would have sealed himself there. End of the story.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Not the smartest idea, I guess.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg1b.jpg
+#TRANSITION cg\cg1c.jpg 300
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Alright, I'll concede that much.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+However, this explains the "how" and "why", but not the "what".
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Well, I think his goal is pretty clear, if you ask me.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Honestly, I still can't see it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Johnson...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\black.jpg
+#TRANSITION cg\cg1b.jpg 300
+#PAUSE 500
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+Have you watched the news, recently?
+#TEXT_END
+#END

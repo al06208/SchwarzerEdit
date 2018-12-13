@@ -1,0 +1,615 @@
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg1.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+30.0
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+It appears we were not the only ones trying to stop that monster, Miss Husler.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg1.jpg 300
+#BACKGROUND cg\cg1b.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Indeed. I'm kinda surprised to see so many people here... but, say, it's just one of this strange "coincidences" we experienced recently, isn't it?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\Mesh3
+#TEXT_BEGIN
+Coincidence or not, we have probably won.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\Mesh3
+#TEXT_BEGIN
+The distortion has receded... and my memories have gone back to the right timeline.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg1b.jpg 300
+#BACKGROUND cg\cg1.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+Ange! Mein Gott, what happened to you? You look like you've been hit by a truck, or?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\Mesh3
+#TEXT_BEGIN
+Well, sort of. We can say that Red was still good at fighting. Maybe, even too good.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\Mesh3
+#TEXT_BEGIN
+But also Sambiong doesn't look too okay. Everything fine?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg1.jpg 300
+#BACKGROUND cg\cg1c.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+I'm just tired, Skallen. It was... emotionally draining.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cgTigerArcade.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+I haven't managed... to stop him, sorry. I've left that burden on you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg1c.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+It's okay, sir! Don't worry too much! Now, it's all over!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+Have... have you seen Amy, Cyphr? She was with me, until twenty minutes ago, but then she... just tried to look for Donner.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+I'm sure she's safe, sir. After all, I've killed that bastard for good.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg1c.jpg 300
+#BACKGROUND cg\cg1b.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Wait. *I* have killed him.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+0.0
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\donnerDefeatArcade1a.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#BGM
+moody.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I have seen him dissolving right in front of me.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+I can actually say the same, Mr.~ Johnson. So, one of us is lying.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Or you have both been fooled.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cgSkeletonArcade.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+I have faced him as well, but he managed to escape.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Before he disappeared, though, he told me that he faked his death a couple times already, one of which against Cyphr.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg1b.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Therefore, your recollections could be consistent with each other.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+So, this means that I've killed him after he met Johnson, Cyphr, and Mr.~ Bounty Hunter here?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Are you sure you did?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cgJennArcade.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Johnson, I've *literally* blasted him off. With a bomb. There's no way he could have faked his death, this time.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg1b.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+So, that closes the topic, right?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg1b.jpg 300
+#BACKGROUND cg\cg1f.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+I have bad news for you, guys.
+#TEXT_END
+#CLOSE_WINDOW
+##BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Elena killed not one, but TWO Donners.
+#TEXT_END
+##BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cgElenaArcade.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+The first one on her own...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cgRenzoArcade.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+...~ while the second one was the Donner I was facing.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+She's actually saved my life, to be honest.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg1d.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+If we sum up the one surely killed by Miss Husler, we have met at least three different Donners... if not more.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg1d.jpg 300
+#BACKGROUND cg\cg1.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+Wait! Could have they been copies? Like the ones everyone of us probably faced inside that... dome?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Yes, most likely. I see no other explanation.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Damn! Copies created by the Shadow Gallery! Why didn't I think about it?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+But, if so, then...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+I'm afraid everyone of us is asking themselves the same question now...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Did we manage to kill the original one?
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+0.0
+0.5
+#END
+
+#AUTO
+#TRANSITION cg\cg1.jpg 300
+#BACKGROUND cg\cg1e.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+Listen, what about being optimistic, for once? The distortion has disappeared, after all.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Cyphr, this is a luxury we can NOT afford. If Red is still around...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg1e.jpg 300
+#BACKGROUND cg\cg1f.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+True, he might try to complete his plan... again.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg1f.jpg 300
+#BACKGROUND cg\cg1g.jpg
+#AUTO
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+That would be bad. We MUST make sure we've eliminated him.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+How? Combing the city, meter per meter, searching any nook and cranny?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Yes, if needed. We can't...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg1quake.jpg 300
+#BACKGROUND cg\cg1g.jpg
+#AUTO
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND 
+quake_short.ogg
+100
+1.0
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+What was that?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Nothing good, I fear!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg1quake.jpg 300
+#BACKGROUND cg\cg1g.jpg
+#AUTO
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND 
+quake_short.ogg
+100
+1.0
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Another quake?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+We must hurry before...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg1quake.jpg
+#AUTO
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND 
+quake_short.ogg
+100
+1.0
+#PAUSE 200
+#END
+
+#AUTO
+#BACKGROUND cg\cg1h.jpg
+#TRANSITION cg\cg1quake.jpg 500
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#SOUND 
+explosion.ogg
+50
+1.0
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100.0
+1.0
+#PAUSE 15000
+#END

@@ -1,0 +1,17 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+This is NOT looking good.
+#OPPONENT_WIN_QUOTE
+Jacko, Jacko... you never learn, don't you?
+#PLAYER_INTRO_QUOTE
+I don't know why, but I feel you and I have some score to settle.
+#OPPONENT_INTRO_QUOTE
+You can bet your life on it, Vincent!
+#OPPONENT_LIFE_MULTIPLIER 10.0
+#PLAYER_LIFE_MULTIPLIER 2.0
+#PLAYER chara_johnson
+#OPPONENT boss_arkaneis
+#AI_LEVEL 5
+#STAGE TheLoathing
+#WIN_CONDITION Percentage 90.0
+#TIMER 100

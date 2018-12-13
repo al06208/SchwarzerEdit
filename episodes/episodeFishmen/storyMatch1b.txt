@@ -1,0 +1,17 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+Forgive me, Miss Mono. I'm still a fan of your creations!
+#OPPONENT_WIN_QUOTE
+At least, you've got some style there!
+#PLAYER_INTRO_QUOTE
+Miss Mono, can't we solve this in any other way?!
+#OPPONENT_INTRO_QUOTE
+Sorry, but today I'm here to collect a bounty!
+#OPPONENT_LIFE_MULTIPLIER 1.0
+#PLAYER_LIFE_MULTIPLIER 1.0
+#OPPONENT chara_mono
+#PLAYER chara_elena
+#AI_LEVEL 5
+#STAGE neonlight
+#NO_RINGOUT
+#TIMER 100

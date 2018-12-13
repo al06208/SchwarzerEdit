@@ -1,0 +1,224 @@
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\black.jpg
+#PAUSE 0
+#NO_BUFFER_TIME
+#CLOSE_WINDOW
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+>I've calmed down a bit.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+>After all, what it took to refill my emergency tank was pretty simple: smashing parked cars to cannibalize their batteries and suck out all the electricity I could from their capacitors.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TOP_WINDOW
+#CENTER_WINDOW
+#TEXT_BEGIN
+>It's a blessing that here in New Langdon most of the cars are electric. It makes it easier to refuel... and to vent some frustration.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TOP_WINDOW
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\cg4a.jpg
+#TEXT_BEGIN
+>Yes, thrashing cars is *actually* therapeutic, I should do it more often.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TOP_WINDOW
+#TEXT_BEGIN
+>Especially gasoline cars. They are even *more* satisfying, since you can make them...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO 
+#PAUSE 3000
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\white.jpg 1500
+#BACKGROUND cg\cg4.jpg
+#SOUND 
+explosion.ogg
+50
+1.0
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg4c.jpg
+#TEXT_BEGIN
+>...~ simply go KABOOM.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+>Anyway, heads are overrated. I have gathered evidence that a human being can survive even without one...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+>...~ well, at least for five seconds. I mean, I'm sure that guy could have lasted longer, but I couldn't wait there to check.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+>You know, people start getting curious, when you stand too long in front of a corpse. Then, they call the police, who calls the military...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldierB.png
+#TEXT_BEGIN
+It's there! Come on, guys!
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+0.0
+0.5
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+Stay were you are! You are under arrest!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO 
+#PAUSE 200
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg4.jpg 300
+#BACKGROUND cg\cg6h.jpg
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\neonlight\music\Emergency.ogg
+40.0
+1
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Well, and here they are, ready to jump at me!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#MUGSHOT soldierB.png
+#TEXT_BEGIN
+Quick! He's running away!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I don't have enough energy to fight them fair and square in the open. I need a narrow place where guns are pretty much useless...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>... like that sewage treatment plant. Bingo, I knew it was here around!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Just one punch to blast the door open, aaaaand...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO 
+#PAUSE 200
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg6h.jpg 300
+#BACKGROUND cg\cg6g.jpg
+#SOUND
+thud.ogg
+100.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Here we are!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+End of the line. Surrender now, and we won't destroy you on the spot.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>You didn't understand who trapped who, did you?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldierB.png
+#TEXT_BEGIN
+What...?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>This is going to be fun.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO 
+#PAUSE 300
+#CENTER_WINDOW
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#END

@@ -1,0 +1,9 @@
+#CENTER_WINDOW
+#NO_BACKGROUND_PICTURE
+#NO_BACKGROUND
+#TEXT_BEGIN
+Clear Arcade mode with all 16 main characters to unlock the final chapters of the story. Completion is independent on the settings, so you can freely adjust difficulty, timer, and number of rounds.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END

@@ -1,0 +1,20 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+Tsk... robots. All talk, no action.
+#OPPONENT_WIN_QUOTE
+>You are playing with fire, you old maggot!
+#PLAYER_INTRO_QUOTE
+You have crossed one too many boundaries, you rustbucket.
+#OPPONENT_INTRO_QUOTE
+>Stay out of this, you senile idiot!
+#OPPONENT_LIFE_MULTIPLIER 2.5
+#PLAYER_LIFE_MULTIPLIER 1
+#OPPONENT_R_DAMAGE_MULTIPLIER 0.7
+#OPPONENT_R_B_DAMAGE_MULTIPLIER 5.0
+#OPPONENT chara_krave\mesh2
+#PLAYER event_devil
+#AI_LEVEL 6
+#STAGE neonlight
+#NO_RINGOUT
+#TIMER 100
+#WIN_CONDITION Percentage 15.0

@@ -1,0 +1,223 @@
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Achtundzwanzig... neunundzwanzig... drei:ss:ig...
+#TEXT_END
+#STAGE_BACKGROUND deltaBase\
+#PAUSE 600
+#BGM
+..\..\..\..\stages\deltaBase\music\wontolla_rain.ogg
+30.0
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+I see you don't lose time, Cyphr. Already stretching?
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\cg_delta1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#PAUSE 500
+##CENTER_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Yes, sir! My legs is all I have, after all. I can't afford the luxury of skipping training!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+Well, it's nice to have you back. How was your trip in Euterpe?
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Quite fine, actually. Better than last month. Much better than three months ago.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+So, did you manage not to cry?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+...
+#TEXT_END
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cg_delta1.jpg 300
+#BACKGROUND cg\cg_delta2a.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#PAUSE 500
+##CENTER_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Yeah. This time, yes.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+If things keep on this way, I should be able to fully recover by the end of the year.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+Well, that's good to know, I guess.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_delta2a.jpg 300
+#BACKGROUND cg\cg_delta2b.jpg
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Sooo... what's today's schedule?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+We've received an anonymous call. A mutant has been spotted several times at the nearby night club.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Wait, you mean "The Happy Cock"?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+Now it's called "Le Coq Heureux", but yes, that one. They have sent us some pictures as well.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TRANSITION cg\cg_delta2b.jpg 300
+#BACKGROUND cg\shaz1.jpg
+#TEXT_BEGIN
+Shaz Colder, alias Shaz Aliart, alias Underwater, alias Gaetano Trasimeno. We were tracking him for the last three months, but never managed to get him.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+He changed name seven times, during the last year. He's on the run after he left the Fishface Crime Syndicate, taking away several thousand pounds from their safes.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+We don't know the exact amount, as Go Ottari went as far as denying the robbery. Still, our informants are pretty sure about it.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+I believe he has some rather powerful protectors - but, again, we have no proof to support that... yet.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+Aside from that, he's pretty good with guns and he's a natural-born brawler. Unfortunately, he knows me very well. If I showed up, he would run away before I could do anything.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Do you want me to take him "under arrest"?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TRANSITION cg\shaz1.jpg 300
+#BACKGROUND cg\cg_delta2b.jpg
+#TEXT_BEGIN
+Yeah, we can say it like that.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+But first, we will have a sparring match.
+#TEXT_END
+#PAUSE 600
+#BGM
+tension.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+U... uh? Why, sir?
+#TEXT_END
+#PAUSE 600
+#BGM
+tension.ogg
+60.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+Colder is tough. I myself would have problems facing him. I don't want him to send you to the hospital.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_delta2b.jpg 300
+#BACKGROUND cg\cg_delta2a.jpg
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Sir, not to sound arrogant... but the risk is that HE will be sent to the hospital.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+Then, show me I can trust your skills!
+#TEXT_END
+#PAUSE 600
+#END

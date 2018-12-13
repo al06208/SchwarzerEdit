@@ -1,0 +1,17 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+...
+#OPPONENT_WIN_QUOTE
+So, even you chose to betray me.
+#PLAYER_INTRO_QUOTE
+I can't let you destroy everything I love...
+#OPPONENT_INTRO_QUOTE
+You really can't understand, can you?
+#OPPONENT_LIFE_MULTIPLIER 6.0
+#PLAYER_LIFE_MULTIPLIER 1
+#PLAYER chara_donner
+#OPPONENT boss_arkaneis
+#AI_LEVEL 8
+#STAGE TheLoathing
+#WIN_CONDITION Survive
+#TIMER 25

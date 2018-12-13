@@ -1,0 +1,170 @@
+#BACKGROUND cg\cg2d.jpg
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+It appears your methods are not so... persuasive, Miss.
+#TEXT_END
+#BGM
+..\..\..\..\stages\Algol\music\invasion.ogg
+40.0
+0.5
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+That's... strange. Every time I hit him, I feel like I'm punching a bag of flies. His body is not reacting like a human body would.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+I am indeed human, Miss Husler. Only, I made peace with reality and started building my own one. We are part of two different paradigms, therefore we can barely interact with each other.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Indeed, you two are the protagonists, and I am but an external observer who rejoices in watching your story. There is a fourth wall between us, which lets me enjoy it even more, as I can see without being seen.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+This guy is so creepy and unsettling, I'd almost prefer being shot to death by Donner.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Bored, are you? Let me spice things up with a plot twist.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+I may need your assistance, Graf. Would you be so kind to come and entertain our guests?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg3.jpg
+#TRANSITION cg\cg2d.jpg 300
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>I'm afraid I'm not understanding what you mean, Silman. Your speech was completely out of the realm of logic.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+A cyborg-tiger-thing-y?! No, this is too absurd! I mean, in one day I've met a horribly dressed guy without a face, a swarm of haemophages, a shadow-walker, two kitsune sex-dolls, an insane punching bag... and now, this?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+This is totally absurd! Ridiculous! This... this can't be real! I'm sure there HAS to be an explanation, there are too many, TOO MANY coincidences!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+As if a mysterious puppeteer pulled all the strings together, huh? Oh, I wonder who could that be!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+... Sambiong?
+#TEXT_END
+#END
+
+#TRANSITION cg\cg3.jpg 300
+#BACKGROUND cg\cg2d.jpg
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Wait... you EVEN know him?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Well, he looks EXACTLY like a Borg-assimilated version of that tigerman who leads Delta Team.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Oh, GREAT! Even more nonsense!
+#TEXT_END
+#END
+
+#TRANSITION cg\cg2d.jpg 300
+#BACKGROUND cg\cg3.jpg
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>That name.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\Algol\music\invasion.ogg
+0.0
+0.5
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>Sambiong. I feel I should know it, but I don't know why.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>My memory cells didn't survive the Black Lightning. I have just fragments of data, before that.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>Tell me what you know about it. I demand an answer.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I'm definitely not in the mood, right now. I've been almost killed by an ax-crazy B-movie monk not longer than fifteen minutes ago.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>I apologize, but for me this is of utmost importance.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\Algol\music\invasion.ogg
+40.0
+0.5
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>I will force you to reply, if you don't cooperate.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+*sigh* You and Miss Husler seem to share the same subtlety in terms of "gathering intel"...
+#TEXT_END
+#END

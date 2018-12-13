@@ -1,0 +1,613 @@
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg3a.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+moody.ogg
+100.0
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+This is quite hard to swallow, honestly.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg3a.jpg 300
+#BACKGROUND cg\cg1c.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+If this is true, it really sucks.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+I mean, by saving our world, we would destroy the other, or?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg1c.jpg 300
+#BACKGROUND cg\cg1d.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+It's not time to be idealists. Taking him down is our only choice, if we want to survive.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+And to Hell with this Shadow Gallery, if this means that every human being must die to preserve it!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+I didn't fight so long just to be erased from existence before the beginning of my new life.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Besides, why trying to save a dead world? This doesn't make sense.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg1d.jpg 300
+#BACKGROUND cg\cg1b.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Well, I have been there. There are lifeforms, actually. Completely alien beings, but still...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeJohnson3\cg\cgSG2c.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Do you refer to those tentacles?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+The tiger cyborg told us that they had a heartbeat. Why should we doubt it?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg1b.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+So, are you telling me that in any case we will commit a genocide?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Either of their species or of ours.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+This doesn't make things easier.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+On the contrary, it makes clear to me what we have to do: save our race from extinction.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Save our bizarre, yet beautiful world from annihilation.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Who cares if it is fake, or it is just a projection? For us, FOR US ALL, it's pretty much real! This is OUR world, the world we were born in.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+We can't allow anybody to destroy it. Not even for a good cause.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg1b.jpg 300
+#BACKGROUND cg\cg1f.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+I agree with Skallen. I don't want to die now... not after all that happened.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+I'm with you!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Me too. Sorry, but I couldn't care less about those creepy tentacles.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg1f.jpg 300
+#BACKGROUND cg\cg1c.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+... but is it right to steal their happiness?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+No, it's not. But do we have a choice?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+It's us or them. It's your chance to start a new life with Amy against some creatures you haven't even seen!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+I still think it's wrong, but I'm not so selfless to sacrifice myself for that. I'm in.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Me too.
+#TEXT_END
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+0.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+Huh?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+Donner?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg1c.jpg 300
+#BACKGROUND cg\cg2f.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+25.0
+1.0
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+This is the world I've learned to love, a fake world, certainly...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+... but, nonetheless, it's the world of Kaya and Kiyoko, the world I've roamed for almost one year. A living, chaotic mess, too beautiful to end.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I will take you by the real Donner. I will help you against him.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I don't want to see this world end.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+I see. Apparently, I have made a mistake.
+#TEXT_END
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+0.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg2f.jpg 300
+#BACKGROUND cg\cg5f.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND
+explosion.ogg
+40
+1.5
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+0.0
+1.0
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+AAAAAAAAAAAGH!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+DONNER!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+NO!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+No, no, no. You don't have to fear me. After all... you know I'm right.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg5f.jpg 300
+#BACKGROUND cg\cg5b.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+70.0
+1.0
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#TEXT_BEGIN
+Mankind has had its chance.... and wasted it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+We self-destructed ourselves in our relentless thirst for power.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg5b.jpg 300
+#BACKGROUND cg\cg5c.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+As such, I believe it's more than fair to let a new, purer, younger lifeform take its place.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+And I, as the emissary of that beautiful world that you all call "dead"... will make sure that this will be the end result.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg5c.jpg 300
+#BACKGROUND cg\cg5e.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+How? *agh* how have you...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+I was expecting it, "Donner". Among my puppets, you had the most humanity left. It was just a question of time.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+My most perfect... yet my most imperfect clone.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg5e.jpg 300
+#BACKGROUND cg\cg5a.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+S... so, this is...?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+The... original Donner?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+R... Red?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg5a.jpg 300
+#BACKGROUND cg\cg5c.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+I prefer being called "Arkaneis", if you don't mind. Red, Donner... they are both past selves, washed away by the tides, mixed together with uncountable other lifeforms and personalities.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+I would really like to spend some time answering your questions... but, on the other hand, this has literally no meaning, as I'm going to destroy your world soon.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+Just take a seat and prepare yourself for the last, greatest show on Earth.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg5c.jpg 300
+#BACKGROUND cg\cg5e.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I... I won't let it... happen!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+You, among the others, should know how inferior you are to me. Yet, you oppose resistance?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+As long as you are focused on me, you can't start the resonance! And, if you are not, I have enough power to kill you!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+You have no choices, Arkaneis! Unless you kill us all, you won't be able to complete your plan!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+This shouldn't have happened, Donner. I wanted you to survive, to help me rebuild our world, our TRUE world, as my trusted advisor.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+Now, you will pay the consequences of your betrayal.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#PAUSE 500
+#END

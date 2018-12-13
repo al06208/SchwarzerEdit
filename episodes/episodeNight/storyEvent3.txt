@@ -1,0 +1,535 @@
+#AUTO
+#STAGE_BACKGROUND branch_70X
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#TOP_WINDOW
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Okay, Miss Yang. We can start. This conversation will be recorded for further analysis.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Please, do not call me either Miss Yang or Aylin. Amy will suffice.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Is there anything wrong?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\white.jpg 200
+#BACKGROUND cg\cg_hospital8a.jpg
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Well, Miss Wolfchild... is it mandatory for this exchange to be this formal?
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8b.jpg
+#TRANSITION cg\cg_hospital8a.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Listen, little br... Amy.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+*sigh* Yes, indeed. It was already hard to convince General Boost to give us a shot before his men. I don't have any idea on what Commander Sambiong promised him to obtain this opportunity.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8a.jpg
+#TRANSITION cg\cg_hospital8b.jpg 200
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Yet, he delegated this interrogation to you, instead of attending it himself.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8b.jpg
+#TRANSITION cg\cg_hospital8a.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+He didn't have any choice in the matter. He was... "too emotionally involved", whatever this means.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+The situation is also not easy for me. Understood?
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8a.jpg
+#TRANSITION cg\cg_hospital8b.jpg 200
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I can't exempt myself from remarking how aggressive your behaviour towards me has been, since the very moment we met.
+May I ask you the reasons of such hostility, before we proceed to the real interrogation?
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8b.jpg
+#TRANSITION cg\cg_hospital8a.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Honestly? I'm jealous of how easygoing is Commander Sambiong when he interacts with you. I've known him for a full year by now... yet, I don't feel entitled to call him "Tiger".
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+But don't read too much into it, okay? For me, he's like a bigger brother, someone whom I want to impress with my skills to get some words of praise, that's it. I just... don't like you stealing the show.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+I'm kinda an attention-whore, or?
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8a.jpg
+#TRANSITION cg\cg_hospital8b.jpg 200
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Such openness from someone like you is unheard of.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8b.jpg
+#TRANSITION cg\cg_hospital8a.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+I'm doing this because Commander Sambiong trusts me... and I need you to trust me as well, despite our grudges. Otherwise, this little chit-chat here will be completely useless.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Alright, let's start with the facts, shall we?
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeAmy\cg\cgCH3.png
+#NO_BACKGROUND
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Yesterday night, at around 22, you went to "Le Coq Heureux". What was your business there?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I worked there for a while, after I moved to New Langdon. I was asking a couple friends of mine if I attended the same place the evening before.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+You were so drunk you forgot about it, or?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+This is pretty unlikely, as I usually drink next to nothing. No, I just... have a huge hole in my memory concerning the evening of two days ago.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+So, you went there to check whether you have been there or not.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+That's right.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeAmy\cg\cgCH5.png
+#NO_BACKGROUND
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+At 22:20 you were harassed by a drunken youngster. You wiped the floor with him and then left the club.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+That was most unpleasant. Perhaps he thought I was a stripper.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+A somewhat legitimate assumption...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Excuse me?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+*cough* We will come back to that later. Now, let's go on.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeAmy\cg\cgWN1mb.png
+#NO_BACKGROUND
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+At 22:40, two members of the Fishface Crime Syndicate tried to kidnap you, apparently due to your connection with Commander Sambiong.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeAmy\cg\cgWN3c.png
+#NO_BACKGROUND
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+You managed to unarm the sharkman and to keep both of them at bay for a couple minutes. Then...
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeAmy\cg\cgN3a.png
+#NO_BACKGROUND
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+... well, we can say that something happened. This is what you have to clarify.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION ..\episodeAmy\cg\cgN3a.png 300
+#BACKGROUND ..\episodeAmy\cg\cgN1a.png
+#NO_BACKGROUND
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+As you can imagine, I was scared. In the blink of an eye... something tore the fishman apart.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION ..\episodeAmy\cg\cgN1a.png 300
+#BACKGROUND ..\episodeAmy\cg\cgN4a.png
+#NO_BACKGROUND
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I can just remember the awful lament of the lobster, as he was... trying to pronounce his friend's name, despite not being able to talk.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+It was heart-wrenching, to say the least. That's when I called Tiger on the phone.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8b.jpg
+#TRANSITION ..\episodeAmy\cg\cgN4a.png 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Now, Amy... do you have any idea why the army has considered you as a potential suspect?
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8a.jpg
+#TRANSITION cg\cg_hospital8b.jpg 200
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I'd dare to say because there was nobody else there... and the lobster would have never hit his friend like that.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8b.jpg
+#TRANSITION cg\cg_hospital8a.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Correct. It was a piercing wound, something has burnt his skin. It was quick and painful, according to the doctors.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+It was the signature of the Night Assassin.
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+0.0
+0.5
+#END
+
+#BACKGROUND cg\cg_hospital8a.jpg
+#TRANSITION cg\cg_hospital8b.jpg 200
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+They think I am...?!
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8b.jpg
+#TRANSITION cg\cg_hospital8a.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+It seems so. General Boost is quite intrigued by this hypothesis, according to Commander Sambiong.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Anyway, there's more than just that. You mentioned before that you had no memory of the evening before, or?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Have you got also memory troubles before you were taken to the hospital?
+#TEXT_END
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#BACKGROUND cg\cg_hospital8a.jpg
+#TRANSITION cg\cg_hospital8b.jpg 200
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+... why are you asking about that?
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8b.jpg
+#TRANSITION cg\cg_hospital8a.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+I will be blunt: every time the Night Assassin murdered - or attempted to murder - someone, you were nearby or nowhere to be found.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+She assasinated all your living relatives in the United Kingdom, she disappeared while you were hospitalized... and she came back as soon as you were discharged.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8a.jpg
+#TRANSITION cg\cg_hospital8b.jpg 200
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Quite obviously, you aren't suspecting me to be a supernatural serial killer, are you?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I mean, do I look like a person who would commit such atrocities?
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8b.jpg
+#TRANSITION cg\cg_hospital8a.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Amy, I'm just stating the facts. I'm not implying anything.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Despite thinking that you are just an annoying little brat, I would never go as far as saying that you have consciously murdered them!
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8a.jpg
+#TRANSITION cg\cg_hospital8b.jpg 200
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Hence you believe that I am someway affected by... a multiple personality disorder?
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8b.jpg
+#TRANSITION cg\cg_hospital8a.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Have you ever heard about "The Walking Night", Amy?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+In New Langdon, at the end of 2062, many people have been slaughtered by an assassin nicknamed "Jack the Ripper".
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+It turned out that "Jack" was a just a French girl who was somehow "possessed" by a yet unexplained reality oscillation phenomenon, maybe connected with the recent leak of a distortion power plant around there.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Exactly like you, the girl suffered from severe memory losses.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+The phenomenon was called "The Walking Night", as a reference to a nursery rhyme.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8a.jpg
+#TRANSITION cg\cg_hospital8b.jpg 200
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+The... "Walking Night"?
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_hospital8a.jpg
+#TRANSITION cg\cg_hospital8a2.jpg 200
+#NO_BACKGROUND
+#PAUSE 300
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+1.5
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Exactly. The nursery rhy...
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8a.jpg
+#TRANSITION cg\cg_hospital8a2.jpg 200
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+When the sky is gloomy and dark...
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+1.5
+#END
+
+#BACKGROUND cg\cg_hospital8a.jpg
+#TRANSITION cg\cg_hospital8a2.jpg 200
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+...and the Sun is resting stark...
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+1.5
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+A...~ Amy?!
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8a.jpg
+#TRANSITION cg\cg_hospital8a2.jpg 200
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+...you can feel Her soul and might...
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+1.5
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+AMY! What...
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital8a3.jpg 200
+#TRANSITION cg\cg_hospital8a2.jpg 200
+#CHARA_MUGSHOT chara_amy\storyMesh1
+#TEXT_BEGIN
+...She's my darling Walking Night.
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+1.5
+#BGM
+night.ogg
+0.0
+1.0
+#END

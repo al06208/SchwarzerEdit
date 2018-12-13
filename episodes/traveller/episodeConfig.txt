@@ -1,0 +1,9 @@
+#EPISODE_NAME
+Beyond the Dead Zone
+#DESCRIPTION
+Welcome back to "Traveller - Beyond the Boundaries
+of Science". This evening, Res Vertighel will guide
+you through the troubled history of the Dead Zone.
+What is the truth about Haemophages?
+#DESCRIPTION_END
+#EVENT storyEvent0

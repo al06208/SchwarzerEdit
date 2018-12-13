@@ -1,0 +1,23 @@
+#EPISODE_NAME
+In the name of the Mother
+#DESCRIPTION
+Cyphr has joined the Delta Team to find out the
+truth about her mother's disappearance.
+Every small rumor could lead her to a big
+revelation...
+#DESCRIPTION_END
+#EVENT storyEvent0
+#MATCH storyMatch0
+#EVENT storyEvent1
+#EVENT storyEvent2
+#EVENT storyEvent3
+#MATCH storyMatch1
+#EVENT storyEvent4
+##EVENT storyEvent5
+#EVENT storyEvent6
+#MATCH storyMatch2
+#EVENT storyEvent7
+#EVENT storyEvent8
+#EVENT storyEvent9
+#MATCH storyMatch3
+#EVENT storyEvent10

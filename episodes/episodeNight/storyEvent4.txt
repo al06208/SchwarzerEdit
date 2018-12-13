@@ -1,0 +1,293 @@
+#AUTO
+#STAGE_BACKGROUND branch_70X
+#BGM
+night.ogg
+100.0
+1.0
+#TOP_WINDOW
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Amy, please! Stop... stop behaving like that! This is not you!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy\storyMesh1
+#TEXT_BEGIN
+Correct. She's not in control at the moment.
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+What... who are you?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg_hospital9.jpg
+#CHARA_MUGSHOT chara_amy\storyMesh1
+#TEXT_BEGIN
+Who am I? Oh, finally an interesting question!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg_hospital9.jpg 200
+#BACKGROUND cg\cg_hospital10a.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 400
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Amy! Come back here! It's dangerous, you could fall at any time! I...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_amy\storyMesh1
+#TEXT_BEGIN
+This is the perfect stage to let the moonlight shine on my true skin!
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_hospital10b.jpg
+#TRANSITION cg\white.jpg 200
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+1.5
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 400
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Those glyphs... wait, what...?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg_hospital10c.jpg
+#TRANSITION cg\cg_hospital10b.jpg 500
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+0.5
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 400
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Amy! Your clothes... your clothes are burning!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_amy\storyMesh1
+#TEXT_BEGIN
+Please, stay silent...
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_hospital10e.jpg
+#TRANSITION cg\cg_hospital10d.jpg 500
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 300
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+0.3
+#END
+
+#AUTO
+#BACKGROUND cg\cg_hospital10h.jpg
+#TRANSITION cg\cg_hospital10g.jpg 1200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 1000
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+...and behold my perfection!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+What... what has just happened?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg_hospital11.jpg
+#TRANSITION cg\cg_hospital10h.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+*phew* Now, I feel much more comfortable, without all that useless stuff on.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+... the Night Assassin...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+That is a truly horrible way to call me. First, I'm not an assassin. Second, I have a name.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Yours is Cyphr, right? Strange name for a girl. It's not musical at all, with all those consonants crammed together... I bet you are from Germany.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+H... huh?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Oh, but where are my manners? My name is Lejl, Lejl Kaleidos. You can also call me "The beautiful shape of the Night". Actually, I like that nickname a lot.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+This... this is not right. There's something...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Let me guess... you are wondering why I'm so reasonable, all of a sudden, without rambling the usual random bla-bla about the "Night", right?
+#TEXT_END
+#END
+
+#TRANSITION cg\cg_hospital11.jpg 200
+#BACKGROUND cg\cg_hospital11b.jpg
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+(I have to call Commander Sambiong. Maybe I can just switch on my transmitter and let him hear our conversation...)
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+(H... huh? No signal?)
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#END
+
+#TRANSITION cg\cg_hospital11b.jpg 200
+#BACKGROUND cg\cg_hospital11.jpg
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Trying to contact anybody is useless. My body creates a disturbance for most communicating devices, as long as I am nearby. You can't call anyone.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg_hospital11.jpg 200
+#BACKGROUND cg\cg_hospital11b.jpg
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+The soldiers will come here as soon as they realize...
+#TEXT_END
+#END
+
+#TRANSITION cg\cg_hospital11b.jpg 200
+#BACKGROUND cg\cg_hospital11.jpg
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+That's right. Maybe, I should transfer both of us to a slightly different plane of reality...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Huh, but this would actually be a pretty nice idea! Yes, let's do it!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Do... what?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Showing you my world!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\black.jpg 500
+#BACKGROUND cg\cg_hospital11c.jpg
+#NO_BACKGROUND
+#PAUSE 800
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+0.5
+#END

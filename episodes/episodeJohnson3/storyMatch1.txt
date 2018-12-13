@@ -1,0 +1,15 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+That's... unsettling. What... are you?
+#OPPONENT_WIN_QUOTE
+This show is taking a really bizarre turn, you know?
+#PLAYER_INTRO_QUOTE
+You can't be serious. You can't be living here!
+#OPPONENT_INTRO_QUOTE
+Why not? I'm the one who created this place.
+#PLAYER_LIFE_MULTIPLIER 1.5
+#PLAYER chara_jenn\Mesh4
+#OPPONENT chara_renzo\mesh99
+#AI_LEVEL 5
+#STAGE Algol
+#WIN_CONDITION Percentage 30.0

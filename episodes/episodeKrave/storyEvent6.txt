@@ -1,0 +1,230 @@
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+>You know, just after obtaining this amazing body of mine... I discovered that I couldn't make it last forever.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+>My engine was broken, and neither Silman nor Graf could repair it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+>Therefore, I had to take advantage of the connections of my dear reviver, if I wanted to solve this situation...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\black.jpg 400
+#STAGE_BACKGROUND docks
+#PAUSE 0
+#NO_BUFFER_TIME
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\docks\music\bgmCut.ogg
+50.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I see you took some company with you, Mr.~ Simmerik. Did we do anything to lose your trust?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Absolutely not, Mr.~ Aural. I value your assistance a lot. Without your services, I couldn't get my hands on many of the medicines and chemicals I need.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+If so, then...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\white.jpg 200
+#BACKGROUND cg\cg5a.jpg
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+...~ why have you brought a combat robot with you? Do you want to try to bargain? In that case, I have bad news for you: we do not make discounts.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+I'm indeed fully aware of it. No, this robot here asked me if he could join our little meeting. The reason is simple: he wants a V.146b yrite hybrid reactor, and I'm convinced it's something that you gentlefish could find for a reasonable price.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+As usual, money is not an issue. Northern Algol is full of unreclaimed notes, I can pile up as many pounds as you need.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+A V.146b yrite reactor?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+No, that's impossible.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+tension.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Excuse me? I may have misheard what you said.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I said: it's impossible. Come on, we are talking about military-level equipment! Only don Ottari would be powerful enough to pressure for one... and you DON'T want to ask the don for something like this, right?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg5a.jpg 200
+#BACKGROUND cg\cg5b.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Listen carefully, planktonhead. I NEED that reactor. I CANNOT afford switching off.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+tension.ogg
+50.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I'm running on a freaking hybrid electric-gasoline fuel cell which I MUST recharge every single day. Every. Single. Day.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I can't stand this anymore, so PLEASE, go back to your don and kick his sweet ass off his chair.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg5b.jpg 200
+#BACKGROUND cg\cg5a.jpg
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Would you do something for us, in exchange?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Anything which doesn't conflict with my self-preservation instinct.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Some months ago, one of us went AWOL. Name's Shaz Colder, but he went also by the name of Shaz Aliart or Gaetano Trasimeno. We know where he hides, but we can't take him ourselves, as there are some... influential people protecting him.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+As a result, the don thought that a maverick would have more chances than us and put a thirty thousand pounds bounty on his head. Money that we would prefer to spare, if possible.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Ooooh! I think I've got your point!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Yes, in short that's the deal: we take you to New Langdon, you track down the shark before any other bounty hunter and, as a compensation, we will find the reactor you need. It will be cheaper than paying for the bounty.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg5a.jpg 200
+#BACKGROUND cg\cg5b.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I'm totally in, sign me up!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+So, we have a deal. Very well, follow us. The Werza is ready to depart.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO 
+#PAUSE 500
+#NO_BACKGROUND
+#CENTER_WINDOW
+#STAGE_BACKGROUND docks
+#TRANSITION cg\cg5b.jpg 300
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Eh, eh. It's such an exciting development. I would have never predicted it! It's so cool NOT to be able to see what happens before it happens!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Good luck, Krave. I'm not sure you'll need it, but who knows?
+#TEXT_END
+#CLOSE_WINDOW
+#END

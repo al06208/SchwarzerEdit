@@ -1,0 +1,53 @@
+#CENTER_WINDOW
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+Ange "Skeleton" Skallen.
+A French bounty hunter from the Crossbones collective.
+#TEXT_END
+#PAUSE 600
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+That is, just a fancy name for a bunch of people who wear skull-themed armors and make a living by tracking down renegades and criminals.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+He's been around since I went living with my mother.
+Never actually liked him. Still, he's usually reliable.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+If he says that a non-mass-produced robot related to the disaster has been spotted in North Ireland, I think I can trust him.
+I've had enough time during the flight back to New Langdon to think about it.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+Despite all he said, though, I believe it's better to ask my senior officer.
+I don't want to be a source of troubles for the whole Delta Team.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END

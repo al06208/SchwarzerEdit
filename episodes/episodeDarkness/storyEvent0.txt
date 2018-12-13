@@ -1,0 +1,165 @@
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg1.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Any news, Cyphr?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+...the answer doesn't change in thirty seconds. She's still unconscious, sir.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+At least, she's breathing regularly.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Yeah, at least...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Anyway, sir... wasn't that creepy?
+#TEXT_END
+#END
+
+#TRANSITION cg\cg1.jpg 300
+#BACKGROUND cg\cg2.jpg
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+What? Amy being the Night Assassin, the whole "extra-dimensional" teleport that you experienced...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+...~ or the fact that everyone else froze in place until we managed to take her out of the hospital?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Yeah, the last one. The soldiers were not seeing us, it's like we were like ghosts to them. And we escaped like thieves.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+I followed your orders, sir, but... can you explain me why we didn't report the incident to General Boost?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+There are records of Amy turning into the Night Assassin. Boost would have kept her captive for further experimentation. I... I just...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+...jeez, you really got a crush on her, sir? Fair enough, I wouldn't have left Lejl to die there anyway.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg2.jpg 300
+#BACKGROUND cg\cg1.jpg
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Lejl? Who's Lejl?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+The only part of Amy that I can someway relate to without wanting to break her neck. She's not the Night Assassin, she's just an additional... layer, we can say.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+It was more clarifying to talk to her for a few minutes than to interrogate this sleeping brat for half an hour. I'm kinda sad she's not her usual personality, we could get along much better.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+In other words, you have a crush on her.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg1.jpg 300
+#BACKGROUND cg\cg2.jpg
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+WHAT?! I'm not into girls! Not at all! And, even if I were, not in the blond-haired gold-eyed glowing-skin reality-altering kind!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+*laughs* That's quite a specific denial.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Oh, finally a smile! Was it so hard, sir?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Yeah, I hadn't much time to smile, lately. Too many... unpleasant nightmares.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Nightmares, huh...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg2.jpg 300
+#BACKGROUND cg\black.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Sir...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+...~ do you think she's dreaming, now?
+#TEXT_END
+#CLOSE_WINDOW
+#END

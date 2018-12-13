@@ -1,0 +1,369 @@
+#AUTO
+#BACKGROUND cg\cgWally1.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100.0
+1.0
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_mono
+#TEXT_BEGIN
+Wally, look...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+What's that thing...?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+It's happening... it's... finally happening.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+WHAT is happening, scarecrow?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cgWally1.jpg 300
+#BACKGROUND cg\cgWally2.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The end of this world, Mr.~ Alba. The end of this phony, projected world... has finally come.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+And you can do literally NOTHING to stop it. You are not... powerful enough.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_mono
+#TEXT_BEGIN
+Wait, we have defeated you! How can this...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I was just a small part of something bigger.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cgWally3b.jpg 300
+#BACKGROUND cg\cgWally3.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+1
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+*ugh*
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Enough of your riddles, grommet! Now, SPEAK! LOUD AND CLEAR!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Or I swear to Grant that I'll bite yer face off!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+There's... there's nothing more I can say! This is the end, the literal end! Euterpe will just be the beginning, the world will follow soon after!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Okay, mate. Listen to me for one minute.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+night.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+I've made a promise to myself: no child will EVER die again on my watch. NOT. ONE.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+moody.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+So, there HAS to be a way to stop this, even if it costs my very life. Understood, grommet?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Why... why do you care so much about this world? You are a renegade! You and the fat cat do not fit here! Nobody would accept you!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cgWally3.jpg 300
+#BACKGROUND cg\cgWally4.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Fair dinkum, mate. Me and my sis - we are freakin' renegades. But you know what?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+I DON'T FRIGGIN' CARE!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+I was created to PROTECT people, not to kill them. I had one task, ONE task, and I've screwed it up! I'm not gonna make the same mistake again!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+So, NOW, you will go and solve this mess, while we help evacuating the people of the city. Is this clear?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Why... should I help you?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Seriously, mate... do you want to have the lives of half a million children on your already dirty conscience?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+This world is a fake! Those children are just projections!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+For me, they are pretty much the real thing, mate. They talk, they play, they cry... can't you see that?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Can't you imagine their fear, their anguish, while seeing this city, their whole world crumble?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cgWally4.jpg 300
+#BACKGROUND cg\cgWally3.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...even if I wanted to, it's too late. I...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+I get it, mate. Just... do your best, okay? It will be better than doing nothing.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cgWally3.jpg 300
+#BACKGROUND cg\cgWally1.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_mono
+#TEXT_BEGIN
+Come on, Wally! We have people to help, let's rumble!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Right at your back, sis! let's show'em how fast a velociraptor can run! I'll take you to the car, then...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+You... are letting me go?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_mono
+#TEXT_BEGIN
+A bounty is a bounty, but people ALWAYS come first.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+We can't help with evacuation, if we take you with us. Just get lost... and try to stop that thing.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Can you do this, mate?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+You two... are crazy. The world is going to collapse, yet you try to save people? They have no hope...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_mono
+#TEXT_BEGIN
+Wrong. WE are their hope. And, besides, standing here doing nothing wouldn't help either.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+So, don't disappoint us, mate.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I would have never believed that a talking raptor and a fat cat lady would have restored my faith in humanity...
+#TEXT_END
+#CLOSE_WINDOW
+#END

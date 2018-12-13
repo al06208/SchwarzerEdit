@@ -1,0 +1,196 @@
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+We are there! We did it!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\black.jpg 200
+#BACKGROUND cg\cg6a.jpg
+#NO_BACKGROUND
+#PAUSE 200
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+I have jammed the door, Donner. The hunter is cut outside.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+Now, even if he... kills Kiyoko and... and uses her eye to open the door...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+It won't... it won't...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg6a.jpg 200
+#BACKGROUND cg\cg6b.jpg
+#NO_BACKGROUND
+#PAUSE 200
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+Kiyoko... Ki... Kiyoko...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Kaya, I...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+We... we were... more than sisters, Donner. We were CREATED to be more than sisters!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+And?! I don't care! I DON'T CARE! I LOVED HER! I FREAKIN' LOVED HER!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+... I didn't want her to... do that... for me.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+But she wanted to.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg6b.jpg 200
+#BACKGROUND cg\cg6c.jpg
+#NO_BACKGROUND
+#PAUSE 200
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+My body is in an extremely bad condition. Ange was much stronger than I remembered. I hope I didn't suffer any internal bleedings.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+... that doesn't sound good.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I can't start a full resonance, in this state. But... but I will do something else.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I will use the core to buy myself more time to recover!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\black.jpg
+#TRANSITION cg\cg6c.jpg 300
+#PAUSE 500
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\theLoathing0.jpg
+#AUTO
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 1200
+#END
+
+#TRANSITION cg\theLoathing0.jpg 600
+#BACKGROUND cg\theLoathing1.jpg
+#AUTO
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+0.5
+#PAUSE 2000
+#END
+
+#AUTO
+#BACKGROUND cg\theLoathing.jpg
+#TRANSITION cg\theLoathing2.jpg 1500
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#SOUND 
+explosion.ogg
+50
+1.0
+#BGM
+night.ogg
+100.0
+1.0
+#CLOSE_WINDOW
+#PAUSE 3000
+#END
+
+#AUTO
+#BACKGROUND cg\black.jpg
+#TRANSITION cg\theLoathing.jpg 10000
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 10000
+#END

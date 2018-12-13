@@ -1,0 +1,156 @@
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Time-out, Leggy! Time-out! My head is spinnin' like mad!
+Ohw, can't understand what's goin' on...
+#TEXT_END
+#BACKGROUND cg\cg_coq3b.jpg
+#PAUSE 600
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Eight cocktails in a row, maybe?
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_coq3b.jpg 300
+#BACKGROUND cg\cg_coq3.jpg
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Listen, Leggy. I don't kno' your name, I don't kno' why ya do what ya do, but lemme tell ya one thing:
+I'm. Not. Interested.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Tell this to the goddamn cat, 'kay?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Already tried to trust him once and found myself with a gun point'd at my ampullae!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+...
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_coq3.jpg 300
+#BACKGROUND cg\cg_coq3c.jpg
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Understood. Actually, he told me to deliver you a message, in case you rejected the offer.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+An outlaw robot has been seen in the city, looking for a sharkman. There's a high chance that sharkman is you.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Why should I even believe you?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Commander Sambiong honestly wanted you in the team. He said you are a natural-born brawler and extremely good with guns.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_coq3c.jpg 300
+#BACKGROUND cg\cg_coq3d.jpg
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Yeah, sure. Like he doesn't know that Yard's lookin' for me as well, right? How's gonna explain that Imma valuable element to the cops?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+No, thanks, not gonna do that.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+As you wish, then. I'll report back to the base.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Waitcha minute! Ain't you gonna try and threaten me?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+That was not the point, Mister Colder. It's sad that you didn't get it.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg_coq3d.jpg 300
+#STAGE_BACKGROUND coqHeureux\\
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+...whatever.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Bartender? Another mug of... uh?! Where is everyo...
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(screams in the background) MY CLUB! MY POOR CLUB!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(screams in the background) Whaddahell is happenin' here?! What's this mess?!
+This will cost a lot of money to fix!!! AAAAAGH!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+*glom* I'd better go, but incospicuously, through a side door...
+#TEXT_END
+#PAUSE 600
+#END

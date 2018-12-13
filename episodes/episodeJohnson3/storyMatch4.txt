@@ -1,0 +1,16 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+MAYER! BRING HER BACK! B... bring her... back...
+#OPPONENT_WIN_QUOTE
+As useless as your sister. I see.
+#PLAYER_INTRO_QUOTE
+I won't leave anything of you! ANYTHING!
+#OPPONENT_INTRO_QUOTE
+Rage. What an overrated feeling.
+#PLAYER chara_jenn
+#PLAYER_OUTFIT_ID 3
+#OPPONENT chara_graf\Mesh3
+#OPPONENT_OUTFIT_ID 2
+#AI_LEVEL 5
+#STAGE theLoathing
+#TIMER 100

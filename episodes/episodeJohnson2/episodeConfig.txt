@@ -1,0 +1,18 @@
+#EPISODE_NAME
+The Flowers of Evil
+#DESCRIPTION
+After a day, Johnson reaches Northern Algol, finding
+only ruins and a beautiful yet deadly garden of
+bloody flowers.
+#DESCRIPTION_END
+#EVENT storyEvent0
+#MATCH storyMatch0a
+#MATCH storyMatch0b
+#EVENT storyEvent1
+#EVENT storyEvent2
+#EVENT storyEvent3
+#MATCH storyMatch1a
+#MATCH storyMatch1b
+#EVENT storyEvent4
+#MATCH storyMatch2
+#EVENT storyEvent5

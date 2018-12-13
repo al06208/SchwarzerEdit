@@ -1,0 +1,138 @@
+#CHARA_MUGSHOT chara_lobster
+#BACKGROUND cg\cg_hospital6.jpg
+#TEXT_BEGIN
+SBLAGALAGALAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\ko.ogg
+100
+1.0
+#BGM
+..\..\..\..\stages\branch_70X\music\combatMission.ogg
+30.0
+1.0
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+We got him!
+#TEXT_END
+#END
+
+#MUGSHOT soldierB.png
+#TEXT_BEGIN
+He's still fighting back! Use a tranquillizer!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\flight.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALAGALAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\ko.ogg
+100
+1.0
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+Why can't we shoot him?!
+#TEXT_END
+#END
+
+#MUGSHOT soldierB.png
+#TEXT_BEGIN
+Because he's a goddamn witness! Calm down! Calm down!
+#TEXT_END
+#END
+
+#AUTO
+#NO_BACKGROUND
+#TRANSITION cg\cg_hospital6.jpg 600
+#BACKGROUND cg\cg_hospital7.jpg
+#PAUSE 800
+##BGM
+tension.ogg
+0.0
+0.8
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Well done, Cyphr. I'll help the soldiers to tame the lobster.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Tiger, could you explain me the reason why I have been brought here? This is a military research facility, not an ordinary hospital.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Amy... listen to me and don't panic, okay?
+#TEXT_END
+#BGM
+tension.ogg
+0.0
+0.8
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+We need to ascertain your innocence in the accident involving the sharkman. Therefore, I obtained from the higher-ups the right to interrogate you before the army does.
+#TEXT_END
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+What? No, this is surreal, Tiger! Are they really casting their suspicions on me?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+That's right. And that's why you and I will have a talk, right here, right now.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Is Tiger not allowed to carry out the conversation in your place, Miss Wolfchild?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+I'm sorry, Miss Yang, but I can't disclose other details. Please, follow me to the nearest room.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+(I'm trusting you on this, Cyphr)
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+(Please, find a proof of her innocence...)
+#TEXT_END
+#END

@@ -1,0 +1,261 @@
+#BACKGROUND cg\cg4a.jpg
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Have ya been here before, Delfina?
+#TEXT_END
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+70.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Fortunately, NOT. Now I begin to understand how you could get under Go's nose for so long!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+The fella who runs this place is a good friend o'mine. I've saved his ass a couple times, and he saved mine when I had troubles.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Go's not powerful enough to show his slimy tentacles here!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+And, just to know... how do you spend all your night here? Don't tell me you come here for watching the human strippers, because I CAN'T believe that.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg4a.jpg 300
+#BACKGROUND cg\cg4b.jpg
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Well... I come, I drink, I talk with the customers to make them offer me a drink, I drink again, then I drink, then I may or may not throw up, then I drink again...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+...and so on and so forth till mornin' comes!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Jeez... and I'm entrusting my life to you.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Now, sit here and do NOT cause any troubles, awright? I'm gonna talk with good ol' Dkrav'lest 'bout a trip to the SHIELD.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg4b.jpg 300
+#BACKGROUND cg\cg5a.jpg
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Sure, as if anything could happen in this... place.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Huh... wasn't that Gaetano? Hey, Gaetano! Gaeta...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+WHY ISN'T HE DRINKING, PORCA MISERIA?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+(*Just smile and ignore him. Smile. And. Ignore*)
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Huh... who's there?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+(*Smile. And. Ignore*)
+#TEXT_END
+#END
+
+#TRANSITION cg\cg5a.jpg 300
+#BACKGROUND cg\cg5b.jpg
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Hello, sweetie.
+#TEXT_END
+#SOUND 
+sounds\surprise_scream.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+*HYKES!*
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Are you new here? I don't think I've ever met you 'round here.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Smi... ignor.. smil...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Name's Renzo. An Italian stallion, we can say 'mong us, sweetie. And what's your name?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+C... could you step back, PLEASE? You... you smell of alcohol!
+#TEXT_END
+#END
+
+#TRANSITION cg\cg5b.jpg 300
+#BACKGROUND cg\cg5a.jpg
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Alright, alright. Better now?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Yes, indeed. Now, if you excuse me...
+#TEXT_END
+#END
+
+#TRANSITION cg\cg5a.jpg 300
+#BACKGROUND cg\cg5b.jpg
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+But, baby, how can you resist me? We've met... like, already three minutes ago and we haven't Frenched each other yet?
+#TEXT_END
+#SOUND 
+sounds\surprise_scream.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+*HYKES!*
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg5c.jpg
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+If you touch me another time, I will respectfully wipe the floor with your intestines. Is. It. Clear?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+You are so hot, though! And... huh? Is that your arm there? It looks like a fin...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+You are playing with fire.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+And those are... gills, on your neck?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+You are DEFINITELY playing with fire.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+That's so cool! You can breathe under water? And you can swim faster than a normal human? You're awesome!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+I'm... what?
+#TEXT_END
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+0.0
+1.0
+#END
+
+#TRANSITION cg\cg5c.jpg 300
+#BACKGROUND cg\cg5a.jpg
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Awesome! You're one of a kind, pupa! I really like you the way you are!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Well... huh, thanks, I guess? Nobody ever made me a compliment for my...
+#TEXT_END
+#END
+
+#TRANSITION cg\cg5a.jpg 300
+#BACKGROUND cg\cg5b.jpg
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+C'mon, let's French already!
+#TEXT_END
+#SOUND 
+sounds\surprise_scream.ogg
+100
+1.0
+#BGM
+..\..\..\..\stages\stadium\music\test.ogg
+80
+1.2
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+NOW. YOU. CROSSED. THE LINE!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+W... wait! I...
+#TEXT_END
+#END

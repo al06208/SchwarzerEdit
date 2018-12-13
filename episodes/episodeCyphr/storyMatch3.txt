@@ -1,0 +1,23 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+W... wait! It can't be so strong! 
+#OPPONENT_WIN_QUOTE
+>Go back to your mommy, kid! Ah, wait! Haven't I...?
+#PLAYER_INTRO_QUOTE
+Stay were you are! You are under arrest!
+#OPPONENT_INTRO_QUOTE
+>Oh, really? And with which hands are you supposed to handcuff me?
+#OPPONENT_LIFE_MULTIPLIER 1
+#OPPONENT_R_DAMAGE_MULTIPLIER 0.1
+#OPPONENT_R_B_DAMAGE_MULTIPLIER 4.5
+#PLAYER_LIFE_MULTIPLIER 1
+#PLAYER_R_DAMAGE_MULTIPLIER 1.2
+#OPPONENT chara_krave
+#PLAYER chara_cyphr
+#AI_LEVEL 5
+#STAGE TheWalkingNight
+#PLAYER_OUTFIT_ID 1
+#OPPONENT_OUTFIT_ID 1
+#NO_RINGOUT
+#TIMER 30
+#WIN_CONDITION Survive

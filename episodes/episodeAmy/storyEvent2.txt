@@ -1,0 +1,185 @@
+#BACKGROUND cg\cg3a.png
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Uhm...
+#TEXT_END
+#PAUSE 600
+#BGM
+comic.ogg
+40.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+It seems like Sambiong has a weakness for that kiddo.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+I wonder what he likes about her.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg3a.png 300
+#BACKGROUND cg\cg4a.png
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+She seems so... generically human. No fins, no claws, no nothing.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\flight.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg4a.png 300
+#BACKGROUND cg\cg5b.png
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Yeah, whatever.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALASH! SBLAGALAGALAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\flight.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg5b.png 200
+#BACKGROUND cg\cg6b.png
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+You DO realize that I CAN'T understand what you say, right?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+*sblagala...*
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg6b.png 200
+#BACKGROUND cg\cg5b.png
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+In any case, this is good news for us. We finally have some leverage to force that oversized cat to comply with our requests.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALAGALAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\flight.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg5b.png 200
+#BACKGROUND cg\cg6b.png
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+*intense stare*
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+*sblagala...*
+#TEXT_END
+#END
+
+#TRANSITION cg\cg6b.png 200
+#BACKGROUND cg\cg5b.png
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+We should organize her kidnap as soon as reasonably possible. Call Blade and ask for...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#TRANSITION cg\cg5b.png 200
+#BACKGROUND cg\cg6b.png
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Yeah, as if he could understand you. Pretend I haven't said anything.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+*sblagala...*
+#TEXT_END
+#END
+
+#TRANSITION cg\cg6b.png 200
+#BACKGROUND cg\cg5b.png
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Uhm... look, lobster, what if we do that on our own?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALA?
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\ko.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+If we manage to bring her to Go, we will recover from the debacle from last night and steal Blade's spotlight.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+You know, when you got your ass handed by that banana-dressed guy with no face.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGA...
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\flight.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Well, I'm glad you agree with me. Let's settle this like real fishmen!
+#TEXT_END
+#END

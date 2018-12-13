@@ -1,0 +1,120 @@
+#BACKGROUND ..\episodeTiger\cg\cgbed2.png
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TOP_WINDOW
+#TEXT_BEGIN
+...Yeah, I've heard. An illegal, unmarked, battle robot. I will investigate. Sure, it could be the trail we needed.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TOP_WINDOW
+#TEXT_BEGIN
+I'm confident I and Cyphr can handle this. I will call her as soon as possible. Okay, I will keep you informed.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#AUTO
+#SOUND
+beep1.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TOP_WINDOW
+#TEXT_BEGIN
+It seems that I have no right to rest even a little bit...
+#TEXT_END
+#PAUSE 600
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#SOUND
+cordless2.ogg
+100
+1.0
+#PAUSE 1300
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#SOUND
+cordless2.ogg
+100
+1.0
+#PAUSE 1300
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TOP_WINDOW
+#TEXT_BEGIN
+Sambiong.
+#TEXT_END
+#SOUND
+beep1.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(phone) Oh, my God! Tiger! You replied! Tiger, please, help!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TOP_WINDOW
+#TEXT_BEGIN
+...Amy?
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+(phone) Tiger! She... she killed him! Oh, my God! She killed him! Help, please! Help!
+#TEXT_END
+#BGM
+night.ogg
+100.0
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TOP_WINDOW
+#TEXT_BEGIN
+Amy, calm down! Where are you? Don't panic!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+(phone) I'm... I'm scared! There's blood, blood everywhere! Oh, my God! Maybe... maybe he's still breathing! Tiger, please!
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TRANSITION ..\episodeTiger\cg\cgbed2.png 300
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+...please, don't leave me alone!
+#TEXT_END
+#PAUSE 600
+#END

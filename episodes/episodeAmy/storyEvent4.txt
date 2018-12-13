@@ -1,0 +1,65 @@
+#BACKGROUND cg\cgCH5.png
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+...uuuuuuh.
+#TEXT_END
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Did I break any of your bones? In that case, I am terribly sorry. I don't want my friends to get in trouble because of me.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+...I'm no friend of yours...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I was speaking about the owner of the club.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I've got enough of this. I hope we'll never meet again, since it will be unpleasant both for me AND for you.
+#TEXT_END
+#END
+
+#TRANSITION cg\cgCH5.png 300
+#BACKGROUND cg\cgCH4.png
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Aaaand there it goes my binge-drinking-on-someone-else's-money. Youngsters...
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+(bartender) Who's paying for all those cocktails?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+The red-haired guy over there. He said he was offering. He left his wallet here, just take the money, 'kay?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+*sigh* Guess I'll needda wait for someone else to pay for my next Vodka Lemon...
+#TEXT_END
+#END

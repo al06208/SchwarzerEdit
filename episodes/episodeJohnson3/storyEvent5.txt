@@ -1,0 +1,241 @@
+#AUTO
+#BACKGROUND cg\cgSG6.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+50.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+STOP, you goddamn morons! Stop beating each other!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>I was just defending myself.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+MAYER! I'M KILLING YOU! I'M FUCKING KILLING YOU!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cgSG6b.jpg
+#TRANSITION cg\cgSG6.jpg 300
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+God bless the King! Jenn, HE'S NOT MAYER!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+You were punching Graf all the time!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+I was... what?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Blimey! I didn't remember you were so dense!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+After that illusion of a sister vanished out of thin air, you charged up Graf and started scratching him like a wild cat.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+There... there was no Mayer?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Sure as Hell, no.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cgSG6.jpg
+#TRANSITION cg\cgSG6b.jpg 300
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>Why are you looking for Mayer?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Why do you care, coghead?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>He created me.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>He gave me life.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+... actually...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cgSG6b.jpg
+#TRANSITION cg\cgSG6.jpg 300
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+... well, Mayer is just a medium. I want to prove his experiments where financed by Elemna Energy. The experiments which caused the Black Lightning.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+This would hit them pretty badly, as public opinion goes.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Okay, why? Be short and simple, please. We've lost too much time already.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+I was in the IUA, the Irish Unification Army, back in 2056. We tried to blow up the distortion plant in Callenberry before they managed to complete it... *tried* being the keyword, here.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Elemna Energy, they company that was building it, hired some killers to take care of us, after our failed stunt.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+I would have deserved it, maybe... but they killed my twin sister instead. We were both 17 at that time.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+I want to destroy Elemna for what they did to her. I NEED to avenge her.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+It's better if we keep on going. One-eye back there could become pretty upset if we lose even more time.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG1.jpg
+#TRANSITION cg\cgSG6b.jpg 300
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+That's totally right. Please, stop contemplating the past and help me in the present, okay?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Your storyline is boring anyway. I have seen it done in so many movies...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+What?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Don't mind me, sometimes I just consider life as a show with a really bad plot.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END

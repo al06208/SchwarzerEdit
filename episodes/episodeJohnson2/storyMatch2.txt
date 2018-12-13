@@ -1,0 +1,20 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+You... you are a monster!
+#OPPONENT_WIN_QUOTE
+As expected, you are just a defective prototype.
+#PLAYER_INTRO_QUOTE
+I believe it's quite strange to say that we are "face to face".
+#OPPONENT_INTRO_QUOTE
+Yeah, I totally agree, "Johnson".
+#OPPONENT_LIFE_MULTIPLIER 1
+#OPPONENT_R_DAMAGE_MULTIPLIER 0.1
+#OPPONENT_R_B_DAMAGE_MULTIPLIER 0.1
+#PLAYER_LIFE_MULTIPLIER 1
+#PLAYER_R_DAMAGE_MULTIPLIER 1.0
+#OPPONENT chara_donner
+#PLAYER chara_johnson
+#AI_LEVEL 5
+#STAGE Algol
+#TIMER 45
+#WIN_CONDITION Survive

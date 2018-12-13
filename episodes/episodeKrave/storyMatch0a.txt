@@ -1,0 +1,15 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+>I'm awesome, you can't do anything about it!
+#OPPONENT_WIN_QUOTE
+Ugh, that was veeery unpleasant!
+#PLAYER_INTRO_QUOTE
+>Now, what about surrendering? I mean, sucks to be you!
+#OPPONENT_INTRO_QUOTE
+This is not gooood!
+#PLAYER_LIFE_MULTIPLIER 3.2
+#PLAYER chara_krave\Mesh2
+#OPPONENT chara_shark
+#AI_LEVEL 5
+#STAGE EncorpSurfaceStation
+#TIMER 100

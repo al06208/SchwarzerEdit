@@ -1,0 +1,15 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+For our hero!
+#OPPONENT_WIN_QUOTE
+What is happening here?
+#OPPONENT_INTRO_QUOTE
+Wait! You are THAT kitsune!
+#PLAYER_INTRO_QUOTE
+You don't stand a chance.
+#PLAYER chara_kiyoko
+#OPPONENT event_soldier
+#PLAYER_LIFE_MULTIPLIER 1.5
+#AI_LEVEL 5
+#STAGE story_bonzaga_research
+#TIMER 100

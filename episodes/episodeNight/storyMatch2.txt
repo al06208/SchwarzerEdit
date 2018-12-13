@@ -1,0 +1,18 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+She... she is...
+#OPPONENT_WIN_QUOTE
+...she's my darling Walking Night...
+#PLAYER_INTRO_QUOTE
+A... Amy?
+#OPPONENT_INTRO_QUOTE
+...go home, little child. The sun is setting!
+#OPPONENT_LIFE_MULTIPLIER 1.8
+#PLAYER_LIFE_MULTIPLIER 1.8
+#OPPONENT chara_amy\storyMesh1
+#PLAYER chara_cyphr\Mesh5
+#AI_LEVEL 6
+#STAGE branch_70X
+#NO_RINGOUT
+#TIMER 100
+#DIALOGUE_IN_BATTLE storyMatch2-Dialogue.txt

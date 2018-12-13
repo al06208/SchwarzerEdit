@@ -1,0 +1,318 @@
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND ..\episodeDarkness\cg\cg14e.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I must say I'm surprised, Cyphr. I didn't expect you to jump on Krave like that, after what he did to you.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+It wasn't easy, sir. I still have flashbacks of yesterday night.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+But I've received some... unexpected help.
+#TEXT_END
+#END
+
+#TRANSITION ..\episodeDarkness\cg\cg14e.jpg 300
+#BACKGROUND ..\episodeDarkness\cg\cg14d.jpg
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Thanks, Cyphr. Your plan worked quite well... even if it was more a bet than a plan.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+One cartridge less and we would be, like, aaaaall dead.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+I wasn't talking about you, Mr.~Daevka. Well, not entirely.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+Someone else... helped me, once more.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Lejl, huh?
+#TEXT_END
+#END
+
+#TRANSITION ..\episodeDarkness\cg\cg14d.jpg 300
+#BACKGROUND ..\episodeDarkness\cg\cg14e.jpg
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+WAIT! How...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Everytime you talk about her, your voice changes. It becomes softer, warmer, like you are almost embarassed.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+You DO have a crush on her, huh?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#TRANSITION ..\episodeDarkness\cg\cg14e.jpg 300
+#BACKGROUND ..\episodeDarkness\cg\cg14a.jpg
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+Oh, please! I've already told you: I'm not into reality-warping girls who randomly appear inside my own mind during a hallucination!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+Still, it was... great to meet her again. She saved us... one more time.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Thanks for ignoring me AGAIN, Cyphr.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION ..\episodeDarkness\cg\cg14a.jpg 300
+#BACKGROUND ..\episodeDarkness\cg\cg14b.jpg
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Was she fine?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+It wasn't clear at all. Maybe it was just a dream.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Or maybe SHE has a crush on you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 500
+#TRANSITION ..\episodeDarkness\cg\cg14b.jpg 300
+#BACKGROUND ..\episodeDarkness\cg\cg14a.jpg
+#NO_BACKGROUND
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+Could you respectfully shut the Hell up, sir?!
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+By the way, how did you get that idea, sir? About the shoulder joint?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg6d.jpg
+#TRANSITION cg\white.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I was observing him carefully, during our fight. His armor is top-notch, but the quality of his joints is quite bad.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+They look overcomplicated, fragile, and unfinished. Most likely, that body was not combat-ready.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeDarkness\cg\cg14e.jpg
+#MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Whoever patched it did a great job, but it's still the work of an amateur.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I feel so useless... I couldn't even move...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+You are still weak, Amy. Don't stress yourself.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Tiger, that thing has almost killed you!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Cyphr and Mr.~ Daevka saved me, though. So, don't take it too much on you. I was not alone... and you give me the strength I needed to endure it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION ..\episodeDarkness\cg\cg14e.jpg 300
+#BACKGROUND ..\episodeDarkness\cg\cg14d.jpg
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Speaking of which, it's three hundred pounds for the plasma rifle clip.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+And don't ask for discounts. It's already dead cheap.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+*sigh* We won't. After all, it was an idea of mine...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Now, what are we doing? if Boost is involved, it's clear that he already knows where we are going.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION ..\episodeDarkness\cg\cg14d.jpg 300
+#BACKGROUND ..\episodeDarkness\cg\cg14e.jpg
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+The robot gives away the fact that he's officially powerless. In Euterpe, he'll be even more powerless.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+What if they use Krave another time? Shouldn't we change destination?
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+They'll find out anyway. So...
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Stick to the original plan. My personal jet will take you to Euterpe, where you will have a paid single hotel room for three people, for as long as you need...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Thanks, Dkrav'lest, you are so gen...
+#TEXT_END
+#END
+
+#TRANSITION ..\episodeDarkness\cg\cg14e.jpg 300
+#BACKGROUND ..\episodeDarkness\cg\cg14d.jpg
+#MUGSHOT devil.png
+#TEXT_BEGIN
+...~ which you will refund me in the next three years with an interest rate of 15%. On-time payments are deeply appreciated.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+I think the right word is "greedy".
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I am most shocked to say this, but it seems we finally agree on something, Cyphr.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+Mark this date down on your calendar. It won't happen again anytime soon.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Let's head for Euterpe, then.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Hopefully we will manage to devise a better course of action, there...
+#TEXT_END
+#CLOSE_WINDOW
+#END

@@ -1,0 +1,176 @@
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+"We are sorry, but we are not disclosing any information related to our customers."
+#TEXT_END
+#STAGE_BACKGROUND elevator\\
+#PAUSE 600
+#BGM
+..\\..\\..\\..\\stages\Elevator\music\boss_krogh.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Yeah, fuck you very much, Encorp. Really useful.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Now, my chances of finding Delfina are just below zero.
+Better think about another way out. And a new name.
+Maybe I'll get rid of Go if I escape far enough.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Circus freak? Yeah, that doesn't sound half bad.
+I'd travel every week to a different place and be paid for basically doing nothing.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+*beep*
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND
+chime.ogg
+100.0
+1.0
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+...ck'em all! "We don't share any information about our co..."
+Huh.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#BACKGROUND cg\clipElena1a.png
+#TEXT_BEGIN
+...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+'sup, Miss? I don't bite, don't ya worry!
+Imma well educated gentlefish.
+#TEXT_END
+#PAUSE 1000
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+I see.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Chillax, Miss! I would never do anything bad to such a nice lookin' gi...
+#TEXT_END
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#BACKGROUND cg\clipElena2b.png
+#TEXT_BEGIN
+Bloody moonfish! Is that a fin?!
+#TEXT_END
+#PAUSE 1000
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#BACKGROUND cg\clipElena1a.png
+#TEXT_BEGIN
+Yes, and? Let's just say I had some troubles with genetical reprofiling.
+Please, do not ask more about it.
+#TEXT_END
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+And would you happen to have gills as well, Miss?
+#TEXT_END
+#PAUSE 1000
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+GILLS?! Since when humans started having gills?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Since they are fishwomen in hidin', Delfina?
+#TEXT_END
+#PAUSE 1000
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+Name's Elena. You are mistaken.
+#TEXT_END
+#PAUSE 1000
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Nice try, but doesn't work!
+Big bro Blade gave me more than 'nough details to recognize ya!
+#TEXT_END
+#PAUSE 1000
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+*sneer* Blade? That motherangler bastard is smarter than I thought!
+#TEXT_END
+#PAUSE 1000
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+So, I suppose you are Underwater, right?
+That's my lucky day!
+#TEXT_END
+#PAUSE 1000
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+That was MY line.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_elena\\
+#TEXT_BEGIN
+Oh, sure! Definitely YOUR lucky day!
+*chuckle* I just hope Go will be okay in getting your corpse as bloodstained sushi slices!
+#TEXT_END
+#PAUSE 1000
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Wait, WHAT?!
+#TEXT_END
+#PAUSE 1000
+#END

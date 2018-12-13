@@ -1,0 +1,19 @@
+#EPISODE_NAME
+Hunting Ground
+#DESCRIPTION
+On the way to the airport, Tiger and his crew
+are attacked by a dangerous foe. The fight for
+Amy is just at the beginning.
+#DESCRIPTION_END
+#EVENT storyEvent0
+#MATCH storyMatch0
+#EVENT storyEvent1
+#EVENT storyEvent2
+#EVENT storyEvent3
+#MATCH storyMatch1
+#EVENT storyEvent4
+#MATCH storyMatch2
+#EVENT storyEvent5
+#EVENT storyEvent6
+#EVENT storyEvent6b
+#EVENT storyEvent7

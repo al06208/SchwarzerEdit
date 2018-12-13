@@ -1,0 +1,13 @@
+#EPISODE_NAME
+Burial at Sea
+#DESCRIPTION
+By betraying each other, Elena and Shaz have
+fallen into the hands of the syndicate, caught
+by the mastermind behind their escape.
+The thread of their survival gets thinner.
+#DESCRIPTION_END
+#EVENT storyEvent0
+#MATCH storyMatch0
+#EVENT storyEvent1
+#MATCH storyMatch1
+#EVENT storyEvent2

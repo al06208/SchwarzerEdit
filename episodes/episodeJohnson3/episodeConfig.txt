@@ -1,0 +1,18 @@
+#EPISODE_NAME
+Enter the Shadows
+#DESCRIPTION
+Donner manages to escape, leaving behind a portal 
+to the Shadow Gallery. Are Jenn and Johnson ready
+to face their past?
+#DESCRIPTION_END
+#EVENT storyEvent0
+#MATCH storyMatch1
+#EVENT storyEvent1
+#MATCH storyMatch2
+#EVENT storyEvent2
+#EVENT storyEvent3
+#MATCH storyMatch3
+#EVENT storyEvent4
+#MATCH storyMatch4
+#EVENT storyEvent5
+#EVENT storyEvent6

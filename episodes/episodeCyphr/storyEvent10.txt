@@ -1,0 +1,425 @@
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+T... that's impossible! I... can barely scratch him with my booster boots at maximum power!
+#TEXT_END
+#STAGE_BACKGROUND TheWalkingNight\
+#PAUSE 600
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#TRANSITION cg\white.jpg 100
+#BACKGROUND cg\black.jpg
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+*UGH*
+#TEXT_END
+#SOUND
+thud.ogg
+100.0
+1.0
+#PAUSE 600
+#END
+
+#TRANSITION cg\black.jpg 200
+#BACKGROUND cg\cg_krave2.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Oh, THAT was your maximum power?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+L... leave me alone! Stay... stay away from me!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_krave2.jpg 300
+#BACKGROUND cg\cg_krave3.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Let me guess... you were going to call for reinforcements using your transmitter, right?
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg_krave3b.jpg 300
+#BACKGROUND cg\cg_krave3c.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 600
+#SOUND
+crush.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Too bad it's broken! Who could have thought about it!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+P... please, let me go!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_krave3c.jpg 300
+#BACKGROUND cg\cg_krave4.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Aaaaand I suppose these are your gyroscopic stabilizers? I bet they are quite expensive!
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg_krave4b.jpg 300
+#BACKGROUND cg\cg_krave4c.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 600
+#SOUND
+cloth_rip.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Well, they were, at least.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+AAAAAAAH! NO! NO! STOP!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_krave4c.jpg 300
+#BACKGROUND cg\cg_krave5a.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Why? Isn't it nice to feel so... powerless?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Nice scars, by the way! I bet it was really painful to get your arms ripped off! I would have been so glad to be there, to savour that moment...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Oh, but you still have your "power boots" on! Let me help you get more comfortable.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg_krave5a.jpg 300
+#BACKGROUND cg\cg_krave5b.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 600
+#SOUND
+crush.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Uh, wait, I believe I broke them in the process. Nevermind, right?
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+(I'm... I'm scared! I can't do anything, I simply can't!)
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Oh, yeah! Such a nice fearful expression!
+>Now I remember where I saw that beautiful face of yours!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Exactly one year ago, in Euterpe!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+W... what?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Yes! Obviously it wasn't you! But I think I understood who you are! After all, your name is pretty tale-telling!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Your mother was that bitch who called herself "Der Wolf", right?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+W... was?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>You know, she died in the "Black Lightning Disaster".
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+She's... she's still alive. She's just...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>No, sweetie. She's DEAD.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#BGM
+tension.ogg
+0.0
+0.7
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>I killed her.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg_krave5c.jpg 300
+#BACKGROUND cg\cg_krave5b.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+You... you...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Wait, haven't you heard that? Let me repeat it:
+>I. KILLED. HER.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg_krave5c.jpg 300
+#BACKGROUND cg\cg_krave5b.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+N... no!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Would you like to know also how?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+No, stop! Stop! STOP!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Uh, yes! Why not? I'll tell you next time we meet, little, useless girl!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>It will be soooo much more funny! To taste your helplessness...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>Mark this on your agenda: I'll make you suffer as much as that bitch made ME suffer.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>THIS will be my revenge.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg_krave5b.jpg 300
+#BACKGROUND cg\cg_krave_end.jpg
+#NO_BACKGROUND
+#PAUSE 500
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+W... wait. I'm not done yet! I... I...
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>You are just a powerless, disrobed, armless brat. You wouldn't stand a chance even if I was blind and hacked.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>So, go home little black riding hood. Tonight the REAL wolf is not hungry.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg_krave_end.jpg 1500
+#NO_BACKGROUND_PICTURE
+#NO_BACKGROUND
+#PAUSE 1800
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+I remain there, like a doll.
+Lifeless, motionless.
+#TEXT_END
+#NO_BACKGROUND
+#PAUSE 600
+#BGM
+tension.ogg
+0.0
+0.9
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+I don't know if it's true. I don't know if that... thing killed my mother.
+What I know is that I couldn't do anything.
+#TEXT_END
+#NO_BACKGROUND
+#PAUSE 600
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+I've never felt so powerless.
+#TEXT_END
+#NO_BACKGROUND
+#PAUSE 600
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+This is the last thought that crosses my mind, before I pass out...
+#TEXT_END
+#NO_BACKGROUND
+#PAUSE 600
+#END

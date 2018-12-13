@@ -1,0 +1,162 @@
+#BACKGROUND cg\cgWN5.png
+#NO_BACKGROUND
+#TEXT_BEGIN
+When the sky is gloomy and dark...
+#TEXT_END
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#TRANSITION cg\cgWN5.png 300
+#BACKGROUND cg\cgWN52.png
+#NO_BACKGROUND
+#TEXT_BEGIN
+...and the Sun is resting stark...
+#TEXT_END
+#TOP_WINDOW
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cgWN52.png 300
+#BACKGROUND cg\cgWN53.png
+#NO_BACKGROUND
+#TEXT_BEGIN
+...you can feel Her soul and might...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cgWN53.png 300
+#NO_BACKGROUND_PICTURE
+#NO_BACKGROUND
+#TEXT_BEGIN
+...She's my darling Walking Night.
+#TEXT_END
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#BGM
+night.ogg
+0.0
+1.0
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+Hey, what the heck...
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+No, wait! Stop! What are you...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+##BACKGROUND cg\blood.png
+#CENTER_WINDOW
+#TEXT_BEGIN
+AAAAAAAAAAAH!
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\characters\chara_shark\Mesh99\sounds\ko.ogg
+100
+1.0
+#END
+
+#NO_BACKGROUND_PICTURE
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALASH! SBLA... SBL... F... FE...
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\ko.ogg
+100
+1.0
+#CENTER_WINDOW
+#END
+
+#NO_BACKGROUND_PICTURE
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLEELIEEEZ! SBLEEELIZ! SB... SS... 
+#TEXT_END
+#CLOSE_WINDOW
+#CENTER_WINDOW
+#END
+
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\cgN1a.png
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Aaaah...
+#TEXT_END
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SSSS! SSFFF! F! FE...! SSELIIIIIZ!!!! SBLAGAAAAAH! SBLAGAAAAAH!
+#TEXT_END
+#END
+
+#BACKGROUND cg\cgN1a.png
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+No...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cgN1a.png 300
+#BACKGROUND cg\cgN3a.png
+#CHARA_MUGSHOT chara_lobster
+#TOP_WINDOW
+#TEXT_BEGIN
+FE... FELIIIIIZ!!!!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cgN3a.png
+#CHARA_MUGSHOT chara_amy
+#TOP_WINDOW
+#TEXT_BEGIN
+No...
+#TEXT_END
+#END
+
+#TRANSITION cg\cgN3a.png 300
+#BACKGROUND cg\cgN4a.png
+#CHARA_MUGSHOT chara_lobster
+#TOP_WINDOW
+#TEXT_BEGIN
+FELIIIIIZ!!!!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\ko.ogg
+100
+1.0
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cgN4a.png 300
+#NO_BACKGROUND_PICTURE
+#NO_BACKGROUND
+#TEXT_BEGIN
+NOOOOOOOOOOOO!
+#TEXT_END
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#END

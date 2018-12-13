@@ -1,0 +1,91 @@
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg2a.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100
+1.0
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+It looks like we are already too late.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+That... bubble. Is it...?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+The Shadow Gallery? Damned if I know, but it looks pretty much it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+So, Donner has taken all the most powerful people in the world as hostages? Is THIS his plan?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Maybe he was forced to change it. To me, it looks just like a diversion.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+There's only one way to know that for sure: we have to reach the Bonzaga laboratory.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg2a.jpg 300
+#BACKGROUND cg\cg2b.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Then, it's time to rock.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Together until the end?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Together until the end, whether we like it or not.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Then, let's go, gentlemen. The Shadow Gallery awaits.
+#TEXT_END
+#CLOSE_WINDOW
+#END

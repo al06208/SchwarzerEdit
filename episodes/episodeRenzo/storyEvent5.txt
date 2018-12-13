@@ -1,0 +1,432 @@
+#STAGE_BACKGROUND bonzaga
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+(This is bad. They are seriously no pushovers, their actions are completely coordinated...)
+#TEXT_END
+#BGM
+..\\..\\..\\..\\stages\\bonzaga\\music\aurea.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+(...and I don't have actual combat experience, to begin with!)
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+OUCH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_renzo\sounds\hit_weak.ogg
+100
+1.0
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg_lite\cg_bonzaga3a.jpg
+#CHARA_MUGSHOT chara_wally\Mesh4
+#TEXT_BEGIN
+So, what about it, grommet? Are you still so confident?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_mono\Mesh2
+#TEXT_BEGIN
+He's just a kid, don't be too harsh with him. He just wanted to play hero.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+The police is coming at any time, by now! You are not in the position of being smug!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally\Mesh4
+#TEXT_BEGIN
+Don't make me laugh, mate! You are not in the position of threatening anyone.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_wally\Mesh4
+#TEXT_BEGIN
+Head for the safe, fat cat. I'll take care of the hot-head here and the hostages.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_mono\Mesh2
+#TEXT_BEGIN
+Yep! I'll get it open in no time!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg_lite\cg_bonzaga3ablurr.jpg 700
+#BACKGROUND cg_lite\cg_bonzaga3a.jpg
+#NO_BACKGROUND
+#AUTO
+#SOUND 
+quake_short.ogg
+100
+1.0
+#PAUSE 900
+#CLOSE_WINDOW
+#BGM
+..\\..\\..\\..\\stages\\bonzaga\\music\aurea.ogg
+0.0
+1.0
+#END
+
+#TRANSITION cg_lite\cg_bonzaga3a.jpg 300
+#BACKGROUND cg_lite\cg_bonzaga3d.jpg
+#CHARA_MUGSHOT chara_wally\Mesh4
+#TEXT_BEGIN
+W... what in Grant's name was that?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg_lite\cg_bonzaga3dblurr.jpg 900
+#BACKGROUND cg_lite\cg_bonzaga3d.jpg
+#NO_BACKGROUND
+#AUTO
+#SOUND 
+quake_mid.ogg
+100
+1.0
+#PAUSE 1200
+#CLOSE_WINDOW
+#END
+
+##BACKGROUND cg_lite\cg_bonzaga3d.jpg
+#CHARA_MUGSHOT chara_mono\Mesh2
+#TEXT_BEGIN
+A... again?
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+(*siren in the background*) WEOOOOO WEOOOOO WEOOOOO
+#TEXT_END
+#BGM
+..\..\..\..\stages\prison\music\loopFaster.ogg
+40.0
+1
+#END
+
+#CHARA_MUGSHOT chara_wally\Mesh4
+#TEXT_BEGIN
+The fire alarm?! Something's really wrong here!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg_lite\cg_bonzaga3dblurr.jpg 900
+#BACKGROUND cg_lite\cg_bonzaga3d.jpg
+#NO_BACKGROUND
+#AUTO
+#SOUND
+explosion.ogg
+30
+1.0
+#PAUSE 2000
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg_lite\cg_bonzaga3d.jpg
+#CHARA_MUGSHOT chara_mono\Mesh2
+#TEXT_BEGIN
+An explosion! That was an explosion!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_wally\Mesh4
+#TEXT_BEGIN
+Damn!
+#TEXT_END
+#END
+
+#TRANSITION cg_lite\cg_bonzaga3d.jpg 300
+#BACKGROUND cg_lite\cg_bonzaga3a.jpg
+#CHARA_MUGSHOT chara_mono\Mesh2
+#TEXT_BEGIN
+Let's get out of here, quick!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_wally\Mesh4
+#TEXT_BEGIN
+Roger.
+#TEXT_END
+#END
+
+#TRANSITION cg_lite\cg_bonzaga3a.jpg 300
+#BACKGROUND cg_lite\cg_bonzaga3d.jpg
+#CHARA_MUGSHOT chara_wally\Mesh4
+#TEXT_BEGIN
+Hey, you grommets! Something big's happening here, so we are aborting the robbery and let all of you go, clear?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_wally\Mesh4
+#TEXT_BEGIN
+Walk your ass out of the building, NOW! I don't wanna any of you to get hurt, 'kay?
+#TEXT_END
+#END
+
+#TRANSITION cg_lite\cg_bonzaga3d.jpg 300
+#BACKGROUND cg_lite\cg_bonzaga3a.jpg
+#CHARA_MUGSHOT chara_wally\Mesh4
+#TEXT_BEGIN
+As regards you, "Wannabe hero"... you'll live to see another day. I don't like shooting kids, if not absolutely necessary.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#TRANSITION cg_lite\cg_bonzaga3a.jpg 300
+#STAGE_BACKGROUND bonzaga
+#TEXT_BEGIN
+(*chatter in the background) They're running away! Somebody, anybody, stop them!
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg_lite\quake.jpg 700
+#STAGE_BACKGROUND bonzaga
+#NO_BACKGROUND
+#AUTO
+#SOUND 
+quake_mid.ogg
+100
+1.0
+#PAUSE 1200
+#END
+
+#STAGE_BACKGROUND bonzaga
+#TEXT_BEGIN
+(*chatter in the background) Another quake?!
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+(*chatter in the background) AAAAAAH!
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+(*chatter in the background) Keep calm and leave the bulding, like this, come on!
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+(*chatter in the background) Don't panic and nothing bad will happen. Keep walking...
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+Hey, Mr.~ Rubecca! Where are you going?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+My cousin Jennifer! I can't find her!
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+Mr.~ Rubecca! Get away! It's too dangerous!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+You don't understand! I...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 1500
+#TOP_WINDOW
+#NO_BACKGROUND
+#SOUND
+phone2.ogg
+100
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+My phone?
+#TEXT_END
+#SOUND
+phone2.ogg
+100
+1.0
+#END
+
+#TEXT_BEGIN
+*BEEP* ...nzo? Renzo? Can you ...r m...
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND
+beep1.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Jenn, where are you? What happened?
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+The fire!... someone... It's odd...
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#TEXT_BEGIN
+...has no face, I can't see it! ... video...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg_lite\cg_bonzaga_lasta.jpg
+#TEXT_BEGIN
+...look! It's...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Who the heck is that?!
+#TEXT_END
+#END
+
+#TRANSITION cg_lite\cg_bonzaga_lasta.jpg 300
+#BACKGROUND cg_lite\cg_bonzaga_last2a.jpg
+#TEXT_BEGIN
+...od! It saw me! It ...aw me!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Jenn! Run! Run!
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+...eaving. See you out...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+...hat is that?
+#TEXT_END
+#END
+
+#TRANSITION cg_lite\cg_bonzaga_last2a.jpg 300
+#BACKGROUND cg_lite\cg_bonzaga_last3a.jpg
+#TEXT_BEGIN
+...a camera, huh?
+#TEXT_END
+#END
+
+#TRANSITION cg_lite\cg_bonzaga_last3a.jpg 300
+#BACKGROUND cg_lite\cg_bonzaga_last3b.jpg
+#TEXT_BEGIN
+...Nevermind...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+NO!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 1200
+#CENTER_WINDOW
+#NO_BACKGROUND_PICTURE
+#NO_BACKGROUND
+#SOUND 
+static_short.ogg
+100
+1.0
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+night.ogg
+0.0
+1.0
+#END
+
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg_lite\cg_bonzaga_explosion_0.jpg
+#AUTO
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#BACKGROUND cg_lite\cg_bonzaga_explosion_1.jpg
+#AUTO
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND 
+quake_short.ogg
+100
+1.0
+#PAUSE 200
+#END
+
+#AUTO
+#BACKGROUND cg_lite\cg_bonzaga_explosion_end.jpg
+#TRANSITION cg_lite\cg_bonzaga_explosion_1.jpg 500
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#SOUND 
+explosion.ogg
+50
+1.0
+#CLOSE_WINDOW
+#PAUSE 5000
+#END
+
+
+

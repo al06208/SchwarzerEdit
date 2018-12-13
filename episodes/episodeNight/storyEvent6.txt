@@ -1,0 +1,342 @@
+#AUTO
+#BACKGROUND cg\cg_tiger1.jpg
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#TOP_WINDOW
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+Are you taking your leave, sir?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I and General Boost have nothing else to say to each other.
+#TEXT_END
+#END
+
+#MUGSHOT soldierB.png
+#TEXT_BEGIN
+This should remain among us, sir... but we all know that speaking with Boost is frustrating. We follow his orders because he's the one in charge.
+#TEXT_END
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+And because we need to take a salary home at the end of each month. I have two kids to raise, so I'm enduring this for them.
+#TEXT_END
+#END
+
+#MUGSHOT soldierB.png
+#TEXT_BEGIN
+At times, Boost is quite unreasonable, but this job is not that bad: The benefits and amount of free time make up for his lack of empathy.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Yeah, I know that for you it's just a job like any other. Still, he and I will never get along.
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+(radio) KZZZZ... Commander Samb...? It's Cyp... I ne... sistance!
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Cyphr? I'm not hearing you well. Give me a second, I move to a place with better connection...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+(...and nobody eavesdropping our conversation)
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_tiger2a.jpg
+#TRANSITION cg\cg_tiger1.jpg 300
+#NO_BACKGROUND
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Okay, I can hear you now. Any news about the interrogation?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Sir, don't panic, okay?
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#BGM
+night.ogg
+0
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Amy is the Night Assassin!
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I... is this a joke, Cyphr? If so, it's definitely a bad...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+I'm not joking. She... she turned into her, right before my eyes.
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#BGM
+night.ogg
+100
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+... and she attacked me TWICE, before vanishing out of thin air.
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Alright, I'm coming. Wait for me there. It's better not to talk about this via radio.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Copy that, sir.
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND
+talkie.ogg
+100
+1.0
+#END
+
+#AUTO
+#NO_BACKGROUND
+#PAUSE 1500
+#CLOSE_WINDOW
+#SOUND
+beep1.ogg
+100
+1.0
+#END
+
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+(I... I refuse to believe that Amy... the very same girl I saved...)
+#TEXT_END
+#END
+
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg_tiger2b.jpg
+#TRANSITION cg\black.jpg 300
+#NO_BACKGROUND
+#PAUSE 300
+#BGM
+night.ogg
+0
+1.0
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+1.5
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+I've finally found you, Tiger!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+WHAAAAAA?!
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Aren't you happy to see me?
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+The Night Assassin... here?!
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Listen, Tiger, I don't have much time left.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Next time I emerge, I will be totally possessed by the Night.
+#TEXT_END
+#BGM
+night.ogg
+100
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+My little joke will become reality... and I will try to kill you as well.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg_tiger3a.jpg
+#TRANSITION cg\cg_tiger2b.jpg 300
+#NO_BACKGROUND
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+So, I beg you, Tiger...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+...take care of Aylin in my place, alright?
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_tiger3b.jpg
+#TRANSITION cg\cg_tiger3a.jpg 500
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 300
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+0.3
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+A... Amy?
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_tiger4.jpg
+#TRANSITION cg\cg_tiger3b.jpg 500
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Amy? AMY?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\black.jpg
+#TRANSITION cg\cg_tiger4.jpg 300
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 300
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+AMYYYYYY!
+#TEXT_END
+#BGM
+night.ogg
+0
+1.0
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 1200
+#END

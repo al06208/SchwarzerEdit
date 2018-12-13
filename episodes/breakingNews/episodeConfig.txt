@@ -1,0 +1,8 @@
+#EPISODE_NAME
+Breaking News
+#DESCRIPTION
+Hello! Here's Nathan Trevor from FTV News.
+Today we will cover the status of the sentiment
+against distortion plants and what are its origins...
+#DESCRIPTION_END
+#EVENT storyEvent0

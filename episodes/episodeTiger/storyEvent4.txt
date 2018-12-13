@@ -1,0 +1,74 @@
+#STAGE_BACKGROUND neonlight\
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Okay, what about surrendering? It appears that your "power of the Night" is not that impressive.
+#TEXT_END
+#BGM
+..\..\..\..\stages\neonlight\music\Emergency.ogg
+40.0
+1
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_night\
+#TEXT_BEGIN
+You... why cannot I use it properly? What is happening to my body?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_night\
+#TEXT_BEGIN
+Is... is it because I... I finally freed myself from...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_night\
+#TEXT_BEGIN
+Gggh... No! This is not acceptable. The Night... she needs me more than those maggots!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+You'll have much more time in prison to think about it.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_night\
+#TEXT_BEGIN
+I... we...
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Wait! What are you...
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cgN3a.png
+#CHARA_MUGSHOT chara_night\
+#TEXT_BEGIN
+...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+No! Take my hand! Take my...
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END

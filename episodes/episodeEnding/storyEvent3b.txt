@@ -1,0 +1,111 @@
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg4a.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\Algol\music\invasion.ogg
+40.0
+0.5
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+I was right. I WAS RIGHT!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+This world, this incredibly scenic, inconsequent, and coincidence-driven world is but a projection! A PROJECTION!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+This explains everything, EVERYTHING!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg4a.jpg 300
+#BACKGROUND cg\cg4b.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+But, now, the show MUST go on... without me.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Time to head back to Northern Algol, together with my prize.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+My doubts are solved, my sight is clear.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+This world has become MUCH more interesting to observe.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+What a treat! What a show! How thrilling!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Ah, ah! Ah, ah!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg4b.jpg 300
+#NO_BACKGROUND_PICTURE
+#PAUSE 500
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+It will be SO MUCH funnier to be but a watcher!
+#TEXT_END
+#CLOSE_WINDOW
+#END

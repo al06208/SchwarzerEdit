@@ -1,0 +1,159 @@
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+Huh...
+#TEXT_END
+#BACKGROUND cg\clipSkeleton1a.png
+#PAUSE 600
+#BGM
+..\\..\\..\\..\\stages\Elevator\music\boss_krogh.ogg
+100.0
+0.8
+
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+(Crap! He's not letting me go!)
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+(I'm exhausted, but I MUST keep the bravado. Never show open wounds to a predator...)
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+I'm unscathed, Skelly. I'll send you to the hospital in no time.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+I must admit you are quite... persistent, to say the least.
+#TEXT_END
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+I give up.
+#TEXT_END
+#PAUSE 400
+#BGM
+..\\..\\..\\..\\stages\\manten\\music\\donniedrost_Lights.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+You... what?
+#TEXT_END
+#PAUSE 400
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+I have bigger fish to fry. You were just a pleasant sidedish.
+#TEXT_END
+#PAUSE 600
+#BGM
+..\\..\\..\\..\\stages\\manten\\music\\donniedrost_Lights.ogg
+40.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+I've just tried my luck. The stake isn't anymore worth the effort.
+#TEXT_END
+#PAUSE 600
+#END
+
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+You... are letting me go?
+#TEXT_END
+#PAUSE 400
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+I'm not an idiot. Fighting you would be a waste of energies that I can't currently afford. Moreover, I've been already paid to deliver you... another message.
+#TEXT_END
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+A message from a fishguy called Blade.
+#TEXT_END
+#PAUSE 300
+#END 
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Blade?! What the heck is he sayin'?
+#TEXT_END
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+"Meeting at the top of the Bonzaga Skyscraper, 12:30. Come alone."
+#TEXT_END
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+...
+#TEXT_END
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Hey! Wait! Where are you going? Skallen!
+#TEXT_END
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+I've other business to attend. Just get lost.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#STAGE_BACKGROUND Manten\\
+#TEXT_BEGIN
+He's gone...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Blade... can I trust you?
+#TEXT_END
+#PAUSE 300
+#CLOSE_ALL_WINDOWS
+#END

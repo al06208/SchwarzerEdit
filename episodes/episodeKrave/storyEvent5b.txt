@@ -1,0 +1,61 @@
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg6a.jpg
+#PAUSE 0
+#NO_BUFFER_TIME
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\AcidPit\music\acid_armor_low.ogg
+35.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I thought you were more dangerous. Come on, is this the best the army can provide?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+(This... this is a nightmare! This... monster killed my buddies in cold blood!)
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+(I have to take time for the reinforcements to arrive!)
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>One more, and it's game over. Well, it was amusing... until it lasted.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+But, why? Why are you doing this?! Why?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Because I have no choice, if I want to survive.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>By the way, since it's probably your death wish, I will tell you something more...
+#TEXT_END
+#CLOSE_WINDOW
+#END

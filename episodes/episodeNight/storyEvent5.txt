@@ -1,0 +1,311 @@
+#BACKGROUND cg\cg_hospital11c.jpg
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Welcome to my world, Cyphr! Do you like it? Nobody will disturb us now!
+#TEXT_END
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#BACKGROUND cg\cg_hospital11d.jpg
+#TRANSITION cg\cg_hospital11c.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+This... this is a trick, or?!
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital11c.jpg
+#TRANSITION cg\cg_hospital11d.jpg 200
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+If you don't believe me, you are free to test it yourself. Not that I would advise you to do that, though.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Good! Now that this is settled, let's get back to the main topic, shall we?
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+I'm not going to hurt you, Cyphr. I kinda like your stubborness.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital11d.jpg
+#TRANSITION cg\cg_hospital11c.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Amy...
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital11c.jpg
+#TRANSITION cg\cg_hospital11d.jpg 200
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Call me Lejl, please. Or Aylin, or Mary, but PLEASE do not use that name. I hate it from the bottom of my heart.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital11d.jpg
+#TRANSITION cg\cg_hospital11c.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+And I hate murderers like you!
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital11c.jpg
+#TRANSITION cg\cg_hospital11d.jpg 200
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Calm down, Cyphy. I told you, I'm not an assassin. I'm just... a personification of Aylin's self-preservation instinct.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Whenever Aylin is in danger, I come out and do what I have to. All my "murders" were just out of self-defense, you know?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+The relatives I've killed sold Aylin to General Boost. He put his dirty eyes on her a loooong time ago.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital11d.jpg
+#TRANSITION cg\cg_hospital11c.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+How can I trust you, after you attacked me TWICE in the last ten minutes? Besides, my name is NOT Cyphy!
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital11c.jpg
+#TRANSITION cg\cg_hospital11d.jpg 200
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Let's put this straight, shall we? I didn't attack you because I had a choice to do so. It just happens that you are currently a threat to Aylin's future and well-being.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+You know, if you would report your findings to Tiger or to the army, Aylin would be in serious troubles. Still, I'm... restraining myself from eliminating you now. I need you alive.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+No, there's still something... wrong. The Night Assassin was always talking about her "darling Walking Night", how she was killing to "purify the Night"...
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_hospital12.jpg
+#TRANSITION cg\cg_hospital11c.jpg 300
+#NO_BACKGROUND
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+...yet, you say that you were doing this just to protect Amy?! How can I believe your claims?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+The Night, right. That is both my greatest achievement and my biggest source of troubles.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+You know? I needed a way to cope with my murders... so I found one: I am sacrificing these people to the Night, who takes away the unworthy and cleanses the world of parasites and beggars.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital11c.jpg
+#TRANSITION cg\cg_hospital12.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+A... a coping mechanism? So, it's all just a sort of crazy role-play for you, or?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+I admit I got inspired by the story of "Jack the Ripper". It was a nice way to rationalize the fact that I basically kill people in cold blood. It added also a bit of flavour.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+The nursery rhyme, the random blabbering about "the purity of the Night", the Night here, the Night there! So much for a stroke of modern folklore! Isn't it exciting?
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Still, I'm not a person, Cyphy... I'm just a "layer" superimposed to Aylin, and, therefore, unstable.
+#TEXT_END
+#END
+
+#BACKGROUND ..\episodeTiger\cg\cgN3a.png
+#TRANSITION cg\white.jpg 200
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Since the day I fell from the bridge, I've started gradually losing control of my body and mind. I'm mixing reality and fantasy. The desire to serve the Night, to become the Night...
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital11c.jpg
+#TRANSITION cg\white.jpg 200
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+...is making his way deeper and deeper inside me, to the point that... I will probably disappear soon, taking Aylin away with me.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Most likely, next time we meet, I won't recognize you anymore and just try to kill you. I'm using every ounce of energy left to keep this "unreality" stable and talk with you now, Cyphy.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital12.jpg
+#TRANSITION cg\cg_hospital11c.jpg 200
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+But... why?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Once I'm gone completely mad, someone has to stop me... to kill me. I don't want Tiger to be the one, he was really kind with Aylin.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+It has to be someone with nothing to lose. Someone who would not feel pain or regrets in ending the life of an "annoying little brat".
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+... that's not me! I'm not a killer, I... I simply can't...
+#TEXT_END
+#END
+
+#TRANSITION cg\cg_hospital12.jpg 200
+#BACKGROUND cg\cg_hospital11c.jpg
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+That's sad, Cyphy. I would have loved if you could do this. Oh, well, I will just find someone else, okay?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+You know, I'm *definitely* not gonna take my own life until there is hope for Aylin to keep on living...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+...but as soon as I'm straying away from sanity, I have to be terminated against my own will.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Until then... see you, Cyphy!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+No, wait! Amy!!!
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\white.jpg
+#TRANSITION cg\cg_hospital11c.jpg 400
+#NO_BACKGROUND
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\cg_hospital11e.jpg
+#TRANSITION cg\white.jpg 400
+#PAUSE 1200
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+W... what the heck...?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Where did she go?! She... she just disappeared!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Damn! I have to contact the commander immediately!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Commander Sambiong? It's Cyphr, I need your assistance! Amy just...
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+... well, I don't think you would believe me if I told you she vanished out of thin air, or...?
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#END

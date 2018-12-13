@@ -1,0 +1,219 @@
+#AUTO
+#BACKGROUND cg\cg5d.jpg
+#NO_BACKGROUND
+#NO_BUFFER_TIME
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 25
+#BGM
+music\arkaneis_theme.ogg
+25.0
+1.0
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+You stupid flies! Are you going to annoy me to death?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+*pant* that bastard is quite resilient.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+*pant* definitely.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...~ I have recovered a little. Thanks.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+What are you planning to do?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Simply put... we will try to restrain his movements, so that you can hit him with the biggest beam you can charge.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg5d.jpg 500
+#BACKGROUND cg\cg6c.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+I will help. Count on me.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+All our lives are on the line. Doing nothing equals a suicide!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+But attacking all together will put us in danger of hitting each other... or being killed, one by one.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Do we have any other choices?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Yes.
+#TEXT_END
+#BGM
+music\arkaneis_theme.ogg
+0.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg6c.jpg 300
+#BACKGROUND cg\cg5a.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 300
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+25.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Leave it all to me.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+What?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+This is nonsense!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg5a.jpg 300
+#BACKGROUND cg\cg5d.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Hey, don't be stupid! You've always been a hothead, Red, but...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Shut up, Ange.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+He was TOYING with both you and Johnson, like a cat with the mouse.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+This made me realize that I'm really the only one who can stop him.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Before, I was paralyzed by my fears... but now, I see him as what he really is.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+An old man who spent centuries in that dead world, losing his mind, while for us only one year passed.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Someone with a dream, a twisted dream, but yet someone who won't stop in front of anything to fulfill it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I know I can do this, so please... trust me.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Trust me one last time!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+Come at me, you TRAITOR!
+#TEXT_END
+#CLOSE_WINDOW
+#END

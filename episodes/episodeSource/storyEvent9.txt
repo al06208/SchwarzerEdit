@@ -1,0 +1,377 @@
+#AUTO
+#BACKGROUND cg\black.jpg
+#NO_BACKGROUND
+#PAUSE 0
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\prison\music\loopFaster.ogg
+40.0
+1
+#END
+
+#AUTO
+#BACKGROUND cg\cg4a.jpg
+#TRANSITION cg\cg4b.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 100
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+1
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+*UGH*
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg4c.jpg
+#TRANSITION cg\cg4d.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 100
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+1.1
+#END
+
+#CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+*GAH*
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg4e.jpg
+#TRANSITION cg\cg4f.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+0.9
+#END
+
+#CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+Is it all you've got, Red?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg4g.jpg
+#TRANSITION cg\cg4h.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+0.8
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Not in the slightest!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg4a.jpg
+#TRANSITION cg\cg4b.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+1
+#END
+
+#AUTO
+#BACKGROUND cg\cg4c.jpg
+#TRANSITION cg\cg4d.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+1.2
+#END
+
+#AUTO
+#BACKGROUND cg\cg4e.jpg
+#TRANSITION cg\cg4f.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+0.9
+#END
+
+#AUTO
+#BACKGROUND cg\cg4g.jpg
+#TRANSITION cg\cg4h.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+0.8
+#END
+
+#CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+Not enough. You've never been stronger than me in a fistfight.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg4e.jpg
+#TRANSITION cg\cg4f.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+How did you think you could best me?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg3d.jpg
+#TRANSITION cg\cg4e.jpg 300
+#PAUSE 500
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Ange... I can't stop right now. No matter how many times you hit me, I will rise stronger!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I'm not giving up! Not until my last breath!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+Then come at me! You'll have to pass over my dead body!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg4g.jpg
+#TRANSITION cg\cg4h.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+0.8
+#END
+
+#AUTO
+#BACKGROUND cg\cg4c.jpg
+#TRANSITION cg\cg4d.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+1.2
+#END
+
+#AUTO
+#BACKGROUND cg\cg4a.jpg
+#TRANSITION cg\cg4b.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+1
+#END
+
+#AUTO
+#BACKGROUND cg\cg4e.jpg
+#TRANSITION cg\cg4f.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+0.9
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+*GAH*
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+End of the line, Red.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Donner!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg5.jpg
+#TRANSITION cg\cg4e.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+1.2
+#END
+
+#CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+What the Hell?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Donner! Take Kaya and enter that door! I will buy you some time!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+Sis!!!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+DO IT! Quick! You just need ONE kitsune!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+Damn you, brainless doll! You can't see where is this going to?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+YES! This is the path I CHOSE!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+GO! NOW!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Thanks, Kiyoko.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\black.jpg
+#TRANSITION cg\cg5.jpg 300
+#PAUSE 500
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+I will never forget you.
+#TEXT_END
+#END

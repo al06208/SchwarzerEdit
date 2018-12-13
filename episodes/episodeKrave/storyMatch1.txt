@@ -1,0 +1,15 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+>Tell me the truth, you moron.
+#OPPONENT_WIN_QUOTE
+*sigh* I guess I will have to fix you again...
+#PLAYER_INTRO_QUOTE
+>You are not getting away with this.
+#OPPONENT_INTRO_QUOTE
+Oh, man. Why did I even considered fixing this guy?!
+#PLAYER_LIFE_MULTIPLIER 1.5
+#PLAYER event_broken_krave
+#OPPONENT chara_renzo\mesh99
+#AI_LEVEL 5
+#STAGE Algol
+#WIN_CONDITION Percentage 50.0

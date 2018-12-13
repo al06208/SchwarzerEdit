@@ -1,0 +1,78 @@
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+We are near the Irish coast. In some ten minutes we will dock in a safe haven near the dead city, Johnson. From there, you'll be able to go wherever you need to. Just do not cross my road again, 'kay?
+#TEXT_END
+#BACKGROUND cg\cg9.png
+#PAUSE 600
+#BGM
+tension.ogg
+40.0
+0.8
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Crystal clear, Mister Aural. But, alas, I will probably need your services one more time to leave the island.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+That's not a big issue, provided we don't meet in person.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I just want to ask you something, before we part ways: how did you best the lobster? You can be an excellent fighter, but with his carapace I find it hard that you managed to hurt him.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+You miss the small details, Mister Aural. The lobster was wearing sunglasses at night. So, there was no possibilty that he was relying only on his eyes to track me.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+At the beginning, when he charged at me, I grabbed his antennas and twisted them, you saw that, right?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+...you basically damaged his sensory apparatus.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+That was only temporary, but combined with a couple kicks to the head, I managed to make him suffer balance issues. Therefore, he fell as a dead body, even if I did little to no damage to him.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I see. Thanks a lot for the explanation.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+This could be useful in the future...
+#TEXT_END
+#PAUSE 600
+#END

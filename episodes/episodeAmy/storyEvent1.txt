@@ -1,0 +1,122 @@
+#BACKGROUND cg\cg2a.png
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+That wasn't fair, Tiger. You've let me win.
+#TEXT_END
+#PAUSE 600
+#BGM
+..\\..\\..\\..\\stages\\stoneArch\\music\bgmtemple.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Was it so obvious?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Painfully obvious. I'm a bit disappointed.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg2a.png 300
+#BACKGROUND cg\cg1a.png
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Well, you shouldn't. I've never sparred with the same person twice in a row in such a little time. Cyphr could get jealous.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Cyphr Wolfchild...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Is it too daring to ask what is the relationship between you two, Tiger?
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg1a.png 300
+#BACKGROUND cg\cg2a.png
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+She's one of my best teammates. Hard worker, hot-blooded. When she speaks, she stings like a scorpion.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+And, if even for a moment that thought crossed your mind, the answer is no. I don't believe in interspecies romances. Mutants should accept the fact that they are born to go extinct.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+You are pretty hard with yourself.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I'm a monster, Amy.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+A creature that saved human lives and is capable of such acts of kindness, is barely a monster.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I think it's time to call it a day. Hanging out with you was cool, but I have business to attend.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+It was pretty nice of you to abide by my daring request. I am most grateful.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+You are free to step by when you wish to. After all, I'm always there.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg2a.png 300
+#BACKGROUND cg\cg1a.png
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I will keep that in mind. See you soon, Tiger. I hope you will consider me as a potential team member for your unit.
+#TEXT_END
+#PAUSE 600
+#END

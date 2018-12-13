@@ -1,0 +1,299 @@
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Commander Sambiong?
+#TEXT_END
+#STAGE_BACKGROUND deltaBase\
+#PAUSE 600
+#BGM
+..\..\..\..\stages\deltaBase\music\wontolla_rain.ogg
+30.0
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Yeah, Cyphr? Do you need more information on Shaz Colder, before leaving?
+#TEXT_END
+#PAUSE 600
+#END
+
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Uh, no, that's not it. Have you noticed that we have visitors?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Visitors?
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cgA2b.png
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+Look, that girl over there. She was patiently waiting at the reception, asking for you. When they told her that they couldn't let her in, she just leaned on the wall, saying something like "I'll wait here". I've noticed her when going out and thought to report it to you.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+It seems like you have a stalker, sir! And pretty young, also. She looks like a teenager, doesn't she?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Wait, is she...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+Huh? Sir? Are you really going to...
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cgA2b.png 300
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#BACKGROUND cg\cgA3b.png
+#TEXT_BEGIN
+I've been told that there was someone looking for me at the reception.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+You? Does this mean... that you are Tiger Sambiong?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Yes, it's me. How can I help you?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+...I, well...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+You are the girl from two weeks ago, right? The one we took to the hospital with the helicopter.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Yes, that's me. You really are commander Sambiong, then.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Who else should I be?
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cgA3b.png 300
+#BACKGROUND cg\cgA4b.png
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Sorry, it's just a bit... strange. I thought you were, well, a human being. That's... that's all.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Oh.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I guess I shouldn't have touched that nerve, right?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Don't worry, I'm accustomed to it. Do you think you are the first one asking that question?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Yeah, sorry. It's just that...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+*deep breath* Okay, let's start again from the beginning.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cgA4b.png 300
+#BACKGROUND cg\cgA1b.png
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+My name's Amy. It's a real pleasure to finally meet you, Mr.~ Sambiong!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+The doctor said that you've stayed near my bed for the whole night, until they told you my conditions had stabilized. It was very kind of you.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+This is worth ten thousand times my useless prejudices. If it weren't for you...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Don't worry, it was just my duty. How do you feel now?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Totally fine! The doctors say I'm ready to rock again... and that's the reason of my visit here, actually.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I know that it may sound a bit daring, but may I ask you a favour, Mr.~ Sambiong?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Could you spar with me? I want to show you that I can join your team.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cgA1b.png 300
+#BACKGROUND cg\cgA5c.png
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+What? You want to join Delta Team?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Precisely. I have my own reasons to do so.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+Do you have any military training? Any experience in the army?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I'm afraid not. But this doesn't mean I'm not suitable.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+Oh, great! Another wannabe justice-addicted-teenage-dreamer! As if we hadn't enough of them around.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+For your information, I'm 22. So, I'd say, also older than you. And definitely more mature. Seriously, do you fear I could steal you the spotlight?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I don't remember having ever been rude to you, Miss Wolfchild.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+...yeah, whatever. Sorry.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Calm down, you two, please.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TRANSITION cg\cgA5c.png 300
+#BACKGROUND cg\cgA1b.png
+#TEXT_BEGIN
+Listen, Amy... I can't let you join the team before going through your curriculum. But I will fulfill your wish of a sparring match.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Impress me, and I will consider putting a good word for you.
+#TEXT_END
+#PAUSE 600
+#END

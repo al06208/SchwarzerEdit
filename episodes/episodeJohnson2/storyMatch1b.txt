@@ -1,0 +1,16 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+You are not as human as you pretend to be.
+#OPPONENT_WIN_QUOTE
+What is your connection with him?!
+#PLAYER_INTRO_QUOTE
+Let's skip the introductions, shall we?
+#OPPONENT_INTRO_QUOTE
+You have no face, just like him...
+#OPPONENT_LIFE_MULTIPLIER 1
+#PLAYER_LIFE_MULTIPLIER 1
+#OPPONENT chara_kiyoko\storyMesh1
+#PLAYER chara_johnson
+#AI_LEVEL 5
+#STAGE Algol
+#TIMER 100

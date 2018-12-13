@@ -1,0 +1,122 @@
+#BACKGROUND cg\cg0.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>You can still run? I'm very seriously impressed by your stamina...
+#TEXT_END
+#BGM
+..\..\..\..\stages\RunawayTrain\music\beroza_drive_cut.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Except, not really. I have to keep you alive, so don't make things much more difficult than they are!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+N... not with my consent!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>The big bad wolf is coming for yoooou, Shazzy! You won't...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 400
+#TOP_WINDOW
+#CLOSE_WINDOW
+#TRANSITION cg\cg0.jpg 300
+#BACKGROUND cg\cg0f.jpg
+#NO_BACKGROUND
+#BGM
+..\..\..\..\stages\RunawayTrain\music\beroza_drive_cut.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Uh, my sight is a bit blurried... what...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>No...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg0f.jpg 300
+#BACKGROUND cg\cg0g.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>No no no no no! Not now! NOT NOW!
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+moody.ogg
+100.0
+1.0
+#END
+
+#AUTO
+#PAUSE 400
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TRANSITION cg\cg0g.jpg 300
+#BACKGROUND cg\cg0e.jpg
+#NO_BACKGROUND
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>STOP, YOU TWO! I SAID STOP!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I can't... I don't...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#STAGE_BACKGROUND EncorpSurfaceStation
+#TRANSITION cg\cg0e.jpg 300
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>GGRAAAAAAAAAH!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Not now! This isn't fair! THIS ISN'T FAAAAAAAIR!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+>COME BACK HERE! COME BAAAACK!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+

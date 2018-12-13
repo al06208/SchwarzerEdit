@@ -1,0 +1,17 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+...
+#OPPONENT_WIN_QUOTE
+See, lobster? This is how you convince people to follow you!
+#PLAYER_INTRO_QUOTE
+You've tried to kidnap the wrong person!
+#OPPONENT_INTRO_QUOTE
+If you are the girl who was flirting with Tiger... then, definitely not.
+#OPPONENT_LIFE_MULTIPLIER 1
+#PLAYER_LIFE_MULTIPLIER 1
+#OPPONENT chara_shark\Mesh99
+#PLAYER chara_amy\Mesh1
+#AI_LEVEL 5
+#STAGE TheWalkingNight
+#NO_RINGOUT
+#TIMER 100

@@ -1,0 +1,34 @@
+#BEGIN
+
+Elena 2000 2000
+Just behave and let me win, Shaz.
+Elena 25 2000
+You shouldn't make a girl angry.
+Shaz 1000 3000
+Fuck! If you are a human girl, I'm a goldfish.
+Shaz 500 3000
+Seriously, YOU were lookin' for me TOO?
+Elena 1000 2000
+Yup, that's right!
+Elena 10 2500
+I'll get you back to Go in exchange for freedom.
+Shaz 500 2000
+Who told ya where find me?!
+Elena 500 3000
+The same bastard who told you where to find me!
+Shaz 500 1500
+BLADE?!
+Elena 500 1500
+Bingo!
+Elena 100 2000
+He gave me a dossier about you. About how you
+Elena 0 2000
+were going to Encorp to be reprofiled!
+Shaz 500 1500
+That was a blatant lie!
+Shaz 500 2000
+(Why, Blade? What's your target?)
+Shaz 500 2000
+(Huh! Waitamminute! Maybe...)
+
+#END

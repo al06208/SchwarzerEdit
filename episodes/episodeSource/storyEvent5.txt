@@ -1,0 +1,87 @@
+#AUTO
+#BACKGROUND cg\black.jpg
+#NO_BACKGROUND
+#PAUSE 0
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg2d.jpg
+#TRANSITION cg\white.jpg 300
+#PAUSE 100
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+1
+#BGM
+..\..\..\..\stages\branch_70X\music\combatMission.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Just stay down!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+GODDAMNIT!
+#TEXT_END
+#END
+
+#TRANSITION cg\cg2d.jpg 300
+#BACKGROUND cg\cg2_0.jpg
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+That was GREAT, sis!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Thanks! Any more of them?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+They're coming, I'm hearing footsteps.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Better get ready! Donner? Any advice?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+... when I decided to train you, I would have never expected these results.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I'm really proud of you two.
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg2a.jpg
+#TRANSITION cg\cg2_0.jpg 300
+#PAUSE 500
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+But now, leave it to me. We can't afford to wait any longer.
+#TEXT_END
+#END

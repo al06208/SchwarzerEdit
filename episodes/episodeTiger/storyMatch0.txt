@@ -1,0 +1,18 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+You are not escaping alive, "father".
+#OPPONENT_WIN_QUOTE
+You idiot! Wasting your precious life this way!
+#PLAYER_INTRO_QUOTE
+I won't let you create other monsters!
+#OPPONENT_INTRO_QUOTE
+You are one of those monsters, you know that? Without me, you wouldn't exist!
+#OPPONENT_LIFE_MULTIPLIER 1
+#PLAYER_LIFE_MULTIPLIER 1
+#OPPONENT chara_graf\Mesh3
+#PLAYER chara_tiger\Mesh4
+#AI_LEVEL 5
+#STAGE prison
+#NO_RINGOUT
+#TIMER 53
+#WIN_CONDITION Before_Time_Out

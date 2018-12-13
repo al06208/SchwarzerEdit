@@ -1,0 +1,79 @@
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+You seek revenge for him?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg0.png
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+Do you seek revenge for him?
+#TEXT_END
+#BGM
+..\..\..\..\stages\prison\music\loopFaster.ogg
+40.0
+1
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cg0.png 300
+#BACKGROUND cg\cg0b.png
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+Revenge? Revenge? Revenge?
+#TEXT_END
+#BGM
+..\..\..\..\stages\prison\music\loopFaster.ogg
+40.0
+1.2
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg0b.png 300
+#BACKGROUND cg\cg0e.png
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TOP_WINDOW
+#TEXT_BEGIN
+Vengere? Rererevenge?
+#TEXT_END
+#BGM
+..\..\..\..\stages\prison\music\loopFaster.ogg
+40.0
+1.4
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg0e.png 300
+#BACKGROUND cg\cg0f.png
+#CHARA_MUGSHOT chara_graf\Mesh3
+#CENTER_WINDOW
+#TEXT_BEGIN
+Venernegergneg?
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\prison\music\loopFaster.ogg
+40.0
+1.6
+#PAUSE 300
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+SAMBIOOOOONG!!!
+#TEXT_END
+#BGM
+..\..\..\..\stages\prison\music\loopFaster.ogg
+0.0
+1
+#END

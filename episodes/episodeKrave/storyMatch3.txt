@@ -1,0 +1,15 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+>Du-du-duh! Aaaaand the winner is...
+#OPPONENT_WIN_QUOTE
+I guess it would be better to call General Boost...
+#OPPONENT_INTRO_QUOTE
+Stop where you are. You are under arrest.
+#PLAYER_INTRO_QUOTE
+>Welcome to the neeeeewww episode of... WHO WANTS TO BE A DEAD MAN?
+#PLAYER chara_krave\Mesh2
+#OPPONENT event_soldier
+#PLAYER_LIFE_MULTIPLIER 2.5
+#AI_LEVEL 6
+#STAGE AcidPit
+#TIMER 100

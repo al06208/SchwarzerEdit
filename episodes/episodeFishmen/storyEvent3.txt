@@ -1,0 +1,81 @@
+#AUTO
+#NO_BACKGROUND
+#SOUND
+phone2.ogg
+100
+1.0
+#CLOSE_WINDOW
+#PAUSE 2000
+#END
+
+#AUTO
+#NO_BACKGROUND
+#SOUND
+phone2.ogg
+100
+1.0
+#CLOSE_WINDOW
+#PAUSE 1500
+#END
+
+#AUTO
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\cg6.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#TOP_WINDOW
+#PAUSE 600
+#BGM
+comic.ogg
+80.0
+1.0
+#SOUND
+beep1.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Howdy, mate. Here's M.&W.~ Bounty Hunters LTD, Wally Alba at the phone. How can I help you, Mister...?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Aural, huh? I believe I have heard your name before. Anyway, what's this call about?
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg6b.jpg
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Wait! THAT sharkman? Near St.~ Patrick?! THIS NIGHT?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Alright, mate. We are riiight on the job. We'll contact you later.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#SOUND
+beep1.ogg
+100
+1.0
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#BACKGROUND cg\cg6.jpg
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Moooonoooo! We have a job for this evening, 'kay? Prepare the car and get ready to rock!
+#TEXT_END
+#CLOSE_WINDOW
+#END

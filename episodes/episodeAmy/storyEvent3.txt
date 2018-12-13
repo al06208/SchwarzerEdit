@@ -1,0 +1,164 @@
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TEXT_BEGIN
+Later in the evening...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+...and then, he threw me in the water. Crazy, huh?
+#TEXT_END
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\cgCH1.png
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+That guy had seriously no face? Man, that's so creepy! Was he a sort of Slender Man?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+...naah. Just a random moron who dresses like he's lost a bet. Bright colours, got it? Reaaally bright.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Yellow?
+#TEXT_END
+#END
+
+#TRANSITION cg\cgCH1.png 300
+#BACKGROUND cg\cgCH2b.png
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+Yeah, yellow! Nice guess, amico!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+*cough, cough*
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+(That motherfishin' Johnson keeps haunting me even when he's not around...)
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+Hey, Gaetano...
+#TEXT_END
+#END
+
+#TRANSITION cg\cgCH2b.png 300
+#BACKGROUND cg\cgCH2d.png
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+...do you know that nice chick over there, near the entrance?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Uh, I think so. Name's Amy. She was workin' here until a couple months ago. She drops by every other night to say "hi" to the owner an' to that Kari bitch who's the "main event" o'this place.
+#TEXT_END
+#END
+
+#TRANSITION cg\cgCH2d.png 300
+#BACKGROUND cg\cgCH2b.png
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+Wait! Was she a stripper?
+#TEXT_END
+#END
+
+#TRANSITION cg\cgCH2b.png 300
+#BACKGROUND cg\cgCH1.png
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Can't say: I'm here for the booze, not for the boobs. Besides, I'm always dead drunk when the ladies show their skin. So, I've gotta really no clue.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+Gotta make my move, then! Wish me "in bocca al lupo", Gaetano!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Don't ya overdo it, 'kay, goldfish? Ya ain't much sober and...
+#TEXT_END
+#END
+
+#TRANSITION cg\cgCH1.png 300
+#BACKGROUND cg\cgCH3.png
+#CHARA_MUGSHOT chara_amy\
+#TEXT_BEGIN
+That's no use. It wasn't the place. But, then, If I weren't here, two nights ago, where...
+#TEXT_END
+#END
+
+#TRANSITION cg\cgCH3.png 300
+#BACKGROUND cg\cgCH3b.png
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+Ciao pupa! How are you? Nice night for a kiss, isn't it?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy\
+#TEXT_BEGIN
+And you would be...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+Who cares about names? "A rose by any other name is still a rose", pupa!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy\
+#TEXT_BEGIN
+And a douche is still a douche, even without a given name.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+You are hurting me, baby! Don't you wanna spend a nice night with this awesome man in front of you?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy\
+#TEXT_BEGIN
+My answer could seriously hurt your self-esteem. So, please, step aside and stop harassing me.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+I don't think so.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy\
+#TEXT_BEGIN
+*sigh* Thinking that I came here just NOT to get into troubles...
+#TEXT_END
+#END

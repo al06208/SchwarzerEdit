@@ -1,0 +1,16 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+...
+#OPPONENT_WIN_QUOTE
+You shouldn't have come back, Red.
+#OPPONENT_INTRO_QUOTE
+I can't let you do this, Red.
+#PLAYER_INTRO_QUOTE
+Ange, please, step back!
+#PLAYER chara_donner
+#OPPONENT chara_skeleton
+#PLAYER_LIFE_MULTIPLIER 2.5
+#OPPONENT_LIFE_MULTIPLIER 2.5
+#AI_LEVEL 5
+#STAGE story_bonzaga_research_corridor
+#TIMER 100

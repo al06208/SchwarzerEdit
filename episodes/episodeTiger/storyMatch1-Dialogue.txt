@@ -1,0 +1,25 @@
+#BEGIN
+
+Lejl 2000 3000
+You parasites have finally showed up.
+Tiger 400 2000
+Yes? Well, it's what we do.
+Tiger 0 2000
+You kill people, we take you down. Easy.
+Lejl 500 2000
+I am not killing people. I am saving them.
+Lejl 0 3000
+I am offering them a new life as a part of the Night.
+Tiger 400 2000
+Oh, yeah. Uhm, sure.
+Tiger 0 2000
+So, why were you waiting for us?
+Tiger 0 2000
+Do you want to "offer" us a new life?
+Lejl 500 2000
+I need your knowledge. Therefore, I need to
+Lejl 0 2000
+make you become part of the Night.
+Tiger 400 2000
+...
+#END

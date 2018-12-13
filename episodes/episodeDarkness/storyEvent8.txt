@@ -1,0 +1,362 @@
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg14d.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+... come on, seriously? Five thousand pounds?!
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+You want me to smuggle you, the armless chick, and my former employee to Euterpe safely without having to pay any fee?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Aren't you doing this for Amy?
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Money comes ALWAYS first. I wouldn't be half as rich, if I hadn't stayed true to my motto.
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Plus, I've already provided you clothes for Amy *cough* free of charge. Please, don't tell this around, though, I have a reputation to defend.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg14d.jpg 300
+#BACKGROUND cg\cg14a.jpg
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Clothes that are exactly like the ones she wore at the hospital, huh? How comes you had them? Were you... forcing her to dress like this?
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Forcing? Hell, no! Those clothes show almost more skin than they cover! Still, she liked them quite a lot. She had three or four identical spare sets, and she left one of them at my place. Never thought that could be of any use.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Well, she will be probably happy when she...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Cyphy... Cyphy, please... hug me, just once...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+... okay, which sort of weird, twisted fanfiction dream is she having?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#TRANSITION cg\cg14a.jpg 300
+#BACKGROUND cg\cg14b.jpg
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Lejl, NO!
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+0.0
+0.5
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Don't go! Don't go away!
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Well, guess who's back!
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+AMY! You are awake! You are awake!
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+T...~ Tiger? C...~ Cyphr? Mr.~ Daevka?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Yay! You got it right, Amy! We're all happy to hear you are still yourself!
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Tiger was going insane. And so was I! Which kind of scary stuff were you dreaming?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg14b.jpg 300
+#BACKGROUND cg\cg14e.jpg
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I... I wandered alone through a strange desert, completely filled with red sand. The sky was pitch black, with crimson clouds. There was no animal, just strange tentacle-like plants, moving in an unsettling way.
+#TEXT_END
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I wandered for days, maybe weeks. I was eating dirt and whatever I could find, hoping to survive long enough. At last, I met a hooded man who was called "Donner". He was heading to Euterpe together with two fox girls.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+The man tried to kill me, but he was forced to stop by the "rise of the tide".
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Then... then, something... someone called "Lejl" took possession of my body... she... she promised me she would have saved me.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Lejl...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+After that... I just saw many "me", then Lejl got mad, she started crying, begging me to take over and wake up.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+What... what happened to her?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I don't know. She just... asked me to say "farewell" to you and Tiger. That she would have liked to hang out with you Cyphr, if she had been human.
+#TEXT_END
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I... it was just a dream, Amy, okay? Don't get... too carried by that. You had a terrible day, and...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#TRANSITION cg\cg14e.jpg 300
+#BACKGROUND cg\cg14b.jpg
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Where are we going, Tiger? What... what happened to me, back at the hospital?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Long story short? Lejl is a dying part of you... and, oh she's the Night Assassin. You turned into her in front of me.
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+We are on the run from the military, who want to employ you as a nice test subject for, like, the rest of your life.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+But don't worry, thanks to Mr.~ Daevka we found a way to take you to Euterpe without Boost knowing it. You have quite a powerful friend, Amy. Oh, yes, and we also found out you were a stripper who was also used to offer a certain kind of *ehm* "entertainment".
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+*ghhhh* C... Cyphr!
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Straight to the point, like a scorpion! I like her, I REALLY like her, Sambiong!
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+You ARE joking, right?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+No, Mr.~ Daevka confirmed the last point himself! Seriously, I knew you were dressing in a strange way, but...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Screw that! I'm talking about the Night Assassin! I can't be... I can't possibly be...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg14b.jpg 300
+#BACKGROUND cg\cg14e.jpg
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Amy... you are NOT the Night Assassin, but a part of you IS: a second personality which goes by the name "Lejl Kaleidos".
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+She told us that she did it only to protect you. We couldn't verify her story, but some of the things line up.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+The... the same Lejl that helped me escape my nightmare? No, this is not possible! She was too kind to be a murderer!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+That was just a dream, Amy, okay? Just. A. Dream. You were stressed, and...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+That was DEFINITELY not an ordinary dream!
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Listen, what about we talk about it again, like, NEVER? I need to concentrate on the map, 'kay?
+#TEXT_END
+#END
+
+#TRANSITION cg\cg14e.jpg 300
+#BACKGROUND cg\cg14c.jpg
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Right. Now, it is of utmost importance that we...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Amy? Why are you crying?
+#TEXT_END
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I... I don't know. It's like... I'm not feeling sad, or anything...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14c.jpg 300
+#BACKGROUND cg\black.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+...~but I can feel that somewhere, inside me...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+...~there's someone who just needs to cry.
+#TEXT_END
+#CLOSE_WINDOW
+#END

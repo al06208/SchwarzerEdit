@@ -1,0 +1,71 @@
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\black.jpg
+#PAUSE 0
+#NO_BUFFER_TIME
+#CLOSE_WINDOW
+#BGM
+moody.ogg
+100.0
+1.0
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\black.jpg 2000
+#BACKGROUND cg\cg3.jpg
+#PAUSE 1500
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg3.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I... I went through all of this, swallowed my pride, buried my ego...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I've forsaken EVERYTHING which defined myself in order to survive... yet, when I'm THIS near to my goal...?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Ah, ah. The irony. Stopped from getting infinite fuel... by my current lack of fuel.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Well, then. Enough crying. I have to remember to kill the "sadness" subroutine or to increase its threshold. Lamenting requires precious energies I can not afford to lose.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+moody.ogg
+0.0
+1.0
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg3.jpg 300
+#BACKGROUND cg\black.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Energy better spent to try tracking down my target... again.
+#TEXT_END
+#CLOSE_WINDOW
+#END

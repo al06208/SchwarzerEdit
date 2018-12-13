@@ -1,0 +1,185 @@
+#AUTO
+#BACKGROUND cg\cg_algol1a.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#BGM
+..\..\..\..\stages\Algol\music\invasion.ogg
+40.0
+0.5
+#PAUSE 0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+This place... it's like the Witch Tower in New Langdon. Well, except for that giant flower wrapped around the castle.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+It's not that surprising, Johnson. There are seventeen Witch Towers around the world, all built by the same guy about thirty years ago.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_algol1b.jpg
+##TRANSITION cg\cg_algol1a.jpg 300
+#PAUSE 300
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+Still, I agree that the flower is... impressive. I've always thought that the blood flowers created by Rosenmaester were smaller.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+They are mutant blood-sucking flowers. Maybe they degenerated over time.
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_algol2.jpg
+#TRANSITION cg\cg_algol1b.jpg 300
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+We were already reckless enough to come here at night, we shouldn't take other unnecessary risks. Maybe we could come back tomorrow.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I haven't got anything to lose, Miss Husler. I'm here to find that "man without face" before he disappears again. Night or day doesn't make any difference, as long as I can find them.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_algol1a.jpg
+#TRANSITION cg\cg_algol2.jpg 300
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+Okay, listen Johnson: We already went through one fifth of the city, but aside from the carcasses of some wild animals, we didn't find any signs of life. Maybe our sources were wrong and we are just losing time.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+The Witch Tower in New Langdon is the place where I lived until recently. If I and that faceless guy are even remotely similar, maybe...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+Oh, sure. Well, let's believe in mysticism, coincidence and serendipity, then! Why not?
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+Hey, sis... isn't that THAT woman?
+#TEXT_END
+#BGM
+..\\..\\..\\..\\stages\\bonzaga_heat\\music\inferno.ogg
+0.0
+1.0
+#END
+
+#AUTO
+#BACKGROUND cg\cg_algol4.jpg
+#TRANSITION cg\cg_algol1a.jpg 300
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\storyMesh1
+#TEXT_BEGIN
+You are right. She's that woman we met in Euterpe.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\storyMesh50
+#TEXT_BEGIN
+Who's the man, though? I can't figure out his face.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\storyMesh1
+#TEXT_BEGIN
+He's like... him.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+... okay, Johnson. This world is a sad place without logic and consequence.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I wouldn't say so. It just means that the rumors were true...
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_algol3.jpg
+#TRANSITION cg\cg_algol4.jpg 300
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Good evening, ladies. I don't believe you are here by chance, so I'll go straight to the point: Do you happen to know a person without a face, just like me?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\storyMesh1
+#TEXT_BEGIN
+We are not letting you going near him... especially her!
+#TEXT_END
+#BGM
+..\\..\\..\\..\\stages\\bonzaga_heat\\music\inferno.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\storyMesh50
+#TEXT_BEGIN
+She has seen to much, back in Euterpe. We can't allow her to tell it around!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Good grief. It appears you are not so welcome, Miss Husler. I fear we will have to get information the hard way.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+I was hoping you would have said that. Let's thrash those irritating kitsune dolls.
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_algol4.jpg
+#TRANSITION cg\cg_algol3.jpg 300
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\storyMesh50
+#TEXT_BEGIN
+So, you figured it out. One reason more to stop you here.
+#TEXT_END
+#END

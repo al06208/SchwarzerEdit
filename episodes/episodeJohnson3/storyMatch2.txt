@@ -1,0 +1,17 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+You are too much like that goddamn cat. I feel rather uneasy.
+#OPPONENT_WIN_QUOTE
+>Biologic intelligence is overrated.
+#PLAYER_INTRO_QUOTE
+I guess I will have to force my way out, Sambiong-wannabe.
+#OPPONENT_INTRO_QUOTE
+>Sambiong... where did I hear that name?
+#PLAYER_LIFE_MULTIPLIER 1.3
+#OPPONENT_LIFE_MULTIPLIER 2.5
+#PLAYER chara_johnson
+#OPPONENT chara_graf
+#AI_LEVEL 5
+#STAGE Algol
+#WIN_CONDITION Percentage 50.0
+#TIMER 100

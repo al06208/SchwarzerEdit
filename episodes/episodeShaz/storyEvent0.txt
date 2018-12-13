@@ -1,0 +1,127 @@
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+"Shooting Star Aquarium", huh? Definitely a catchy name.
+I wonder who came up with the idea of proposing an aquarium as a dating place...
+#TEXT_END
+#PAUSE 600
+#STAGE_BACKGROUND Manten\\
+#BGM
+..\\..\\..\\..\\stages\\manten\\music\\donniedrost_Lights.ogg
+40.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Ugh. Those genetically engineered sharks are so ugly. Four eyes?
+FOUR. FREAKIN'. EYES?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Huh... maybe I should calm down. I was supposed to relax here, right? Let's try to enjoy the atmosphere.
+#TEXT_END
+#PAUSE 600
+#END
+
+##CHARA_MUGSHOT chara_skeleton\\
+#TOP_WINDOW
+#TEXT_BEGIN
+Greetings, Mr.~ Aliart.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Huh? Who...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#BACKGROUND cg\clipSkeleton1a.png
+#TEXT_BEGIN
+YOU!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Whaddaheck you want?! I've already paid my debts, down to the last cent!
+#TEXT_END
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+How rude, Mr.~ Aliart. I've come here just to deliver what I think is a useful piece of information.
+#TEXT_END
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+There's a bounty on your head. A huge bounty. We are talking about more than thirty thousand euro.
+#TEXT_END
+#BGM
+..\\..\\..\\..\\stages\Elevator\music\boss_krogh.ogg
+100.0
+0.8
+#PAUSE 400
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+You understand what that means, right?
+#TEXT_END
+#PAUSE 200
+#END
+
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+THIRTY THOUSAND?
+Who the hell would pay so much for...
+#TEXT_END
+#PAUSE 400
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+Just one "man", if we can call him like this: your former boss, Go Ottari.
+#TEXT_END
+#PAUSE 300
+#END 
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Hell, no! Crap, I have to escape! Run away from this place, otherwise...
+#TEXT_END
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+I believe this is not possible. You see... the message I wanted to deliver was not that there's a bounty on your head...
+#TEXT_END
+#PAUSE 300
+#END 
+
+#CHARA_MUGSHOT chara_skeleton\\
+##TOP_WINDOW
+#TEXT_BEGIN
+...but that I've come here to collect it.
+#TEXT_END
+#PAUSE 300
+#CLOSE_ALL_WINDOWS
+#END 

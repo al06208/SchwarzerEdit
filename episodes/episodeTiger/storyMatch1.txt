@@ -1,0 +1,18 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+Target incapacited. Mission accomplished.
+#OPPONENT_WIN_QUOTE
+Without you, my path will be easier.
+#PLAYER_INTRO_QUOTE
+It was nice of you to wait for us.
+#OPPONENT_INTRO_QUOTE
+Those who oppose the Night have to be killed.
+#OPPONENT_LIFE_MULTIPLIER 1
+#PLAYER_LIFE_MULTIPLIER 1
+#OPPONENT chara_night
+#PLAYER chara_tiger\Mesh2
+#AI_LEVEL 6
+#STAGE neonlight
+#NO_RINGOUT
+#TIMER 100
+#DIALOGUE_IN_BATTLE storyMatch1-Dialogue.txt

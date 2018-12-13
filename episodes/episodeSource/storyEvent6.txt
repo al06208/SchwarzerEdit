@@ -1,0 +1,208 @@
+#TOP_WINDOW
+#BACKGROUND cg\cg1b.jpg
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Watching the news? Easier said than done.
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg\cg1b.jpg
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I can't afford a TV or a phone. And no, there's no connection inside the Witch Tower. It's not that a faceless guy like me can actually have a normal house, you know?
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+This is why you missed the big picture, bello.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\breakingNews\cg\cg_tv3.jpg
+#NO_BACKGROUND
+#PAUSE 500
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+During the last month, every single news outlet in the world kept on sharing updates on the upcoming UNO meeting about the future of distortion plants.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Guess where and when the meeting is.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg1b.jpg
+#NO_BACKGROUND
+#PAUSE 500
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Tomorrow... in Euterpe?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Oh, my God! That meeting?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+The one about sanctioning the use of distortion energy and go back to nuclear plants?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Correct.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+At least one dozen networks from all around the world will cover the event live. This means millions of people watching it in real time.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+If something, anything would happen...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg1c.jpg
+#TRANSITION cg\cg1b.jpg 300
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+That would be the end of distortion plants. No turning back.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+The Black Lightning was already a disaster, but another one, just one year later...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+I don't understand. Why would Donner do something like this? And how?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+The "how" is clear, unfortunately.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Most likely, there's an unused distortion core into that research facility. It may well be that they salvaged what was left of the original one.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeJohnson2\cg\cg_algol10.jpg
+#NO_BACKGROUND
+#PAUSE 500
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Do you remember what he told us in Northern Algol? He can make a core go into critical self-resonance.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+In other words, to go KABOOM.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg1c.jpg
+#NO_BACKGROUND
+#PAUSE 500
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Live. In front of millions of people. Obliterating some of the most influential politicians in the world.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\black.jpg
+#TRANSITION cg\cg1c.jpg 300
+#PAUSE 500
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+A nice revenge for being experimented on, isn't it?
+#TEXT_END
+#END

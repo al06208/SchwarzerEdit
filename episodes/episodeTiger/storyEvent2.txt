@@ -1,0 +1,150 @@
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+...Sambiong?
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+Commander Sambiong? Do you copy?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\cgbed2.png
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TOP_WINDOW
+#TEXT_BEGIN
+...what? ...who?
+#TEXT_END
+#BGM
+atmosphere.ogg
+60.0
+1
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+(voice from the phone) Commander? It's Cyphr here! Do you copy?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TOP_WINDOW
+#TEXT_BEGIN
+Copy that. I was trying to sleep, Cyphr. I hope you have a good reason to call me at two in the night...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+(voice from the phone) Sir, she has been spotted! She's on highway 49, 115th kilometer.
+#TEXT_END
+#PAUSE 600
+#BGM
+..\..\..\..\stages\neonlight\music\Emergency.ogg
+0.0
+1
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TEXT_BEGIN
+The Night Assassin?! What's the status?
+#TEXT_END
+#BGM
+..\..\..\..\stages\neonlight\music\Emergency.ogg
+40.0
+1
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+(voice from the phone) She has already killed three people. The police will not be able to arrive in less than half an hour! They have asked us to intervene.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+(voice from the phone) This may be the right time to catch her!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TEXT_BEGIN
+Look, I'll be on her tracks ASAP. Is anyone going to pick me?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+(voice from the phone) Affirmative! Sven will pick you up with his helicopter in three minutes from now. In six minutes you will be on the target.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TEXT_BEGIN
+Copy that.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#TOP_WINDOW
+#SOUND
+beep1.ogg
+100
+1.0
+#END
+#PAUSE 300
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TEXT_BEGIN
+Six minutes... I hope it's not already too late.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cgbed2.png 300
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+From a nightmare to another nightmare, huh? Not the best way to wake up.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+Well, let's forget about the past for a moment. The present has priority.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+I could still be able to save some lives.
+#TEXT_END
+#END

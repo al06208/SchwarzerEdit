@@ -1,0 +1,166 @@
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TEXT_BEGIN
+3 months later.
+#TEXT_END
+#END
+
+#BACKGROUND cg_lite\intro2.jpg
+#TEXT_BEGIN
+(recorded voice)... the memorial "to the Angels of Euterpe" remembers all the heroic firefighters who died in the Black Lightning Disaster.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+atmosphere.ogg
+40.0
+0.9
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg_lite\cg_eut0a1.jpg
+#TEXT_BEGIN
+Among them, the first team with which the radio contact was lost: Giovanni Bastiano, Michele Estoriante, Enzo Rinaldi, Fabio Cerasi, Gennaro Varioli...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#TEXT_BEGIN
+...Alessandro Rubecca.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(recorded voice) In order to save people trapped in the facility, they've faced the fire without hesitation, like...
+*BIP*
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Oh, come on, stop with this bullshit.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+You didn't want to become a hero, Alessandro. You wanted to become a family man. To have children, and a wife.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Why, then? Why did you decide to lead the team, that night?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Why, brother? W... why?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Why did that damn reactor blow up, just when you were inside? Couldn't it wait one hour more?!
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+WHY DID I HAVE TO LOSE YOU FOR A GODDAMN ACCIDENT?!
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+An accident, you say. What if you were wrong, Mister Rubecca?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg_lite\cg_eut0a2.jpg
+#TEXT_BEGIN
+What if it were... no accident?
+#TEXT_END
+#BGM
+atmosphere.ogg
+0.0
+0.9
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+... who are you?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+A close friend of your brother. You can call me Jennifer Cloverfield.
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Well, Miss Cloverfield, I've had enough of conspiracy theories, you know? There's a nice documentary about the Haemophages being created by RealLifeAnime, why don't you go watching it?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg_lite\cg_eut0a2.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Stay down, child. I want you to help me. Or, at least, to listen to what I have to say.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+What if I don't? Are you punching me in the face?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg_lite\cg_eut0a2.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Don't get too cocky, kid. I could lose my cool.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Yeah, that's the difference, Miss. You *could* lose your cool.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+I already have!
+#TEXT_END
+#END

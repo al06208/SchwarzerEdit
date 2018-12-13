@@ -1,0 +1,161 @@
+#CENTER_WINDOW
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+I don't want to make a drama out if it, so I will spare you the description of the utter chaos we faced while going out of that inferno. Suffices to say that we managed to get out in time and we were rescued by the firefighters.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+This is where we parted ways.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\black.jpg 500
+#BACKGROUND cg_lite\cg_bonzaga_kaya_b.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+Jenn decided to focus on that strange girl who tried to kill me...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg_lite\cg_bonzaga_kaya_b.jpg 500
+#BACKGROUND ..\episodeJohnson1\cg\cg4.png
+#NO_BACKGROUND
+#TEXT_BEGIN
+...while I should have headed for the United Kingdom, where, according to the rumors, a man without face was lurking.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TRANSITION ..\episodeJohnson1\cg\cg4.png 500
+#NO_BACKGROUND
+#TEXT_BEGIN
+...and then? What happened?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+...well, I came here, of course. By the way, I didn't know so many people heard about that explosion at the party.
+#TEXT_END
+#BACKGROUND ..\episodeAmy\cg_lite\cgCH1.jpg
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Yeah, who hasn't? That big motherangler, Sanjuro Bonzaga was found dead there! Man, THAT was a story!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Ya kno', they say the fella was murdered by his sex dolls, since they went AWOL, but there ain't no proof 'bout it. What do ya think?
+#TEXT_END
+#END
+
+#TRANSITION ..\episodeAmy\cg_lite\cgCH1.jpg 300
+#BACKGROUND ..\episodeAmy\cg_lite\cgCH2b.jpg
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+Bah. Those dolls have no self-preservation instinct. That's a cover up, sure as Hell.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Ya sure? Ya know that many o'those things escape now and then, even here in New Langdon?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+And, besides, a cover up for what?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+I told you, there was a man with no face right there. No face, got it?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+So, I started browsing the Internet looking for info and, last month, found this news 'bout "a faceless shadow" who would live in Northern Algol...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Huh, yeah, you told me. You came here to find him.
+#TEXT_END
+#END
+
+#TRANSITION ..\episodeAmy\cg_lite\cgCH2b.jpg 300
+#BACKGROUND ..\episodeAmy\cg_lite\cgCH1.jpg
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+Yeah, but instead I've met this creepy dandy with a blurry face, here in New Langdon. I followed him, we had some small talk...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+...and, well, he threw me into the river. Crazy, huh?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Not too much: last week, I've almost been chopped to death by a creepy guy who insisted on the beauty of rubber bands as a murder weapon. This world is becoming hella crazy.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION ..\episodeAmy\cg_lite\cgCH1.jpg 300
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Still, my story hasn't ended yet.
+#TEXT_END
+#END
+
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+As the stroboscopic lights and the alcohol make me finally lose myself, I realize that I don't want to give up.
+#TEXT_END
+#END
+
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I will find the truth behind the Black Lightning Disaster, no matter what the cost will be.
+#TEXT_END
+#END
+
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I want to find the responsible of my brother's death.
+#TEXT_END
+#END

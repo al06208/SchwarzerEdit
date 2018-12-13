@@ -1,0 +1,59 @@
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+That freak is gone for good, I hope.
+*shiver* I couldn't even damage it. Good that I'm a smartass.
+#TEXT_END
+#STAGE_BACKGROUND RunawayTrain\\
+#PAUSE 600
+#BGM
+..\\..\\..\\..\\stages\\manten\\music\\donniedrost_Lights.ogg
+35.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+...but was it really here for me? Robot CAN'T spend money.
+They can't drink, they can't eat, they can't even fuck!
+So what the Hell would that thing spend the bounty for?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Nah, it smells fishy. There has to be another reason.
+Maybe...
+#TEXT_END
+#PAUSE 1200
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(speaker) >Next stop: Encorp surface station.
+>Passengers can reach the visitor area through the elevators.
+#TEXT_END
+#SOUND
+chime.ogg
+100.0
+1.0
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(speaker) >Thanks for having travelled with British Railways.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Oh, well. I'll think about it later.
+#TEXT_END
+#PAUSE 1200
+#CLOSE_WINDOW
+#END
+
+

@@ -1,0 +1,194 @@
+#AUTO
+#BACKGROUND cg\cg1a.jpg
+#PAUSE 100
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+70.0
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+You shouldn't be so gloomy, Mr.~ Johnson.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Everything is lost. Donner has gone. We haven't got a single shred of idea of where he's headed to.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg\cg1b.jpg
+#TRANSITION cg\cg1a.jpg 300
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Two days have already passed without him appearing anywhere. Heck, why have I even accepted your invitation?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+I'm also wondering why. I mean, I hope you didn't want to meet us for a drink.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg\cg1a.jpg
+#TRANSITION cg\cg1b.jpg 300
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Honestly, I can't imagine how the situation could get worse than this.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Well, *I* can. And, trust me, it's not pleasant at all.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+No time for jokes, Renzo.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Heck, I'm serious Jenn! While you and blurry-face were playing detective, I was also gathering intel.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Thanks to what you've found out in Northern Algol, I think I have understood what his objective is.
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+0.0
+0.5
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg\cg1b.jpg
+#TRANSITION cg\cg1a.jpg 300
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Wait, what? How could you...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Looking at the problem from a different perspective.
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+You remember those kitsune sex-dolls who were following him?
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+It appears there is a certain market for them, even on this side of the Channel. But it's not the full story.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND ..\episodeAmy\cg_lite\cgCH1.jpg
+#TRANSITION cg\white.jpg 300
+#PAUSE 500
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Some time ago, Gaetano told me something interesting: "Many dolls like them escape now and then also here in New Langdon". This gave me a new direction.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg1b.jpg
+#TRANSITION cg\white.jpg 300
+#AUTO
+#PAUSE 500
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+So, I came in contact with a certain Blyen Chill, a bounty hunter who makes a living out of finding those dolls and taking them back to their owners.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+He told me two things: first, those two were already a ticking time bomb. Every hunter knew that. Bonzaga was *literally* humiliating them in any way possible. It was just a question of time before their escape.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+The question was not "if" but "when" they would have tried to run away.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Second... as Bonzaga wanted to screw them in every place at any time, he managed to convince the security guys to use their genetic traits as an universal key for each of his buildings, even the ones he had exclusive access to.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+This means that, as of now, they are living access devices to the whole Bonzaga estate, including the basement of their latest research center in Italy.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\black.jpg
+#TRANSITION cg\cg1b.jpg 300
+#PAUSE 500
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+The one which was built right on the epicenter of the Black Lightning Disaster.
+#TEXT_END
+#END

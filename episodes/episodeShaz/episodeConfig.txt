@@ -1,0 +1,20 @@
+#EPISODE_NAME
+Deep Troubles
+#DESCRIPTION
+A troubled past knocks again at Shaz's door.
+His only hope to save the day is to find a certain 
+person...
+#DESCRIPTION_END
+#EVENT storyEvent0
+#MATCH storyMatch0
+#EVENT storyEvent1
+#EVENT storyEvent2
+#MATCH storyMatch1
+#EVENT storyEvent3
+#EVENT storyEvent4
+#EVENT storyEvent5
+#MATCH storyMatch2
+#EVENT storyEvent6
+#EVENT storyEvent7
+#MATCH storyMatch3
+#EVENT storyEvent8

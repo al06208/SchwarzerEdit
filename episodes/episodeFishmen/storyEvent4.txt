@@ -1,0 +1,247 @@
+#AUTO
+#BACKGROUND cg\cg7a.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 600
+#BGM
+..\..\..\..\stages\neonlight\music\Emergency.ogg
+60.0
+1
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+A foreign car, huh? Guess that even rich bastards like your "friend" can have troubles to get good stuff.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Look, that's not too complicate to drive, awright? The driving side in my home country is the same as in aaaaall the civilized world...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+That is to say, *literally* everywhere except in the freakin' Commonwealth. And Australia. But, huh, nobody cares about Australia, right?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Wait, Australia IS in the Commonwe... *sigh* as if you would understand...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Just be sure that you ain't gonna kill the both of us, 'kay?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg7a.jpg 300
+#BACKGROUND cg\cg7b.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#TOP_WINDOW
+#PAUSE 700
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+There they are, mate. Mr.~ Aural was riiiight on the spot.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_mono
+#TEXT_BEGIN
+Thirty thousand pounds, unwittingly walking towards us! It can't get easier than this!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Huh... wait, oversized cat! Who's the woman?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_mono
+#TEXT_BEGIN
+No idea, but at least she dresses in a nice way! I actually dig her style!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Oh, PLEASE! Now, let me open the dances, shall we?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_mono
+#TEXT_BEGIN
+Have you loaded your gun with stunning projectiles?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Fair dinkum, mate. We ain't gonna kill'em.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg7b.jpg 300
+#BACKGROUND cg\cg7c.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#TOP_WINDOW
+#PAUSE 700
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Shaz! Up there!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Wassup, Elena? I just see a fat cat lady and a... huh, a velociraptor... with... with...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+I dunno, is he really holding a...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#TRANSITION cg\cg7c.jpg 300
+#BACKGROUND cg\cg7d2.jpg
+#SOUND
+sounds\wally_gun.ogg
+100
+1.0
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 400
+#END
+
+#AUTO
+#NO_BACKGROUND
+#SOUND
+sounds\wally_gun.ogg
+100
+1.0
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#AUTO
+#NO_BACKGROUND
+#SOUND
+sounds\wally_gun.ogg
+100
+1.0
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TRANSITION cg\cg7d2.jpg 300
+#BACKGROUND cg\cg7c5.jpg
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+BLOODY MOONFISH! That's a freakin' minigun!!!
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND
+sounds\wally_gun.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_wally
+#TEXT_BEGIN
+Yippee ki-yay, wannabe grommets! Want some more?
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND
+sounds\wally_gun.ogg
+100
+1.0
+#END
+
+#BACKGROUND cg\cg7c2.jpg
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Help! I don't wanna end up like Swiss cheese!!!
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND
+sounds\wally_gun.ogg
+100
+1.0
+#END
+
+#BACKGROUND cg\cg7c3.jpg
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+(This is not random. They KNEW we were coming. It's all Blade's doing?)
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg7c4.jpg
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+(Yeah, I'm such a good actor! She can't suspect that was planned with big bro Blade!)
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+(I *just* have to play along a bit with those weirdos, then I will *smash* his head!)
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+(I just have to play serious, like punching the reptile a couple times, so that she lowers her guard!)
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg7c5.jpg
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Crap! They are bounty hunters! Time to show'em we're no easy targets, Delfina!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+They will *pray* they've never met us!
+#TEXT_END
+#CLOSE_WINDOW
+#END

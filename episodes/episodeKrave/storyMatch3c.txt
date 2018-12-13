@@ -1,0 +1,18 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+>Triple treat! Oh, my! How lucky I am!
+#OPPONENT_WIN_QUOTE
+This is insane!
+#OPPONENT_INTRO_QUOTE
+Jarkins... Shimmer... They are both...
+#PLAYER_INTRO_QUOTE
+>So, uhm, do you have orphans... I mean, children?
+#PLAYER chara_krave\Mesh2
+#OPPONENT event_soldier
+#AI_LEVEL 7
+#STAGE AcidPit
+#TIMER 100
+#PLAYER_LIFE_MULTIPLIER 2.3
+#OPPONENT_LIFE_MULTIPLIER 0.6
+#WIN_CONDITION Percentage 25.0
+#TIMER 100

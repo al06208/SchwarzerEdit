@@ -1,0 +1,85 @@
+#NO_BACKGROUND
+#BACKGROUND cg\cgQuark1.jpg
+#TEXT_BEGIN
+The great white shark is one of the mightiest predators known to man, and one of the most dangerous sea creatures.
+#TEXT_END
+#PAUSE 600
+#BGM
+sounds\bach.ogg
+60.0
+1.0
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cgQuark1.jpg
+#TEXT_BEGIN
+This majestic animal has sharp teeth disposed on several consecutive lines, a developed sense of smell, and is able excert a bite force of more than 18 kilonewtons.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cgQuark1.jpg 300
+#BACKGROUND cg\cgQuark2.jpg
+#TEXT_BEGIN
+This shark rarely attacks humans, only doing so when misidentifying them as sea turtles. Overall, it's an impressive biological machine, clocking at 56 km/h of maximum swimming speed - and much, MUCH, less while running on his legs.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+While this is per se an impressive achievement, a combat robot with full-power boosters at maximum speed can top at 350 km/h, more than SIX times what the great white can even THINK to achieve.
+#TEXT_END
+#END
+
+#TRANSITION cg\cgQuark2.jpg 300
+#BACKGROUND cg\cg0.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>...~ so, now you understand how much you are screwed, fishface?
+#TEXT_END
+#BGM
+..\..\..\..\stages\RunawayTrain\music\beroza_drive_cut.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Holy squid on a train! He's heeeere!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 500
+#BACKGROUND cg\cg0b.jpg
+#TRANSITION cg\cg0.jpg 300
+#NO_BACKGROUND
+#TOP_WINDOW
+#SOUND
+beep1.ogg
+100
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Let's see. You two together are quite the feat! Today it's jackpot day!
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg0d.jpg
+#TRANSITION cg\cg0b.jpg 300
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Let's rumble, goldfish! It's time to d-d-d-d-d-d-dddddduel!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+GYAAAAAAH!
+#TEXT_END
+#CLOSE_WINDOW
+#END

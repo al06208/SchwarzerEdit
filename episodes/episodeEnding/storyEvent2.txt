@@ -1,0 +1,257 @@
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg2b.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100.0
+1.0
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Why... aren't you fighting back?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+You were just defending yourself and avoiding my attacks...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Because my role is over. I have summoned the Shadow Gallery, as required. That's it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I have never been tasked to destroy Euterpe, as I have not that kind of power. Not anymore, at least.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I just had to summon the Shadow Gallery right near the core in the Bonzaga laboratory, to allow him to reach it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg2b.jpg 300
+#BACKGROUND cg\cg2f.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Okay, Donner. Who's *he*? Who has controlled you until now?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Who has made you LIE to us?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The original Donner.
+#TEXT_END
+#BGM
+moody.ogg
+0.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+...what?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+That's right, I have always been just a copy... a faulty copy of him.
+#TEXT_END
+#BGM
+moody.ogg
+100.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The one he sent to this "projected world" to bring him back from his "prison".
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Long ago, he lost the ability to move outside the Shadow Gallery, as he became part of it... but he managed to send one of his copies through one portal.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I am THAT copy. The main copy, we can say. The one which retained some of his original humanity.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeRenzo\cg_lite\cg_bonzaga_last2a.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The one who got to the Bonzaga mansion to recover a key to the laboratory... and, instead, found two people to care about.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeJohnson2\cg\cg_algol5.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The one who was shielded by them in Northern Algol, after he was found by Jacko and his sidekick.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeSource\cg\cg2.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The one who stormed the laboratory... and grew even prouder of those brave kitsune girls who followed him.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg2f.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The truth is... that I can't stand it anymore. I don't want to sacrifice you, despite everything that happened.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+But now, it's to late. Donner, the REAL Donner, is about to raze this city, once for all. And this phony world will follow soon after.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+J... just because there will be no more distortion plants? I mean, people used to live without them, and...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+I... I mean, it can't seriously be the end of the world, right?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Kaya...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The world has already ended, fifty-one years ago.
+#TEXT_END
+#BGM
+night.ogg
+0
+1
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\breakingNews\cg\cg_tv1b.jpg
+#NO_BACKGROUND
+#PAUSE 800
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+What's left of it...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The REAL planet Earth...
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\breakingNews\cg\cg_tv2b.jpg
+#NO_BACKGROUND
+#BGM
+night.ogg
+100
+1
+#PAUSE 800
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...is the Shadow Gallery.
+#TEXT_END
+#END
+
+#AUTO
+#NO_BACKGROUND
+#PAUSE 7000
+#END

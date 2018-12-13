@@ -1,0 +1,20 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+I... I don't understand what's happening here!
+#OPPONENT_WIN_QUOTE
+Don't you think I'm pretty?
+#PLAYER_INTRO_QUOTE
+What... what is this place?!
+#OPPONENT_INTRO_QUOTE
+This is my world, Cyphr! Do you like it?
+#OPPONENT_LIFE_MULTIPLIER 1
+#OPPONENT_R_DAMAGE_MULTIPLIER 0.1
+#OPPONENT_R_B_DAMAGE_MULTIPLIER 0.1
+#PLAYER_LIFE_MULTIPLIER 1.5
+#OPPONENT chara_night
+#PLAYER chara_cyphr\Mesh5
+#AI_LEVEL 5
+#STAGE branch_70X_unreal
+#NO_RINGOUT
+#TIMER 35
+#WIN_CONDITION Survive

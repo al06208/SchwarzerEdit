@@ -1,0 +1,18 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+Damn... I'm still not strong enough!
+#OPPONENT_WIN_QUOTE
+>Let the humiliation begin once more!
+#PLAYER_INTRO_QUOTE
+I can't let you win! I simply can't afford being afraid of you!
+#OPPONENT_INTRO_QUOTE
+>So, you didn't have enough of it? Do you want me to strip you even further?
+#OPPONENT_LIFE_MULTIPLIER 3.0
+#PLAYER_LIFE_MULTIPLIER 1
+#OPPONENT chara_krave\mesh2
+#PLAYER chara_cyphr\Mesh5
+#AI_LEVEL 6
+#STAGE neonlight
+#NO_RINGOUT
+#TIMER 100
+#WIN_CONDITION Percentage 70.0

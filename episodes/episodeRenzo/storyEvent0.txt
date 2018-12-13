@@ -1,0 +1,136 @@
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TEXT_BEGIN
+Euterpe, 14th April, 2064.
+03:25 AM
+#TEXT_END
+#END
+
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg_lite\intro1.jpg
+#TEXT_BEGIN
+(fireman #1) Nobody here, sir! We're wasting our time!
+#TEXT_END
+#BGM
+..\..\..\..\stages\prison\music\loopFaster.ogg
+40.0
+1
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+(fireman #2) Damn..
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+(fireman #1) We'd better get out! The smoke is...
+#TEXT_END
+#END
+
+#TEXT_BEGIN
+(fireman #3) There! There's a man!
+#TEXT_END
+#END
+
+#TRANSITION cg_lite\intro1.jpg 300
+#STAGE_BACKGROUND prison\
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+Sam... biong...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(fireman #1) Thank God! He's still alive!
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(fireman #2) Quick, let's head out!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+Nnn... Sambiong...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND_PICTURE
+#NO_BACKGROUND
+#CENTER_WINDOW
+#SOUND
+trigger.ogg
+100.0
+0.3
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\prison\music\loopFaster.ogg
+0.0
+1
+#END
+#PAUSE 600
+
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+(fireman #1) A blackout? What the...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+No...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(fireman #2) No panic, okay? There's no risk that the facility...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+The reactor...?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+(fireman #1) Hey, calm down. It's just...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+The reactor!!! He's gonna... No! No!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+GODDAMN YOU, DONNER! GODDA...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 1500
+#NO_BACKGROUND_PICTURE
+#NO_BACKGROUND
+#CENTER_WINDOW
+#SOUND 
+static_short.ogg
+100
+1.0
+#END

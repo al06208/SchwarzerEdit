@@ -1,0 +1,226 @@
+#BACKGROUND cg\cg1b.jpg
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>My body does not react... properly.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\Algol\music\invasion.ogg
+40.0
+0.5
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>All the non-necessary systems are shutting down... like there were... not enough energy...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>But, how? My yrite reactor should... last for at least...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg1b.jpg 300
+#BACKGROUND cg\cg1a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+I had to remove it and replace it with an internal combustion engine. Your original reactor was totally thrashed, and I'm not good enough to fix it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+After all, I was just an apprentice techno-coroner. I know how most of your systems are supposed to work and I'm good at reverse engineering... but this does not mean I can repair them.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>Who are you, Prettyface? WHO the Hell are you?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Silman Simmerik. Or Baal the Mad, or the Voice of the Night. I got many names in my life, never stuck to one for longer than needed.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Now, I'm just Silman, free from the Walking Night. I can't hear her anymore... and that's probably a good thing.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg1a.jpg 300
+#BACKGROUND cg\cg1a_dim.jpg
+#NO_BACKGROUND
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TEXT_BEGIN
+>Even if I was a tough, combat-hardened robot, that name caused me to shiver.
+>Silman Simmerik. Rosenmaester.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TEXT_BEGIN
+>The man who single-handedly killed hundreds of thousands of people via genetically engineered blood-sucking flowers, with the purpose of cleansing society from parasites.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TEXT_BEGIN
+>After he did it, Northern Algol became just a barren wasteland of corpses, with vermillion flowers sprouting from their wrists.
+>That was... intense, even for my standards. And my standards are fairly high.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg1a_dim.jpg 300
+#BACKGROUND cg\cg1a.jpg
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>I still call BS on it. How is it possible that I am in Northern Algol? It's almost 2000 km far from Euterpe.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg1a.jpg 300
+#BACKGROUND cg\cg1b.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Well... the Bonzaga Holding got a contract to sanitize Euterpe after the Black Lightning Disaster.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+As it turns out, it was more effective to dump all the wrecks and rubbles in this dead city of mine, rather than decontaminating them properly.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+After all, nobody cares about Northern Algol. It would take so much money to get rid of my plants and make it habitable again, so they just pretend it doesn't exist anymore. I feel it is someway an advantage for me.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Among the rubbles, the corpses, and all the broken stuff, I managed to find both you and that gentleman over there.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg1b.jpg 300
+#BACKGROUND cg\cg2a.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#PAUSE 200
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+A fully-functional battle cyborg, labeled as M-160. He helped me fixing you...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+...~ and, well, suggested me to do that in an open area to prevent you from killing me on the spot after your awakening. I didn't want to believe him, but...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>Mayer-160, codename "Graf"... it appears you were luckier than me.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>Define "lucky". Part of my memory core got crushed in the disaster. I have little recollection of what happened before being reactivated.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>At least, your reactor is still intact. I could rip it off and replace mine, maybe.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+...~ wait, he basically let you live again? I thought you would have been grateful...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg2a.jpg 300
+#BACKGROUND cg\cg2b.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#PAUSE 200
+#CLOSE_WINDOW
+#END
+
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>Friendship. Mutual trust. Gratefulness.
+>You know what? That's just a lot of nonsensical trash, if I can't survive.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>I mean, gentlemen... it's all nice and dandy, but I CANNOT run forever on a gasoline-powered engine. I can't afford the risk of switching off... again.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>It's... scary. While I was deactivated, a lot of stuff happened. I wasn't conscious, I could even have been ripped apart by critters and I wouldn't have felt it!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>I don't want to be switched off, not anymore! So, PLEASE, find a solution, otherwise I will rip off his core...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>... like, now!
+#TEXT_END
+#CLOSE_WINDOW
+#END

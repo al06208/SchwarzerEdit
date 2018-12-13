@@ -1,0 +1,88 @@
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+High time I go back to the base. Commander Sambiong won't be happy...
+#TEXT_END
+#STAGE_BACKGROUND TheWalkingNight\
+#PAUSE 600
+#BGM
+..\..\..\..\stages\TheWalkingNight\music\lilith_krogh.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TOP_WINDOW
+#TEXT_BEGIN
+(*radio noise*) Cyphr? Can you hear me?
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Sir? I was coming back to report...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TOP_WINDOW
+#TEXT_BEGIN
+(*radio noise*) Where are you now?
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Near Lambs Square. Did anything happen?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TOP_WINDOW
+#TEXT_BEGIN
+(*radio noise*) An outlaw robot has been seen near "Le Coq Heureux", walking in your direction! I'm still not sure it's the same you were talking about, but...
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+I will try to intercept it, sir! I won't let it run away!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TOP_WINDOW
+#TEXT_BEGIN
+(*radio noise*) Cyphr! Do not take any useless risks, alright? I'm at the other side of the city to investigate a murder. Please, in case the situation is too dangerous, just retreat!
+#TEXT_END
+#SOUND
+talkie.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Roger, sir!
+#TEXT_END
+#PAUSE 600
+#END
+

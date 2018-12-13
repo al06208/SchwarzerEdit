@@ -1,0 +1,201 @@
+#BACKGROUND ..\episodeJohnson1\cg\cg9.png
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+After a couple hours of quiet sailing, the Fishfaces landed me on the Irish coast, at the outskirts of the Dead Zone.
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+Mr.~ Aural allowed me to spend the night in their secret warehouse. The morning after, he lent me what I thought was a decent jeep.
+#TEXT_END
+#END
+
+#STAGE_BACKGROUND DeadZoneDesert
+#TRANSITION ..\episodeJohnson1\cg\cg9.png 300
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+Everything went fine... for the first ten miles. Afterwards, without any warning, the car shamelessly broke down, leaving me alone in the middle of the desert.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+Then, I had a completely unexpected stroke of luck.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 1200
+#BACKGROUND cg\black.jpg
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 1500
+#BGM
+..\..\..\..\stages\DeadZoneDesert\music\stage_bgm_cut.ogg
+0.0
+1.0
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\white.jpg 1000
+#BACKGROUND cg\cg_jeep1.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\DeadZoneDesert\music\stage_bgm_cut.ogg
+40.0
+1.0
+#PAUSE 1400
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+You are indeed a quite skilled driver, despite this being a foreign car.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+People from the Continent have this bizarre habit of driving on the wrong side of the road.
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_jeep3.jpg
+#TRANSITION cg\cg_jeep1.jpg 300
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+From their perspective, it's us who drive on the wrong side.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+A bunch of uncivilized barbarians, this is what they are. Like that drunken sharkman...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+No, wait... he's from Cuba. What's the driving side in Cuba?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+I personally don't care, Mr.~ Johnson. What I care for, is reaching Northern Algol before night.
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_jeep2.jpg
+#TRANSITION cg\cg_jeep3.jpg 300
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+This was our deal, right? I fix your car, drive you to that godforsaken place and keep the car as a compensation.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+Those fishmen sold you a neat piece of junk. It broke down after around ten miles, right?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I was fortunate to find you on the way, Miss Husler. Maybe too fortunate.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Are you sure you were here just by chance?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+Would you believe me if I say "yes"?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+... wait. What are those... things?
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_haemo2.jpg
+#TRANSITION cg\cg_jeep2.jpg 300
+#NO_BACKGROUND
+#PAUSE 600
+#SOUND
+haemo.ogg
+100.0
+1.5
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+Damn! Haemophages! An entire swarm!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Please, tell me we have weapons on this car.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+Not that I know! And they are too many and too fast to leave them behind!
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_haemo1.jpg
+#TRANSITION cg\cg_haemo2.jpg 300
+#NO_BACKGROUND
+#PAUSE 600
+#SOUND
+haemo.ogg
+100.0
+1.5
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+There they come!
+#TEXT_END
+#END

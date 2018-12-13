@@ -1,0 +1,20 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+No, I won't! I won't disappear like this!
+#OPPONENT_WIN_QUOTE
+You left behind one too many things...
+#PLAYER_INTRO_QUOTE
+I can't give up hope!
+#OPPONENT_INTRO_QUOTE
+But you already have, the very moment you came here.
+#OPPONENT_LIFE_MULTIPLIER 1
+#OPPONENT chara_night
+#PLAYER chara_night
+#PLAYER_OUTFIT_ID 2
+#OPPONENT_OUTFIT_ID 3
+#AI_LEVEL 4
+#STAGE theLoathing\
+#TIMER 100
+#PLAYER_LIFE_MULTIPLIER 1.5
+#PLAYER_R_DAMAGE_MULTIPLIER 0.8
+#PLAYER_R_B_DAMAGE_MULTIPLIER 0.8

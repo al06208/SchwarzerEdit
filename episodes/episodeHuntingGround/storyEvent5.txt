@@ -1,0 +1,288 @@
+#BACKGROUND cg\cg5b.jpg
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Tough cookie to bite, huh? Still functional after a whole clip! Just one left!
+#TEXT_END
+#BGM
+..\..\..\..\stages\neonlight\music\Emergency.ogg
+40.0
+1
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Well, damn! Next shot is do or die!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg5b.jpg 300
+#BACKGROUND cg\cg6a.jpg
+#PAUSE 500
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Bet your money on DIE, scaleface!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Dkrav'lest! Aim at the shoulder!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg6b.jpg
+#TRANSITION cg\cg6a.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 0
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+100
+0.8
+#BGM
+..\..\..\..\stages\neonlight\music\Emergency.ogg
+0.0
+1
+#END
+
+#AUTO
+#BACKGROUND cg\cg6d.jpg
+#TRANSITION cg\cg6c.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 700
+#CLOSE_WINDOW
+#SOUND 
+explosion.ogg
+30
+2.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>WHAT...
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg6d.jpg
+#TRANSITION cg\cg6e.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#SOUND 
+sounds\beat.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>No...
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg6f.jpg
+#TRANSITION cg\cg6g.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#SOUND 
+sounds\beat.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>No!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg6f.jpg
+#TRANSITION cg\cg6g.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 400
+#CLOSE_WINDOW
+#SOUND 
+sounds\beat.ogg
+100
+1.0
+#END
+
+#AUTO
+#BACKGROUND cg\cg6f.jpg
+#TRANSITION cg\cg6g.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 400
+#CLOSE_WINDOW
+#SOUND 
+sounds\beat.ogg
+100
+1.0
+#END
+
+#AUTO
+#BACKGROUND cg\cg6f.jpg
+#TRANSITION cg\cg6g.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 400
+#CLOSE_WINDOW
+#SOUND 
+sounds\beat.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>No! No! NO!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Quick! Get to the car!
+#TEXT_END
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Come on, now!
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg6f.jpg
+#TRANSITION cg\cg6g.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#SOUND 
+sounds\beat.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>This can't be! This isn't it! My body! My perfect body!
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND ..\episodeKrave\cg\cg1b.jpg
+#TRANSITION cg\white.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#SOUND 
+sounds\beat.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>NO!
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND ..\episodeKrave\cg\cg2b.jpg
+#TRANSITION cg\white.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#SOUND 
+sounds\beat.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>NOT AGAIN!
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg6h.jpg
+#TRANSITION cg\white.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 8000
+#CLOSE_WINDOW
+#SOUND 
+sounds\car.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Ah, ah. Ah, ah, ah.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Pitiful. I'm so pitiful.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I thought Leggy was the one with a PTSD. Or, maybe, Commander Kitty.
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\black.jpg
+#TRANSITION cg\cg6h.jpg 500
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I've been mistaken, all this time.
+#TEXT_END
+#END

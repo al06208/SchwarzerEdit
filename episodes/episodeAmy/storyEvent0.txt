@@ -1,0 +1,170 @@
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+Work to get better than anyone else.
+#TEXT_END
+#BGM
+atmosphere.ogg
+40.0
+0.9
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+Train to improve yourself and be the pride of the family.
+#TEXT_END
+#PAUSE 600
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+Work, train, sleep, repeat. Nothing else. "Games are for children without ambitions", my father used to say.
+#TEXT_END
+#PAUSE 600
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+That has been my childhood. Or lack thereof, that is.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\cg0.png
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+That didn't sound too nice.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+It wasn't supposed to.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+But, well, things changed when we moved to Europe. My father was a renowed engineer and worked at the distortion power plant in Zhangyao. Elemna Energy was hiring in Euterpe and he thought it would have been a good idea to move there.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+So, I managed to convince him that having me travel abroad and study at the Bell-Kann college in Shard was the most prestigious thing a daughter could do to improve the family's social position.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Being accepted at the Bell-Kann is quite an accomplishment. How many classes did you attend?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Well, not even one. Once I landed in Great Britain, I started working part-time in a restaurant and made myself almost unreachable. I wanted to cut with them and enjoy life, until I could.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I was already dead to my parents, when the Black Lightning Disaster happened. I would have liked to meet them again, sooner or later, but...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+...
+#TEXT_END
+#BGM
+..\\..\\..\\..\\stages\\stoneArch\\music\bgmtemple.ogg
+0.0
+0.9
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I killed the mood, didn't I?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Kind of. But I have to thank you for the company. It was ages that I didn't enjoy a full afternoon off.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg0.png 300
+#BACKGROUND cg\cg1a.png
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+It was my pleasure, Mr.~Sambiong.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Just call me Tiger, alright?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Then, it was my pleasure, Tiger.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+May I ask you one last favour in return? Another sparring match?
+#TEXT_END
+#BGM
+..\\..\\..\\..\\stages\\stoneArch\\music\bgmtemple.ogg
+30.0
+1.0
+#PAUSE 600
+#END
+
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Here? Now? Man, you are seriously tireless.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I want to show you that I'm convinced. I want to join Delta Team and work with you.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Very well, then. It's time for round two.
+#TEXT_END
+#PAUSE 600
+#END

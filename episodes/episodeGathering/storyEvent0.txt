@@ -1,0 +1,53 @@
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\theLoathingTV.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100
+1.0
+#PAUSE 500
+#END
+
+#TEXT_BEGIN
+... and, all of a sudden, the city centre of Euterpe has been enveloped by a blood-red sort of... dome.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+Palazzo Luciani, the designated meeting place for the UNO, has been trapped by the crimson mist, together with all the people inside. I'll repeat it: as of now, the most powerful leaders of the world are TRAPPED inside the building.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+The radio communication has been lost, there seems to be no way short of physically going through the barrier to access its interior. The army, in cooperation with firefighters and police forces, is organizing a rescue team to retrieve the people inside.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+This is once more Nathan Trevor, from FTV, live from Euterpe. We will keep covering the unknown phenomenon in real time, as the...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\black.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 3000
+#BGM
+night.ogg
+0.0
+1.0
+#SOUND
+beep1.ogg
+100
+1.0
+#END

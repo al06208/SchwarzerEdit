@@ -1,0 +1,327 @@
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+Fifty-one years ago, the first ever distortion power plant was tested and activated in Helsinki, Finland.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#BGM
+atmosphere.ogg
+60.0
+1.0
+#END
+
+##NO_BACKGROUND
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\cg_tv1.jpg
+##CENTER_WINDOW
+#TEXT_BEGIN
+The experiment resulted in the sinking of the vast majority of Fennoscandia, with a total death count of three million people.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+Lead scientists Zoran Zojimbo and Eva Shizawa, who pioneered the development of this technology, died in the aftermath of the cataclysm.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cg_tv1b.jpg 300
+#BACKGROUND cg\cg_tv1.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg_tv1b.jpg 800
+#BACKGROUND cg\cg_tv1.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 1000
+#END
+
+##NO_BACKGROUND
+##CENTER_WINDOW
+#TEXT_BEGIN
+This, however, didn't stop distortion plants to be perfected and installed in many major cities in the world, thanks to the diplomatic efforts of the then EXODUS ambassador Dkrav'lest Daevka.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cg_tv1.jpg 300
+#BACKGROUND cg\cg_plant.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+##NO_BACKGROUND
+##CENTER_WINDOW
+#TEXT_BEGIN
+As of today, distortion power plants are the main source of electric power of our world. The working principle is based on the so-called "packed dimensions" from string theory.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+This theory states the existence of up to eight microscopic additional dimensions, alongside the familiar heigth, width, and depth.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+##NO_BACKGROUND
+##CENTER_WINDOW
+#TEXT_BEGIN
+Daevka scientists discovered that, by strengthening vacuum oscillations, a resonance conditon could be reached, causing a "rip" in the packed dimension and a sudden expansion.
+#TEXT_END
+#PAUSE 600
+#END
+
+##NO_BACKGROUND
+##CENTER_WINDOW
+#TEXT_BEGIN
+This "rip" would instantly increase the local entropy by many orders of magnitude, releasing huge quantities of heat in the process. This heat is then converted to electricity via turbines.
+#TEXT_END
+#PAUSE 600
+#END
+
+##NO_BACKGROUND
+##CENTER_WINDOW
+#TEXT_BEGIN
+The catch is simple: The "rip" makes the used volume completely "alien", as the usual laws of physics have to suddenly take into account a fourth or a fifth spatial dimension. The bigger the rip, the less stable is the volume.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cg_plant2.jpg 300
+#BACKGROUND cg\cg_plant.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg_plant2.jpg 800
+#BACKGROUND cg\cg_plant.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 1000
+#END
+
+##NO_BACKGROUND
+##CENTER_WINDOW
+#TEXT_BEGIN
+Eventually, a distortion chamber can not be used anymore and has to be sealed. So far, this has happened only once, in the power plant of Aub:e':pine, France.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+The effects of an "altered volume" are not yet completely understood. This is an evident source of distrust for the anti-distortion commitees, who ask for more rigorous investigations.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cg_plant.jpg 300
+#BACKGROUND cg\cg_tv2.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+##NO_BACKGROUND
+##CENTER_WINDOW
+#TEXT_BEGIN
+Detractors of this technology have another strong point in the "Black Lightning Disaster", happened almost exactly one year ago in Euterpe, Italy.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+##NO_BACKGROUND
+##CENTER_WINDOW
+#TEXT_BEGIN
+One million casualties, as of today without a proper explanation. The accepted theory revolves around a terror attack by a formerly unknown group which escalated even further than their initial intentions.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cg_tv2b.jpg 300
+#BACKGROUND cg\cg_tv2.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg_tv2b.jpg 800
+#BACKGROUND cg\cg_tv2.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 1000
+#END
+
+##NO_BACKGROUND
+##CENTER_WINDOW
+#TEXT_BEGIN
+The safety of distortion plants is once again at the center of the political debate.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cg_tv2.jpg 300
+#BACKGROUND cg\cg_tv3.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+##NO_BACKGROUND
+##CENTER_WINDOW
+#TEXT_BEGIN
+Next week, in Euterpe, a dedicated commission will meet in order to strengthen the regulations on distortion energy, while at the same time trying to avoid a total sanction of its civil use, as the current power grid would not be able to sustain the load.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+##NO_BACKGROUND
+##CENTER_WINDOW
+#TEXT_BEGIN
+Here on FTV, we will provide live coverage of the event.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+##NO_BACKGROUND
+##CENTER_WINDOW
+#TEXT_BEGIN
+That's all for today. Here's Nathan Trevor from FTV News. I wish you a pleasant evening.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cg_tv3b.jpg 300
+#BACKGROUND cg\cg_tv3.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#BGM
+atmosphere.ogg
+0.0
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg_tv3b.jpg 800
+#BACKGROUND cg\cg_tv3.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 1000
+#END
+
+#AUTO
+#TRANSITION cg\cg_tv3b.jpg 300
+#BACKGROUND cg\cg_tv3.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg_plant2.jpg 800
+#BACKGROUND cg\cg_tv1b.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 1000
+#END
+
+#AUTO
+#TRANSITION cg\cg_tv3b.jpg 300
+#BACKGROUND cg\cg_tv1b.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg_tv1b.jpg 800
+#BACKGROUND cg\cg_tv2b.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 1000
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 200
+#BACKGROUND cg\cg_tv4.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Wake up.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\black.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 3000
+#SOUND
+beep1.ogg
+100
+1.0
+#END

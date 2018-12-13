@@ -1,0 +1,20 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+Such strength... how... is it possible?
+#OPPONENT_WIN_QUOTE
+I have no intention to escape. You're out of luck, Delfina.
+#PLAYER_INTRO_QUOTE
+You are the key to my freedom. I can't let you escape!
+#OPPONENT_INTRO_QUOTE
+You've always underestimated me.
+#OPPONENT_LIFE_MULTIPLIER 3.0
+#PLAYER_LIFE_MULTIPLIER 1.0
+#OPPONENT_R_DAMAGE_MULTIPLIER 1.0
+#OPPONENT_R_B_DAMAGE_MULTIPLIER 1.0
+#OPPONENT chara_shark
+#PLAYER chara_elena
+#AI_LEVEL 6
+#STAGE neonlight
+#NO_RINGOUT
+#TIMER 35
+#WIN_CONDITION Survive

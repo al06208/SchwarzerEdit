@@ -1,0 +1,193 @@
+#BACKGROUND cg\cgA1b.png
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+And? And? What do you think about it, Mr.~Sambiong?
+#TEXT_END
+#PAUSE 600
+#BGM
+..\..\..\..\stages\deltaBase\music\wontolla_rain.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Not that bad. It looks like you are well trained in martial arts. Where did you learn?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+I've been practicing them since I was a kid, in China!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Now, what about drinking something together? I know a nice bar just ten minutes from here!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+A break?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+Commander Sambiong is really busy at the moment! You'd better...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Yes, why not?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+*giggles* Yay! Thanks a lot, Mr.~Sambiong!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+Sir?! What the...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I will join you in a couple minutes. Can you just wait outside, Amy?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Sure! I will get as much information I can at the reception in the meanwhile!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+(receptionist) Please, no! Whyyyy?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Okay, Cyphr. We can talk about your concerns, now.
+#TEXT_END
+#PAUSE 600
+#STAGE_BACKGROUND deltaBase\
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Ehm... sir? I fail to understand. Are you REALLY having a coffee break with that annoying little fangirl or my hearing device is just sending my brain random words?
+#TEXT_END
+#STAGE_BACKGROUND deltaBase\
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+There's something strange about her, Cyphr.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Two weeks ago, the Night Assassin claimed their last victims: those girls' last living relatives. Then, she disappeared, never to strike again.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+Yeah, because she died in the fall, didn't she?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Apparently, not. Yesterday, the Night Assasin has been spotted again, though she didn't murder anybody. I have received a report from the St.Patrick police dept just half an hour ago.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+And, before you ask, that girl was released from the hospital two days ago.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+You were tracking her?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Yes. I believe there's a connection. I just don't understand how deep.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Therefore, I have to gather more intel on her. This is why I accepted.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+Oh, silly me! And I was thinking you were going on a date with a girl you've just met twice, after you've found her naked on the street and been with her for the whole night when she was unconscious in a hospital bed!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+You should change your nickname. "Die Schlange" sounds more appropriate than "Das Wolfm:ae:dchen".
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+But... but I'm not a snake?
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+...or am I?
+#TEXT_END
+#PAUSE 600
+#END

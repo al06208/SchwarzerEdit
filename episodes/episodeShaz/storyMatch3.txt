@@ -1,0 +1,19 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+I... I think I understood now!
+#OPPONENT_WIN_QUOTE
+My nightmare is finally over!
+#PLAYER_INTRO_QUOTE
+What the Hell?! I am supposed to get YOU to Go!
+#OPPONENT_INTRO_QUOTE
+Really? From my point of view is exactly the opposite!
+#OPPONENT_LIFE_MULTIPLIER 2
+#PLAYER_LIFE_MULTIPLIER 2
+#OPPONENT chara_elena
+#PLAYER chara_shark
+#AI_LEVEL 6
+#STAGE Elevator
+#PLAYER_OUTFIT_ID 0
+#OPPONENT_OUTFIT_ID 0
+#DIALOGUE_IN_BATTLE storyMatch3-Dialogue.txt
+#TIMER 45

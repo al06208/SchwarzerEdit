@@ -1,0 +1,15 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+Nothing can stand in my way.
+#OPPONENT_WIN_QUOTE
+How did he entered this place?!
+#OPPONENT_INTRO_QUOTE
+W... what are you?
+#PLAYER_INTRO_QUOTE
+Don't make me laugh.
+#PLAYER chara_donner
+#OPPONENT event_soldier
+#PLAYER_LIFE_MULTIPLIER 2.5
+#AI_LEVEL 6
+#STAGE story_bonzaga_research
+#TIMER 100

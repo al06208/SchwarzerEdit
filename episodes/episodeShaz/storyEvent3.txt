@@ -1,0 +1,165 @@
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Please, Blade! Stop this farce! I... I don't want to hurt you anymore!
+#TEXT_END
+#BACKGROUND cg\clipBlade1.png
+#PAUSE 1200
+#BGM
+..\\..\\..\\..\\stages\Elevator\music\boss_krogh.ogg
+100.0
+0.8
+#END
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+You have already spent the money. I know it. When Go will get his tentacles on you, and FOR SURE he will, he will have you tortured!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+He will make sure you suffer all the worst pains, he won't stop until you beg him, crying, bowing on what's left of your knees!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+Only then, he will kill you. And it won't be a mercy kill.
+#TEXT_END
+#PAUSE 1200
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+...
+#TEXT_END
+#PAUSE 1200
+#END
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+You see where this is going, right? I'm actually trying to... avoid this situation.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Yeah, by putting me into the grave before. Clever, pal. But I'm not playing the game.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+Then, you have only one choice.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+Find Delfina.
+#TEXT_END
+#PAUSE 1200
+#BGM
+..\\..\\..\\..\\stages\Elevator\music\boss_krogh.ogg
+0.0
+0.8
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Delfina?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Is... is she even still alive?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+That will be better for you. I'm pretty sure Go will forgive you if you manage to take her back.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+S... so?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+So, guess what? I'm letting you go, Shaz.
+#TEXT_END
+#PAUSE 600
+#BGM
+..\\..\\..\\..\\stages\\Skyscraper\\music\\ResonantHopesIgnitedWills.ogg
+60.0
+0.9
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+...Thanks, pal.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+Thank me when you've found her.
+And - oh! Just one more thing...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+If I were you, I'd take the second elevator from the right, to go down. And have a look at the corner.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+B... Blade...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+We never met Shaz, okay? I've never called you here.
+Now, I've gotta go.
+Hope to see you soon. Possibly, not in slices.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOWS
+#END

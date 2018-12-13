@@ -1,0 +1,190 @@
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Whew, this cocktail's hella good! Can I have another one?
+#TEXT_END
+#STAGE_BACKGROUND coqHeureux\
+#PAUSE 600
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+100.0
+1.0
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(bartender) You have the money, right fishman?
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\black.jpg 200
+#BACKGROUND cg\cg_coq1.jpg
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Bah, gonna pay tomorrow. Name's Aliart, ask your boss. Always paid back, sooner or later, down to the last cent. And, when not, I washed dishes for the whole night.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(bartender) Better for you. Mr.~ Daevka is not happy with drink-and-runners. And that's the eighth Vodka Lemon so far.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Tell Mistah Daevka that he can bet his own beard'n'scales that I'll have the money back.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_coq1.jpg 200
+#BACKGROUND cg\cg_coq2a.jpg
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Good evening, sweetie! Care if I sit here?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+The heck if I care. Not gonna complain for some compa...
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_coq2a.jpg 200
+#BACKGROUND cg\cg_coq2b.jpg
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Bloody moonfish! Where are your arms?!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_renzo\arcade\sounds\glass.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_coq2b.jpg 200
+#BACKGROUND cg\cg_coq2c.jpg
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+(*giggles*) Huh, I forgot them at home! Man, I had the feeling I was missing something!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_coq2c.jpg 200
+#BACKGROUND cg\cg_coq2b.jpg
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+O... okay. Well, kinda sucks to be you. You can't drink that way.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_coq2b.jpg 200
+#BACKGROUND cg\cg_coq2c.jpg
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+(*giggles*) Don't bet on it, sweetie! I'm well trained.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_coq2c.jpg 200
+#BACKGROUND cg\cg_coq2d2.jpg
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Huh, whatever. Just leave me alone.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_coq2d2.jpg 200
+#BACKGROUND cg\cg_coq2e.jpg
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Just a question, sir. Is your name Shaz Colder?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+*cough, cough*
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(bartender) Nah, name's Aliart. He's a returning customer of us. See him every night.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Huh? Such a shame, then. Because, if you happened to be the person I was looking for, I would have had an interesting offer for you.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_coq2e.jpg 200
+#BACKGROUND cg\cg_coq2a.jpg
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Wait, Leggy, what kind of offer?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Something like... joining the Delta Team?
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_coq2a.jpg 200
+#BACKGROUND cg\cg_coq2b.jpg
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Bloody moonfish! You work for that damn asshole tiger!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_renzo\arcade\sounds\glass.ogg
+100
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+No, no, no! Go away, kiddo! Go the freak out of here! I'm not gonna fall into the trap! Not again!
+I'm not going to jail!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Wait! We don't want to take you...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Shut the Hell up!!!
+#TEXT_END
+#PAUSE 600
+#END

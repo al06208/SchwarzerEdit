@@ -1,0 +1,19 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+Shaz Colder, now sit down and listen! 
+#OPPONENT_WIN_QUOTE
+Betta start runnin' before the goddamn Tiger comes! 
+#PLAYER_INTRO_QUOTE
+Can't you just listen to me, you moron? I want to speak with you! 
+#OPPONENT_INTRO_QUOTE
+Since when "speak" is a synonym for "take under arrest"? 
+#OPPONENT_LIFE_MULTIPLIER 1.2
+#PLAYER_LIFE_MULTIPLIER 1
+#OPPONENT chara_shark
+#PLAYER chara_cyphr
+#AI_LEVEL 6
+#STAGE coqHeureux
+#PLAYER_OUTFIT_ID 1
+#OPPONENT_OUTFIT_ID 0
+#NO_RINGOUT
+#TIMER 60

@@ -1,0 +1,94 @@
+
+#NO_BACKGROUND
+#STAGE_BACKGROUND DeadZoneDesert
+#CENTER_WINDOW
+#TEXT_BEGIN
+Three or four hours was, unfortunately, a pretty optimistic estimate. We ended up needing almost twice as long.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#END
+
+#TOP_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg_dz_1.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+There is only one path piercing through the Dead Zone Wall, and that path has a single checkpoint: the dome city of St.~ Patrick.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+There is no other way to exit the Dead Zone. At least, not without being gunned down by the automatic heavy artillery system which keeps the Haemophages at bay. In other words, you are forced to pass through the city.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\white.jpg 300
+#STAGE_BACKGROUND DeadZoneDesert
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+The guards at the outskirts of the SHIELD wanted to see papers, papers I obviously didn't have. Miss Husler showed'em one of her IDs... plus some one hundred pounds bills.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+Apparently, everyone can enter or exit St.~ Patrick now, if you have access to the right means.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg_stp_1.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+In order to avoid additional troubles, Miss Husler took me to an acquaintance of hers to get a "legitimate" travel document. Now, at least on paper, my name is Vincent Jackson and I have been disfigured by a fire back in my days in London.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+I don't know why I chose that name. It sounds familiar, though.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg_stp_1.jpg 300
+#STAGE_BACKGROUND Neonlight
+#CENTER_WINDOW
+#TEXT_BEGIN
+In any case, we managed to exit the city in the late evening, when the sun already settled. We could have waited for tomorrow, true, but none of us wanted to spend the night under the SHIELD. This city is way too creepy, as they are its inhabitants.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+It was already past nine when we finally got a glimpse of the empty, tall buildings of Northern Algol.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_bloodmoon.jpg
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+They were standing proud in the silence of the night, bathed in the ominous light of the full moon, as the ghost city was eagerly waiting for us to come.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+An invitation we were not going to decline.
+#TEXT_END
+#CLOSE_WINDOW
+#END

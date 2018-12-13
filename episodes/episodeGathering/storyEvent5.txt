@@ -1,0 +1,120 @@
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg5b.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+moody.ogg
+100
+1.0
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+This... was not part of the plans...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\mesh2
+#TEXT_BEGIN
+>Oh, really? I would have never guessed it, if you hadn't pointed it out.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\mesh2
+#TEXT_BEGIN
+>After all, it's extremely easy for General Boost to create such a beautiful dome of darkness around the centre of one of the most important European cities, right?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+Shut down the sarcasm subroutine, rustbucket. After your failure, we could have left you to die on the highway.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg5a.jpg
+#TRANSITION cg\cg5b.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_krave\mesh2
+#TEXT_BEGIN
+>Yet, you didn't. Is this specimen so important for you that you need a killer robot to get it?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\mesh2
+#TEXT_BEGIN
+>I mean, who wouldn't like to have me around? Still, it's pretty disturbing, if you ask me.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+We know she is in Euterpe. We are here with the excuse of helping with the emergency.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+Therefore, the less we show up, the better. You, on the other hand, are free to go wherever you want, without troubles.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg5b.jpg
+#TRANSITION cg\cg5a.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_krave\mesh2
+#TEXT_BEGIN
+>I got it, Ondra-chan. You and your men are too shy to show yourselves live on cameras.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\mesh2
+#TEXT_BEGIN
+>But for a superstar like me, it's just ordinary routine. Good then, I will retrieve your precious little package...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\5b.jpg 300
+#BACKGROUND cg\black.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+And settle the score with Commander Kitty and the armless brat... once and for all.
+#TEXT_END
+#CLOSE_WINDOW
+#END

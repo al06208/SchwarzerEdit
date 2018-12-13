@@ -1,0 +1,38 @@
+#BEGIN
+
+Cyphr 2000 3000
+Amy? What the heck is going on here?!
+Amy 0 2000
+When there is no more sunlight,
+Amy 0 2000
+You can see Her with your eyes.
+Amy 0 2000
+Can deny it, yes, you might...
+Amy 0 2000
+But She's still the Walking Night!
+
+Cyphr 500 3000
+This rhyme... no, it can't be!
+Amy 400 2000
+When the clock is striking twelve,
+Amy 0 2000
+All the dead exhume themselves,
+Amy 0 2000
+Then come back to life and cry,
+Amy 0 2000
+While the Moon's high in the sky!
+
+Cyphr 500 3000
+Verdammte Schei...! This can't be!
+Amy 400 2000
+Wind is twisting leaves and grass,
+Amy 0 2000
+Can you hear their scream, their voice?
+Amy 0 2000
+It sounds like a judgement brass...
+Amy 0 2000
+Come back home, you have no choice!
+
+Cyphr 500 3000
+So... so you truly are...
+#END

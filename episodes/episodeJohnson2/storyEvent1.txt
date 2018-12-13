@@ -1,0 +1,140 @@
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg_jeep3.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\DeadZoneDesert\music\stage_bgm_cut.ogg
+40.0
+1.0
+#PAUSE 0
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+That was a nice show of skill, Miss Husler. It's hard to believe that you are just a journalist traveling the Dead Zone for a reportage.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Those were military-level self defense techniques. Could you please tell me the truth about yourself?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+What about first telling me why I can't "read" your face, Johnson? What about that?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+One answer for one answer? Fine with me. As you may have noticed, I have no face, Miss Husler. My appearance oscillates between all possible features, creating this... blurred mess here.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I'm heading to Northern Algol because I heard rumors about another faceless individual lurking somewhere there. It's not such a common occurrence, you know? I feel it could be connected with my past.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+It's not the first time I meet someone like you.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeRenzo\cg_lite\cg_bonzaga_last2a.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+I was almost killed by a man without a face, during the fire at the Bonzaga mansion in Euterpe... but that was not you, this is for sure. I thought you could have been connected to him.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg_jeep3.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+So, fate has arranged for our meeting. Curious how things turn out sometimes.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+To be honest, I was tailing you through a... friend, if we can call him like this. I knew beforehand that you would have come here.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeJohnson1\cg\cg_river3.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+That annoying little brat with spiky red hair? Well, that explains a lot.
+#TEXT_END
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg_jeep3.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+It appears that our goals coincide, at least for now. What about a collaboration?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Fair enough.
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_jeep2.jpg
+#TRANSITION cg\cg_jeep3.jpg 300
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+Good. Let's head for Northern Algol together, then. St.~ Patrick is right ahead, If we keep on driving at this pace, we should reach our destination in around three or four hours, just after sunset.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I'm entrusting you on this, Miss Husler. Hopefully, I won't be wrong.
+#TEXT_END
+#END

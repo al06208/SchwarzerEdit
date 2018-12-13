@@ -1,0 +1,164 @@
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TEXT_BEGIN
+3 months later.
+#TEXT_END
+#END
+
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg_lite\intro2.jpg
+#TEXT_BEGIN
+(recorded voice)... the memorial "to the Angels of Euterpe" remembers all the heroic firefighters who died in the Black Lightning Disaster.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+atmosphere.ogg
+40.0
+0.9
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\intro2.jpg 300
+#BACKGROUND cg_lite\cg_eut0a1.jpg
+#TEXT_BEGIN
+Among them, the first team with which the radio contact was lost: Giovanni Bastiano, Michele Estoriante, Enzo Rinaldi, Fabio Cerasi, Gennaro Varioli...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a1.jpg 300
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#TEXT_BEGIN
+...Alessandro Rubecca.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(recorded voice) In order to save people trapped in the facility, they've faced the fire without hesitation, like...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#SOUND
+beep1.ogg
+100
+1.0
+#PAUSE 400
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Have you heard, Alex? Everyone's calling you "hero", nowadays. Pretty hilarious, huh?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+It's damn boring without you. Dad is still shocked, you wouldn't believe it! He actually canceled a concert in Stockholm. The first canceled concert in his life! And that's because of you, you moron! Don't you feel ashamed?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Well, I miss you too, Alex. If only you weren't on duty, that night... if... if only that accident never happened...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+An accident, you say. What if you were wrong, Mr.~ Rubecca?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a.jpg 300
+#BACKGROUND cg_lite\cg_eut0a2.jpg
+#TEXT_BEGIN
+What if it was... no accident?
+#TEXT_END
+#BGM
+atmosphere.ogg
+0.0
+0.9
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+...eavesdropping is quite rude, don't you know?
+Who would you supposed to be?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+A close friend of your brother. You can call me Jennifer Cloverfield. But you didn't reply to my question. What if it was no accident?
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a2.jpg 300
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+*Oh, great* Well, Miss Cloverfield, I've had enough of conspiracy theories, you know? There's a nice documentary about the Haemophages being created by RealLifeAnime, why don't you go watching it?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a.jpg 300
+#BACKGROUND cg_lite\cg_eut0a2.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Now, you're the one being rude, *child*. I want you to help me. Or, at least, to listen to what I have to say.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a2.jpg 300
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+What if I don't? Are you punching me in the face?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a.jpg 300
+#BACKGROUND cg_lite\cg_eut0a2.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Don't get too cocky, kid. I could lose my cool.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a2.jpg 300
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Yeah, that's the difference, Miss. You *could* lose your cool.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+I've already lost mine!
+#TEXT_END
+#END

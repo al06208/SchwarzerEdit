@@ -1,0 +1,693 @@
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\cg14.jpg
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+*ugh*...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+I... I can't give up right now! I simply can't!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I can't let you win, Arkaneis! I refuse... to bow...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14b.jpg 300
+#BACKGROUND cg\cg14.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg14b.jpg 300
+#BACKGROUND cg\cg14.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The tide... is rising! I have to do it now!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+The tide...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+I see... you want to use it to seal me and the Gallery away?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14b.jpg 300
+#BACKGROUND cg\cg14.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg14b.jpg 300
+#BACKGROUND cg\cg14.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+Still, you are too weak, Donner... you will never be able to restrain me long enough...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+Right, he's not.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+0.0
+1.0
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+But, together, we are.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14.jpg 300
+#BACKGROUND cg\cg14c.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+25.0
+1.0
+#BGM
+moody.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+What...?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I've promised Sambiong that I would have reconsidered my ways.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+So, this is what I have to do.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+And I know I can't let this world die. Millions of people, of children, crying in pain and fear...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I don't want this vision to haunt the rest of my days!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+We may be copies, we may be faulty...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+But, still, we are individuals. And we think on our own!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#END
+
+#AUTO
+#TRANSITION cg\cg14c.jpg 300
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+NO! Let me go! Traitors!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+You... you can't possibly have chosen this world over the REAL one!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Yet, we have.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 300
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 300
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+There's nothing to gain for you! You will die here! I will survive the tide, but you...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14d.jpg 300
+#BACKGROUND cg\cg14e.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I decided to do this.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14e.jpg 300
+#BACKGROUND cg\cg14g.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+WE decided to do this.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14g.jpg 300
+#BACKGROUND cg\cg14i.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The tide will take you away... and without us, you WON'T EVER RETURN to this Earth!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+We ALL know you can't create any new copy, since the model, the old Donner... is no more.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+N... no! Stop! You can't be serious! You can't be doing this!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+Think about Gaia! About our beautiful planet! You are condemning it!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14j.jpg 300
+#BACKGROUND cg\cg14i.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg14j.jpg 300
+#BACKGROUND cg\cg14i.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+We won't trade the people we've grown to be attached to for that.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14i.jpg 300
+#BACKGROUND cg\cg14e.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Sambiong, this is what I was meant to do from the beginning...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14f.jpg 300
+#BACKGROUND cg\cg14e.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg14f.jpg 300
+#BACKGROUND cg\cg14e.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I'm sorry I have not understood it before.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14e.jpg 300
+#BACKGROUND cg\cg14g.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Well, Mr.~ Alba... you will be happy I guess. And all those... children as well.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14h.jpg 300
+#BACKGROUND cg\cg14g.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg14h.jpg 300
+#BACKGROUND cg\cg14g.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#AUTO
+#TRANSITION cg\cg14g.jpg 300
+#BACKGROUND cg\cg14i.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Kiyoko, Kaya...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+This is for you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14j.jpg 300
+#BACKGROUND cg\cg14i.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg14j.jpg 300
+#BACKGROUND cg\cg14i.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+No, stop! They are fake! This world is fake! EVERYTHING IS FAKE!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Rest well, old man. Your time, our time has run out.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14j.jpg 300
+#BACKGROUND cg\cg14i.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg14j.jpg 300
+#BACKGROUND cg\cg14i.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#AUTO
+#TRANSITION cg\cg14i.jpg 300
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+NO, PLEASE! My... my planet! My beautiful, amazing planet!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+You must let me save it! We don't deserve it! I don't...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 300
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 300
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+No, please!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+NO!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 300
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 300
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+NOOOO!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 200
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 0
+#SOUND 
+static.ogg
+100
+1.0
+#BGM
+night.ogg
+0.0
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 300
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 200
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 0
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 600
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 300
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 200
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 0
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 400
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#AUTO
+#TRANSITION cg\cg14k.jpg 300
+#BACKGROUND cg\cg14d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#AUTO
+#BACKGROUND cg\cg14l.jpg
+#TRANSITION cg\cg14m.jpg 2000
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#SOUND 
+explosion.ogg
+60
+0.7
+#CLOSE_WINDOW
+#PAUSE 2000
+#END
+
+#AUTO
+#BACKGROUND ..\episodeSource\cg\theLoathing.jpg
+#TRANSITION cg\cg14l.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#AUTO
+#BACKGROUND ..\episodeSource\cg\theLoathing0.jpg
+#TRANSITION ..\episodeSource\cg\theLoathing2.jpg 1500
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#SOUND 
+explosion.ogg
+50
+1.0
+#CLOSE_WINDOW
+#PAUSE 4000
+#END
+
+#AUTO
+#BACKGROUND cg\black.jpg
+#TRANSITION ..\episodeSource\cg\theLoathing0.jpg 4000
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 4000
+#END

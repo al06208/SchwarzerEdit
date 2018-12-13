@@ -1,0 +1,230 @@
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg2e.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#BGM
+moody.ogg
+100.0
+1.0
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg2f.jpg
+#TRANSITION cg\cg2e.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\characters\chara_shark\Mesh99\sounds\hit_weak.ogg
+100
+1.0
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+My *ugh* wounds have reopened. Damnit, damnit, DAMNIT!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Feliz, calm down! I am NOT betraying Go! How could I do anything like that?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+*ugh* sure. "How could Delfina betray us, Go?". "Shaz would never do this, Go!".
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+I remember it, you know? Every time... you defended them in front of Don Ottari. Every. Single. Time. Even... even after they defected.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg2e.jpg
+#TRANSITION cg\cg2f.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Yet, you've never, NEVER spent a word for me. Never a nod of appreciation. Never an encouragement.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+You've had eyes for them only. It's... it's clear that you would sacrifice everything for them, included Don Go!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALAGALAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\ko.ogg
+100
+1.0
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg2f.jpg
+#TRANSITION cg\cg2e.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#SOUND 
+..\..\..\..\characters\chara_shark\Mesh99\sounds\hit_weak.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+*cough* *cough* Yes, pal. You... you can do it. You HAVE to do it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALAGALAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\flight.ogg
+100
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+*cough* *cough* knock him out... for the good of the Syndicate!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg2f.jpg 300
+#BACKGROUND cg\cg1d.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Bloody porpoise! Blade, it's the FREAKIN' LOBSTER! You have no chance against him!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+He'll smash you into a pulp!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg1d.jpg 300
+#BACKGROUND cg\cg2f.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#BGM
+..\..\..\..\stages\lavaCave\music\fight.ogg
+50.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I'll take a page from Johnson's book, then...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\white.jpg 200
+#BACKGROUND ..\episodeJohnson1\cg\cg_docks4.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+...~ and target his weak points.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\white.jpg 200
+#BACKGROUND cg\cg2e.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALAGALAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\flight.ogg
+100
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALAGALAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\ko.ogg
+100
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Come at me, if you wish to. I know how to best you, now!
+#TEXT_END
+#CLOSE_WINDOW
+#END

@@ -1,0 +1,132 @@
+#BACKGROUND cg\cg2a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Stop, you morons! I haven't fixed you two to wreck the artificial crap out of each other!
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\Algol\music\invasion.ogg
+40.0
+0.5
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>I need that core! I'm not settling down until...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Your body is completely broken, you have no chance to best Graf in your current state.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Besides, I've found another body marked with your identification number. It was still unfinished, but it's definitely better than yours.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg2a.jpg 300
+#BACKGROUND cg\cg2b.jpg
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>You mean the prototype H-168 shell? It's useless, professor Mayer has NEVER completed its generator and it's lacking some critical structural reinforcements!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Still better than being a sitting duck disguised as a robot.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>I agree with Simmerik. That body of yours won't last much longer. You know it, Krave. You can fool us, but you can't fool yourself and your sensors.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg2b.jpg 300
+#BACKGROUND cg\cg2a.jpg
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>Alright, I... I will...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg2a.jpg 300
+#BACKGROUND cg\cg2_dim.jpg
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+*don't think about it don't think about it don't think about it*
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg2_dim.jpg 300
+#BACKGROUND cg\cg2a.jpg
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>...~ I will trust you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg2a.jpg 300
+#BACKGROUND cg\cg2_dim.jpg
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+...aaaaand there goes my ego. Rest in peace, you will be missed.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg2_dim.jpg 300
+#BACKGROUND cg\cg2a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+That's the right spirit. I'm sure we will find a way to keep you alive and kicking. You are in the right hands.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_broken_krave
+#TEXT_BEGIN
+>Said by a former semi-professional serial killer, this makes so little sense it hurts.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg2a.jpg 300
+#BACKGROUND cg\cg2b.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+It will make much more sense when you see the body. I've already started working on it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh99
+#TEXT_BEGIN
+Come on, follow me!
+#TEXT_END
+#CLOSE_WINDOW
+#END

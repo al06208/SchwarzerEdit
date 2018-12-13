@@ -1,0 +1,21 @@
+#EPISODE_NAME
+Through the Fire and Flames
+#DESCRIPTION
+After losing his brother in the Black Lightning 
+Disaster, Renzo starts looking for responsibles.
+The meeting with Jenn opens doors on a truth that
+is not easy to accept...
+#DESCRIPTION_END
+#EVENT storyEvent0
+#EVENT storyEvent1
+#MATCH storyMatch0
+#EVENT storyEvent2
+#EVENT storyEvent3
+#EVENT storyEvent4
+#MATCH storyMatch1
+#MATCH storyMatch2
+#EVENT storyEvent5
+#EVENT storyEvent6
+#MATCH storyMatch3
+#EVENT storyEvent7
+#EVENT storyEvent8

@@ -1,0 +1,216 @@
+#BACKGROUND cg\cg3.jpg
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Guys, stop it! This is not a good show. You two have NO reasons to fight RIGHT NOW.
+#TEXT_END
+#BGM
+..\..\..\..\stages\Algol\music\invasion.ogg
+40.0
+0.5
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+I would rate this feud one-out-five stars. Not enough motives. In comparison, the 2062's Eliphya "Rebirth" TV special was a masterpiece.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>Negative. I need an answer.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Okay, okay, got it. Mr.~ Johnson, could you PLEASE reply to my friend, so that we can go on with the REAL business and finally advance the plot?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Long story short: I know a tigerman who looks exactly like you and whose name is Sambiong. I have heard he was also an inmate of Branch 70X, as I and Donner were, but I have never met him there.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>Branch 70X. I... I feel I have some records in my archives. Was... was this "Sambiong" the only specimen?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Rumor has it, that there were more beastmen in the facility. It was one of "Metallic" Mayer's side projects.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg3.jpg 300
+#BACKGROUND cg\cg2d.jpg
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+What? "Metallic" Mayer? THAT "Metallic" Mayer?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Now, it's me who should be surprised, isn't it?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+... I wonder how is this possible. I'm kind of... not believing in reality anymore.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+For all this time, I have never found a real trail connected with that man... and now, all of a sudden, in the least likely place in the world...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Johnson, is this a dream? I don't know, am I also going to meet my dead sister at some point?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+It's less random than you believe, Miss Husler. Think about it.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I had connections with Mayer. Donner had connections with Mayer, and you met him and the "kitsune duo" once already.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Rumors spread that "a man with no face" was hiding here. Who spread the rumors is irrelevant, but there are a couple sensible options... one of which in front of us.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Our meeting was decided the moment that redhead set foot on British soil.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg2d.jpg 300
+#BACKGROUND cg\cg3.jpg
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+I see your point, but...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Coincidences happen, Miss. Ruling them out completely is as absurd as believing that everything is just a fluke of fate.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg1b.jpg
+#TRANSITION cg\cg3.jpg 300
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Great! If it's all set and done, what about moving on, before this fracture evaporates... and facing the unknown?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+I will guide you to the place you belong, the place you need to reach to unravel the mystery.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>I also want to join. I... feel I need to. My processors are telling me this is the most logical choice.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+The more, the merrier, the safer.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg2b.jpg
+#TRANSITION cg\cg1b.jpg 300
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+I can't trust him.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Neither can I, but we are a bit short on options.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+At this point, I don't care anymore if I live or die. I simply CAN'T go back without an answer. You are free to take the car and go back to St.~ Patrick.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg1b.jpg
+#TRANSITION cg\cg2b.jpg 300
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+I'll come with you, Johnson. I can't afford leaving the game right now. I promised it.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Then, let the next episode of the show begin!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+A step through the Shadow Gallery: What will await our heros?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Let's go and find it out!
+#TEXT_END
+#END

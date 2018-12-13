@@ -1,0 +1,582 @@
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg3a.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+moody.ogg
+100.0
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Of all the nonsense you could spit out, this is probably the most stupid.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Sure, the world ended in 2014, right? After the DP-0 incident, huh?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Yet, this is 2065, and - guess what? We are all here, alive and kicking.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Thanks to the fact that distortion plants are stabilizing this reality. Otherwise, there would be no "Donner", no "Jackson", no "Ange".
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+Tell us one reason we should believe you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Jenn's hair color.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg3a.jpg 300
+#BACKGROUND cg\cg3b.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+What?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+It's natural, isn't it? You aren't dying your hair, right?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Yes, I was born this way, but why...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg3b.jpg 300
+#BACKGROUND cg\cg3a.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Human chromosomes and pigments can codify for a small variety of colors. Violet is not one of them.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+If someone would analyse your DNA, they would find out that your hair color is inconsistent with what your genes codify.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Huh? But it's not THAT uncommon!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Before 2014, no child was born with yellow or purple eyes, blue, violet or green hair. After 2014, suddenly, these strange, unexplainable combinations appeared, little by little.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+It's a minor inconsistency, yet it's one thing that doesn't add up.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+If you want something bigger, Jacko... can you explain me how have YOU survived the Black Lightning Disaster?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I... I can't remember the details. I guess I have just run for my life, when all of a sudden...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+And you, Sambiong?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+... same as Johnson. I think I've just run away. I can't remember much more.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Is that also true for you, Ange?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+What the Hell are you trying to imply?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Simply put, that it is not physically possible.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\breakingNews\cg\cg_tv2.jpg
+#NO_BACKGROUND
+#PAUSE 800
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The explosion of the distortion core destroyed an area enclosed in a radius of around 15 km. An athlete with a cold, analytic mind could have got out of it in the single hour you had to escape the laboratory.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+But a frightened former guinea pig without proper training or too stressed to think properly? Definitely not. Yet, you three survived, even if you can't remember how.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg3a.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+This is a major inconsistency, if you ask me. A world with proper rules wouldn't work like this. You three - and many more people - would be dead, at this point.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+This is possible just because our reality is "glitched".
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+I'm not following it anymore... are you telling that... that we are, huh, not real, someway?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Our world is not real and, by extension, we.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+But... how?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg3a.jpg 300
+#BACKGROUND cg\black.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Do you know the Schr:oe:dinger thought experiment, Jacko?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\sch1.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Get a radioactive atom. There is a random chance it will decay. Put it near a poison dispenser which sets off if the atom decays.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\sch1.jpg 300
+#BACKGROUND cg\sch2.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Put a cat in a box, together with the atom and the dispenser. Close the box.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+If the atom doesn't decay, the cat lives.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\sch2.jpg 300
+#BACKGROUND cg\sch3.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+On the contrary, if the atom DOES decay, the cat dies because of the poison.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+The interesting part is, that before you open the box you can't say whether the cat is dead or alive.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\sch3.jpg 300
+#BACKGROUND cg\sch4.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Therefore, the cat is now in a superimposition of the two states, until observed.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\breakingNews\cg\cg_tv1.jpg
+#NO_BACKGROUND
+#PAUSE 800
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The explosion of DP-0, with the consequent sinking of the whole Fennoscandia, put our world in a similar superimposition.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+An alive and well world, where this was a huge accident but "just" caused a couple million casualties.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION ..\breakingNews\cg\cg_tv1.jpg 300
+#BACKGROUND ..\breakingNews\cg\cg_tv1b.jpg
+#NO_BACKGROUND
+#PAUSE 800
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+And a dead world, where this accident caused all the experimental distortion cores around the world to explode, while the sinking of Fennoscandia caused an unthinkable environmental disaster...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...making the planet completely inhabitable and causing the extinction of most of the biosphere.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+These two parallel Earths have kept on developing separately, leading to today's world... and the Shadow Gallery.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg2f.jpg
+#NO_BACKGROUND
+#PAUSE 800
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+There is a difference, though. While in the cat's case, the true state is unknown until observed... in our case, the equilibrium state of the system is the dead Earth.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Our world, the world where I was born, where we were born, kept on degrading the initial information, allowing for these unnatural combinations to occur.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Glitches like the ones I've pointed out are every day more frequent, as a testament to how unstable this reality is.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The one reason why our "reality" didn't collapse yet... is because the energy produced by the distortion plants is keeping it stable and preventing it from falling apart.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg2f.jpg 300
+#BACKGROUND cg\cg3a.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+If this is true, why would the original Donner want to shut them down? I mean, what would be his gain?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Simply put...
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+moody.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...this layer is interfering with the Shadow Gallery, slowly leaking into it and destabilizing its structure in the process.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeDarkness\cg\cg8c.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The leaks have become more and more frequent with time, causing phenomena known as "tides"...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...which randomly rewrite its essence, changing, mixing and distorting the environment. Destroying living beings, creating strange life forms, and phantoms from this broken Earth.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg3a.jpg
+#NO_BACKGROUND
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Like... my sister Lynn's shadow?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Precisely, Jenn.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The tide creates, the tide destroys. All due to the presence of distortion plants on this layer.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+On the long run, these tides will wipe out what's left of the old planet, replacing it with a grotesque imitation of the Earth-that-was.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr
+#TEXT_BEGIN
+No way! This would mean that Donner...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Yes.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+He just wants to save what he perceives as the real Earth from destruction.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg3a.jpg 1200
+#NO_BACKGROUND_PICTURE
+#PAUSE 1600
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+And, in order to do so... he needs to erase this fake world from existence.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#PAUSE 4000
+#END

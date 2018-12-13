@@ -1,0 +1,305 @@
+#BACKGROUND cg\cg8.jpg
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+50.0
+1.0
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Donner, please, stop it! She's defenseless!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+She can't hurt us! Why are you so willing to kill her?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+She's an anomaly, she shouldn't be here. As I see it, there are only three possibilities.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+One: she is a construct of the Shadow Gallery, a sort of solid illusion. In this case, I wouldn't be killing a person, just deleting a record from the disk.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Two: she is a real human, death stranded in this apocalyptic valley, a place deprived of everything which is necessary to substain life. In this case, it would be a mercy kill, because she'd die anyway by starvation.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Three: she can access this world at will and she's just either acting or discovering this power of hers. In this case, I can't take any unnecessary risks and she must be silenced.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg8.jpg 300
+#BACKGROUND cg\cg8b.jpg
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+All logical conclusions converge to me ending her life, right here, right now.
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+0.5
+#END
+
+#CHARA_MUGSHOT chara_amy\storyMesh2
+#TEXT_BEGIN
+P... please, don't! I'm.. I'm just scared! I don't know why I am here, I have just... woken up in this place!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_amy\storyMesh2
+#TEXT_BEGIN
+I swear I bear no ill will! I... I...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg8c.jpg 300
+#BACKGROUND cg\cg8.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+0.0
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg8c.jpg 600
+#BACKGROUND cg\cg8.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+N... no...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg8c.jpg 300
+#BACKGROUND cg\cg8.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg8c.jpg 600
+#BACKGROUND cg\cg8.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+What... what was that?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The tide...
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+Donner? What happened?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg8c.jpg 300
+#BACKGROUND cg\cg8.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg8c.jpg 600
+#BACKGROUND cg\cg8.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The tide! The tide is rising!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#BACKGROUND cg\cg7.jpg
+#TRANSITION cg\cg8.jpg 300
+#PAUSE 500
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+RUN AWAY, QUICK! NOW!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_amy\storyMesh2
+#TEXT_BEGIN
+Please, don't leave me here! DON'T LEAVE ME ALONE!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg7b.jpg 200
+#BACKGROUND cg\cg7.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 0
+#SOUND 
+static.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg7b.jpg 300
+#BACKGROUND cg\cg7.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#AUTO
+#TRANSITION cg\cg7b.jpg 200
+#BACKGROUND cg\cg7.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 0
+#END
+
+#AUTO
+#TRANSITION cg\cg7b.jpg 600
+#BACKGROUND cg\cg7.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#AUTO
+#TRANSITION cg\cg7b.jpg 300
+#BACKGROUND cg\cg7.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#AUTO
+#TRANSITION cg\cg7b.jpg 200
+#BACKGROUND cg\cg7.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 0
+#END
+
+#AUTO
+#TRANSITION cg\cg7b.jpg 400
+#BACKGROUND cg\cg7.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#AUTO
+#TRANSITION cg\cg7b.jpg 300
+#BACKGROUND cg\cg7.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_amy\storyMesh2
+#TEXT_BEGIN
+D... don't leave me alone...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg7b.jpg 1500
+#BACKGROUND cg\black.png
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 1300
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END

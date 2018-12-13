@@ -1,0 +1,22 @@
+#EPISODE_NAME
+Roaring Regret
+#DESCRIPTION
+Tiger is the leader of the Delta Team, a special 
+divison tasked to deal with the increasing number 
+of mutant criminals. Tiger is a mutant as well, 
+however, and his origins are deeply connected 
+to the Black Lightning...
+#DESCRIPTION_END
+#EVENT storyEvent0
+#MATCH storyMatch0
+#EVENT storyEvent1
+#EVENT storyEvent2
+#EVENT storyEvent3
+#MATCH storyMatch1
+#EVENT storyEvent4
+#EVENT storyEvent5
+#EVENT storyTrip1
+#EVENT storyEvent6
+#EVENT storyEvent7b
+#MATCH storyMatch2
+#EVENT storyEvent8b

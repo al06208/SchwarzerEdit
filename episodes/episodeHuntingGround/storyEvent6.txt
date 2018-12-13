@@ -1,0 +1,345 @@
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\black.jpg
+#PAUSE 0
+#NO_BUFFER_TIME
+#CLOSE_WINDOW
+#BGM
+moody.ogg
+70.0
+1.0
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+You know why you are here, right?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\boost2.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>No, please. Entertain me.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\boost2.jpg 300
+#BACKGROUND cg\boost1.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+Less humor, coghead. There are sixteen soldiers ready to jump at your neck, if anything goes wrong.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\boost1.jpg 300
+#BACKGROUND cg\boost2.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+You killed two of us. You are safe JUST because General Boost FORCED us to restrain ourselves.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Which leads us to this meeting. I thought I was going to meet him.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+He ain't so stupid to enter the same room as a killer robot, so he sent me. I'm Lieutennant Seamus Ondra.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>However you call a ant, it's still a ant. But, please, keep on. I'm listening.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+General Boost thinks we could make some use of you. You have no tracker, no identification matrix, no nothing.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+You officially do not exist... yet, you are here.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\boost2.jpg 300
+#BACKGROUND cg\boost3.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Spit it out. What's the catch?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\boost3.jpg 300
+#BACKGROUND cg\boost2.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+We recently acquired a specimen that, unfortunately, managed to escape by yet to be determined means.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+We put a tracker and a microphone on the car which was used to move the specimen, as it is a standard procedure to track all vehicles coming here. We know where they are going and when.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+However, the specimen was not "officially recorded" for reasons you don't need to know. Therefore, we have no legal leverage to get it back. A bounty is also out of question, as it would gather unwanted attention.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+We need a renegade who could retrieve it for us, without direct military intervention. Someone who can't be connected with us, at least officially.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\boost2.jpg 300
+#BACKGROUND cg\boost3.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Plausible deniability, huh?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+That's right. This is why we need you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>And, huh, let's say I agree to help you, which I HAVEN'T yet. What's in for me?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\boost3.jpg 300
+#BACKGROUND cg\boost2.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+Simple. We know what you want... and we can give it to you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+A fully functional V.146b yrite hybrid reactor.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+moody.ogg
+0.0
+1.0
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\boost2.jpg 300
+#BACKGROUND cg\boost3.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Is this for real?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+Yes, but with a catch: the first activation will last for 72h. If you don't manage to get the specimen back or to give a minimal contribution, you will be forcefully switched off.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+And, secondly, you will be also installed a self-deletion mechanism in case of critical hardware failure.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>... a what?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\boost3.jpg 300
+#BACKGROUND cg\boost2.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+Something that will delete your memory banks on deactivation or destruction. A safety net, we can say.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+We can't leave any record of this conversation. I know it is already stored, somewhere inside you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\boost2.jpg 300
+#BACKGROUND cg\boost3.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Do I have any choice?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+Yes. Cooperate, get your reactor, find the specimen, get your freedom. Or be scrapped now, and smashed into pieces.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+THAT'S the choice you have.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Interesting wording. Alright, I'm in.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\boost3.jpg 300
+#BACKGROUND cg\black.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+This unit is too important to be lost like this.
+#TEXT_END
+#CLOSE_WINDOW
+#END

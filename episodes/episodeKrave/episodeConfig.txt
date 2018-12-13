@@ -1,0 +1,26 @@
+#EPISODE_NAME
+Gimme Fuel, Baby
+#DESCRIPTION
+Almost destroyed in the aftermath of the Black
+Lightning Disaster, Krave is reactivated by a
+mysterious man. His new body, however, needs
+fuel to remain active and prevent his personality
+from fading into nothingness.
+#DESCRIPTION_END
+#EVENT storyEvent0
+#MATCH storyMatch0a
+#MATCH storyMatch0b
+#EVENT storyEvent1
+#EVENT storyEvent2
+#MATCH storyMatch1
+#EVENT storyEvent3
+#MATCH storyMatch2
+#EVENT storyEvent4
+#EVENT storyEvent4b
+#EVENT storyEvent5
+#MATCH storyMatch3
+#MATCH storyMatch3b
+#MATCH storyMatch3c
+#EVENT storyEvent5b
+#EVENT storyEvent6
+#EVENT storyEvent7

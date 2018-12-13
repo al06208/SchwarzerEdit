@@ -1,0 +1,740 @@
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I was barely conscious when all that happened.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+atmosphere.ogg
+60.0
+0.9
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Those beams were not strong enough to kill me, but still good enough to make me pass away for a while.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+When I woke up, when we woke up, the distortion was gone.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+No Donner, no Arkaneis. No nothing.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+The two kitsune told us everything they saw. But this is - literally - all I know about it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Today is the first anniversary of the Second Black Lightning. Apparently, this world has not changed so much.
+#TEXT_END
+#PAUSE 600
+#TRANSITION cg\black.jpg 300
+#BACKGROUND ..\episodeJohnson1\cg\cg2b.png
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Same people. Same crowded streets. Same indifference.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#TRANSITION ..\episodeJohnson1\cg\cg2b.png 300
+#BACKGROUND ..\episodeJohnson1\cg\cg3b.png
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Still, now I'm able to see more. I can understand why little cracks in reality seem to appear out of nowhere.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#NO_BACKGROUND
+#TRANSITION ..\episodeJohnson1\cg\cg3b.png 300
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+None of us will ever forget what happened that day. We all know we live into a fake world, without exception... but I don't think anyone of us really cares.
+#TEXT_END
+#PAUSE 600
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+Everyone of us is focused on his daily life, with all its joys and troubles.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#PAUSE 600
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\kaya1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+The two kitsune are traveling the world, apparently. Their lifespan is limited, so they want to make the most out of it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Those two really love each other... almost as much as they loved Donner. Which is crazy, right?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Who could have had feelings for him? And yet... they someway did.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I hope they will be fine, on their own.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 600
+#TRANSITION cg\kaya1.jpg 300
+#BACKGROUND cg\renzo1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+As for other couples... well, Renzo and Elena are now a thing. After they started dating, they just didn't stop.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 600
+#TRANSITION cg\renzo1.jpg 300
+#BACKGROUND cg\elena1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+I have met them at a couple cosplay contests. She looks happier than ever.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+I can hardly believe she was an assassin before. Things can change, even for fishfaces.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 600
+#TRANSITION cg\elena1.jpg 300
+#BACKGROUND cg\shaz1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Speaking of which, Shaz is still on the run. Clearly, Don Go won't let him get away so easily.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+At least, he won't be able to unleash the lobster anymore.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 600
+#TRANSITION cg\shaz1.jpg 300
+#BACKGROUND cg\lobster1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+He's become a quite well-known wrestling superstar, that fellow.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I know many people who are paying streaming services JUST to watch his matches, despite wrestling being fake and all.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+So, yeah, no lobster. Still, I've heard that Don Go has decided to hire a couple more bounty hunters to track him down...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 600
+#TRANSITION cg\lobster1.jpg 300
+#BACKGROUND cg\mono1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+...~including Miss Kishima and Mr.~ Alba.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Those two fellows are not half bad, after all. I have had some nice talks with both of them.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Still, Miss Kishima says that she can't stand me, unless I start dressing properly.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Pretty though mutants, those two. I wonder what shaped them the way they are.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Oh, and about mutants...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 600
+#TRANSITION cg\mono1.jpg 300
+#BACKGROUND cg\amy1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Sambiong and the Delta Team successfully rescued Amy from the military facility where General Boost took her.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+And you know what? Since she was not supposed to be arrested and there are no records of her "kidnap", Boost can't do anything about it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Not one single thing.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 600
+#TRANSITION cg\amy1.jpg 300
+#BACKGROUND cg\tiger1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Rumor has it that they are now living together, somewhere in New Langdon... and that they want to proceed to a formal marriage.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Honestly, I'm not that interested in delving into their private life, but they could as well be the first official mutant-human couple to date. Quite the achievement, isn't it?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 600
+#TRANSITION cg\tiger1.jpg 300
+#BACKGROUND cg\jenn1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+And I firmly believe Miss Husler will help them, someway.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Since she has joined Delta Team, she has been almost always involved in field actions. She has let go of her past and uses only her real name now.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+One of the most badass women I've ever met. I should invite her for a dinner, at some point.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+And you know who else is a total badass? Cyphr.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 600
+#TRANSITION cg\jenn1.jpg 300
+#BACKGROUND cg\cyphr1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Now that she has coped with her mother's death, she's a new person, much more self-confident and cheerful.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 600
+#TRANSITION cg\cyphr1.jpg 300
+#BACKGROUND cg\skeleton1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+I believe this is also due to the fact that she and Ange, "Skeleton", made peace with each other.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Those two hotheads... every discussion will be like bashing their heads against a wall, I guess.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 500
+#BACKGROUND cg\johnson1.jpg
+#TRANSITION cg\skeleton1.jpg 300
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Still, even Ange is not as brave as he pretends to be. I mean, sending me to check the whereabouts of his almost-daughter?
+#TEXT_END
+#PAUSE 600
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+"I've heard that Cyphr has a new flatmate, a girl I couldn't run a background check onto. Could you please try to find something about her?"
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+"She works by that new flower shop, Le Fleurs du Mal. I want to understand who she is and why she's sticking around my Cyphr."
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+*sigh* Next time, you could also do it yourself, skullhead.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Still, I owe you one. Working for Crossbones is better than expected... and I've started recovering some of my memories.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 500
+#BACKGROUND cg\bar1.jpg
+#TRANSITION cg\johnson1.jpg 300
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+That's not all. Thanks to some conspicuous bounties, I could buy a small bar at the outskirts of the city.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 500
+#BACKGROUND cg\bar2.jpg
+#TRANSITION cg\bar1.jpg 300
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+It's not big, nor too modern, but it's my bar. "Jackson's".
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 500
+#BACKGROUND cg\bar3.jpg
+#TRANSITION cg\bar2.jpg 300
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+I have started living in the neighbourhood. Surprisingly, after a while people DID notice that they can't figure out my face...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+Hey, Mr.~ Jackson!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 500
+#BACKGROUND cg\bar4.jpg
+#TRANSITION cg\bar3.jpg 300
+#NO_BACKGROUND
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Hello, Mrs.~ Hibara.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+Nice to see you around! My kids can't wait to get some hot chocolate by you. "Let's go by Mr.~ Jackson, mommy" here, "Take us to Mr.~ Jackson" there...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+You know how things go, right?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Apparently, this is how they recognize me now. My lack of face doesn't mean anything anymore. Ironically, it has become my distinctive trait.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+I think they like your stories about the Black Lightning and the Dead Zone. Especially little Jake! He can't simply stop telling me about that Doom Emperor!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I'm sorry to be the cause of such troubles, but I had a very adventurous life.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+And it could have been so much easier, if I only have let people come near me sooner, instead of living as a hermit in that creepy tower.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+My neighbour would like to invite you to our next barbecue. Since you opened your caf:e':, life here around is much brighter and interesting.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I will surely join, thanks a lot. Say "hi" to little Hiro and Jake for me, would you?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+Sure!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#PAUSE 500
+#BACKGROUND cg\bar3.jpg
+#TRANSITION cg\bar4.jpg 300
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Yes, that's right. Even in such an annoying, phony, projected reality, people can change... in better.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+I'm not anymore the "Yellow Man with the Hat" who was haunting New Langdon, I'm not anymore a random "Johnson".
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+Now, I finally feel part of this crazy, noisy, bizarre world.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\world1.jpg
+#TRANSITION cg\bar3.jpg 400
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+A fake reality, sure...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\world2.jpg
+#TRANSITION cg\world1.jpg 400
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+But for me, for us...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\world3.jpg
+#TRANSITION cg\world2.jpg 400
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 1500
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+This doesn't make it any less real.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 1500
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\world4.jpg 200
+#BACKGROUND cg\world3.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 0
+#SOUND 
+static.ogg
+100
+1.0
+#BGM
+night.ogg
+0.0
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\world4.jpg 300
+#BACKGROUND cg\world3.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#AUTO
+#TRANSITION cg\world4.jpg 200
+#BACKGROUND cg\world3.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 0
+#END
+
+#AUTO
+#TRANSITION cg\world4.jpg 600
+#BACKGROUND cg\world3.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#AUTO
+#TRANSITION cg\world4.jpg 300
+#BACKGROUND cg\world3.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#AUTO
+#TRANSITION cg\world4.jpg 200
+#BACKGROUND cg\world3.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 0
+#END
+
+#AUTO
+#TRANSITION cg\world4.jpg 400
+#BACKGROUND cg\world3.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#AUTO
+#TRANSITION cg\world4.jpg 300
+#BACKGROUND cg\world3.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#AUTO
+#BACKGROUND cg\end.jpg
+#TRANSITION cg\white.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 3000
+#CLOSE_WINDOW
+#SOUND 
+..\episodeHuntingGround\sounds\beat.ogg
+100
+1.0
+#END
+
+#AUTO
+#BACKGROUND cg\black.jpg
+#TRANSITION cg\end.jpg 5000
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 5000
+#CLOSE_WINDOW
+#END

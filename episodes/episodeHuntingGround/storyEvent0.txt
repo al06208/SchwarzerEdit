@@ -1,0 +1,365 @@
+#MUGSHOT devil.png
+#BACKGROUND cg\cg1a.jpg
+#TEXT_BEGIN
+Four thousand five hundred. Last offer.
+#TEXT_END
+#PAUSE 600
+#BGM
+..\..\..\..\stages\neonlight\music\Emergency.ogg
+40.0
+1
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Still too much. I would have to sell a kidney, for that.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg1a.jpg 300
+#BACKGROUND cg\cg1b.jpg
+#MUGSHOT devil.png
+#TEXT_BEGIN
+"Thunder legs" right there could do that for you, maybe.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Oh, PLEASE. I have already only one kidney left, thanks to my grandfather!
+#TEXT_END
+#PAUSE 600
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+You could perform for me at "Le Coq Heureux". You have some nice moves.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+I hope you are joking! Who would pay to see a pole dancing armless girl?
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg1b.jpg 300
+#BACKGROUND cg\cg1c.jpg
+#MUGSHOT devil.png
+#TEXT_BEGIN
+More people than you think. More. Than. You think.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Wait! What's there?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+DAMNIT! Brake! BRAKE!
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#BGM
+night.ogg
+0.0
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg1c.jpg 500
+#BACKGROUND cg\cg1d.jpg
+#NO_BACKGROUND
+#PAUSE 1600
+#SOUND
+sounds\brakes.ogg
+80.0
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg1d2.jpg 300
+#BACKGROUND cg\cg1d.jpg
+#NO_BACKGROUND
+#PAUSE 1000
+#SOUND
+trigger.ogg
+100
+0.5
+#END
+
+#TRANSITION cg\cg1d.jpg 300
+#BACKGROUND cg\cg1e.jpg
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+*ugh*
+#TEXT_END
+#PAUSE 600
+#END
+
+#MUGSHOT devil.png
+#TEXT_BEGIN
+Ghhhhh...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>How are you gentlemen? Nice car you have here. Where were you going?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Let me guess... trying to smuggle something... or someone?
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg1e.jpg 300
+#BACKGROUND cg\cg1f.jpg
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+... what the heck...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+N... no!
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeCyphr\cg\cg_krave2.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+No...
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeCyphr\cg\cg_krave3c.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+N... no...
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeCyphr\cg\cg_krave4.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+NOOOO! NOOOO! NOOOO!
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg1f.jpg
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Cyphr...?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Oh, nice scream! Can you repeat it once more? I'm not sure I've heard it.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+It's him! IT'S HIM! NO! NO!
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg1f.jpg 300
+#BACKGROUND cg\cg2a.jpg
+#TOP_WINDOW
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+So, you are Krave, huh?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I bet Leggy told you a lot about me, Commander Kitty.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>But I'm not here for her. Duty first, pleasure later.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+That means...?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Give me Mrs.~ Yang. Now.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Amy...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>That's right. I won't hurt you too much if you hand her to me.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+What...? Me? But... why?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Boost. You are working for him, now.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Ooooh. Here it goes our little kitty detective!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Now that you have all figured out, what about complying with my request?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>We both know that you can't do ANYTHING against me.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+You know what?
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+night.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I already hated you for what you did to Cyphr, but now I have one more reason to kick your goddamn rusty ass!
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\neonlight\music\Emergency.ogg
+40.0
+1
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+You are dead scrap, you bolthead!
+#TEXT_END
+#CLOSE_WINDOW
+#END

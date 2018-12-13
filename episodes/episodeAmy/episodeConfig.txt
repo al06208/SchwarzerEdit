@@ -1,0 +1,19 @@
+#EPISODE_NAME
+The Beauty and the Beast
+#DESCRIPTION
+The relationship between Amy and Tiger gets
+deeper. What's the real connection between
+the girl and the Night Assassin?
+#DESCRIPTION_END
+#EVENT storyEvent0
+#MATCH storyMatch0
+#EVENT storyEvent1
+#EVENT storyEvent2
+#EVENT storyEvent3
+#MATCH storyMatch1
+#EVENT storyEvent4
+#EVENT storyEvent5
+#MATCH storyMatch2
+#MATCH storyMatch3
+#EVENT storyEvent6
+#EVENT storyEvent7

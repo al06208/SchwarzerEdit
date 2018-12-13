@@ -1,0 +1,101 @@
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+...and then? What happened?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+...bah. We met outside the building, that's it. Oh, and the last floor exploded. You've read the news, haven't you?
+#TEXT_END
+#BACKGROUND ..\episodeAmy\cg_lite\cgCH1.jpg
+#BGM
+..\..\..\..\stages\coqHeureux\music\SebonLastStraw.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+Yeah, who hasn't? Sanjuro Bonzaga assassinated by his sex dolls! Man, THAT was a story!
+#TEXT_END
+#END
+
+#BACKGROUND ..\episodeAmy\cg_lite\cgCH2b.jpg
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+...Yeah... Jenn got also a job for lookin' for those two kitsune, ya know? But that's a sidetracking, sure as Hell.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+A sidetrackin'?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+...I swe'r, there was a man with no face there. No face, got it?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+So, I started browsin' the Internet lookin' for info and, last month, found this news 'bout "a faceless shadow" who would live in Northern Algol...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\
+#TEXT_BEGIN
+And you came here to find him?
+#TEXT_END
+#END
+
+#BACKGROUND ..\episodeAmy\cg_lite\cgCH1.jpg
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+Yeah, but instead I foun' this creepy fella with a blurry face, here in New Langdon. I followed him, we had some small talk...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\
+#TEXT_BEGIN
+...and then, he threw me in the water. Crazy, huh?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Still, my story hasn't ended yet.
+#TEXT_END
+#END
+
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+As the stroboscopic lights and the alcool make me finally lose myself, I realize that I don't want to give up.
+#TEXT_END
+#END
+
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I will find the truth behind the Black Lightning Disaster, no matter what the cost will be.
+#TEXT_END
+#END
+
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I want to know the truth.
+#TEXT_END
+#END

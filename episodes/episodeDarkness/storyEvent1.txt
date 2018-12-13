@@ -1,0 +1,242 @@
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 200
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+What is this place?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg3.jpg
+#TRANSITION cg\black.jpg 600
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+50.0
+1.0
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+...~ I mean, what is this supposed to be, Donner? I'm kinda... scared.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+Don't you remember it, Kiyoko? We already went through it after the fire at the Bonzaga skyscraper.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+I was unconscious. You carried me through.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+... right. I forgot about it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I call it the Shadow Gallery. It's a dimensional rift created by the Black Lightning... and, probably, the only reason why I survived it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg4.jpg
+#TRANSITION cg\cg3.jpg 300
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+After the explosion, I woke up inside this... alternate reality, or whatever it is. Here, space and time mingle together, causality is continually violated.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The past comes after the future, which comes before the present. Distances contract and expand without any set rule. A second here can last two months outside, a month outside can last ten years here.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Still, it's the only way we've got to reach Euterpe in time for my plan to succeed... even if it is extremely dangerous.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+But... but you said that time doesn't flow normally here?! How can you be sure that...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg\cg3.jpg
+#TRANSITION cg\cg4.jpg 300
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I have wandered this place long enough to know how to exploit its physics. Trust me, Kiyoko. I know which path to take.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+You named it Shadow Gallery, huh? Quite a fitting name.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+More than you think, Kaya. More than you think.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+H... hey! is there anyone there?!
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+0.0
+1.0
+#END
+
+#AUTO
+#CENTER_WINDOW
+#BACKGROUND cg\cg7.jpg
+#TRANSITION cg\cg3.jpg 300
+#PAUSE 500
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_amy\storyMesh2
+#TEXT_BEGIN
+H... help! Please, I beg you! I need help!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+...there's someone there...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+Wait, how is this possible?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_amy\storyMesh2
+#TEXT_BEGIN
+Please, I... I beg you! Don't leave me here!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#BACKGROUND cg\cg8.jpg
+#TRANSITION cg\cg7.jpg 300
+#PAUSE 500
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_amy\storyMesh2
+#TEXT_BEGIN
+I... I've wandered for so long, I... i completely lost my conception of time...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_amy\storyMesh2
+#TEXT_BEGIN
+I... I was going to die, but now... oh, my, thank you! Thank you!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I'm afraid my words will crush your hopes, but I didn't come here to rescue you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_amy\storyMesh2
+#TEXT_BEGIN
+W... what?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I came here to silence you.
+#TEXT_END
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+50.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 400
+#END

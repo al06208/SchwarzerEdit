@@ -1,0 +1,173 @@
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Here it is!
+#TEXT_END
+#STAGE_BACKGROUND TheWalkingNight\
+#PAUSE 600
+#BGM
+tension.ogg
+100.0
+1.1
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TOP_WINDOW
+#TEXT_BEGIN
+>Hey, what's up? Why are you staring at me like this?
+>Never seen a so beautiful robot before, baby?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TOP_WINDOW
+#TEXT_BEGIN
+>But... oh, my Creator! You are missing some parts! Haven't your parents followed the instructions while building you from the model set?
+>Haven't they asked for a refund?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+W... what?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TOP_WINDOW
+#TEXT_BEGIN
+>Tell me, dear... do you live on the income of selling what's left of your body?
+>I can't imagine any other things someone like you could effectively do!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+(This... thing is neither a VORS, nor an Onirazor... and has an uncharacteristic foul mouth. Why... why do I have a bad feeling?)
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Less jokes, robot. I'm agent Wolfchild from Delta Team. Identificate yourself.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TOP_WINDOW
+#TEXT_BEGIN
+>Why shouldn't I? Mark my name down, baby!
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#BACKGROUND cg\krave1a.png
+#TEXT_BEGIN
+(*singing*)>K is for "kind-hearted", which actually I'm not. R is for the "robot" the audience likes a lot!
+>A is for my "awesomness" - galactic, give or take! V is for my "vanity" - that's never a mistake!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+(*singing*)>E is for "excellence", no more and no less. Name's H-168 Krave... be ready for the mess!
+#TEXT_END
+#PAUSE 600
+#END
+
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+That's... sort of... weird?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TEXT_BEGIN
+>You call this weird, baby?
+>It will be weird when I'll start kicking your corpse around!
+#TEXT_END
+#PAUSE 600
+#BGM
+..\..\..\..\stages\RunawayTrain\music\beroza_drive_cut.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#STAGE_BACKGROUND TheWalkingNight\
+#TEXT_BEGIN
+!!!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TOP_WINDOW
+#TEXT_BEGIN
+>You see... I was looking for a sharkman and THANKS TO YOUR INTERVENTION I lost sight of him.
+>And, in the meanwhile, I started remembering something else.
+#TEXT_END
+#BGM
+..\..\..\..\stages\RunawayTrain\music\beroza_drive_cut.ogg
+30.0
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TOP_WINDOW
+#TEXT_BEGIN
+>You really remind me of someone I hate. Someone who kicked the living crap out of my previous body.
+>Someone I wanted to terminate with extreme prejudice.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TOP_WINDOW
+#TEXT_BEGIN
+>And since I can't do that anymore...
+>Well, you understand what that mean, right?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+As a military officer, I invoke the right to retire you.
+Resist and I'll be allowed to destroy you!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2\
+#TOP_WINDOW
+#TEXT_BEGIN
+>Oh, I'm shivering! Such brutality!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+Soon you'll laugh a lot less, you bastard!
+#TEXT_END
+#PAUSE 600
+#END

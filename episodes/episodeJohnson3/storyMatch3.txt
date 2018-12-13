@@ -1,0 +1,16 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+Lynn, I'm sorry. I'm... I'm just sorry!
+#OPPONENT_WIN_QUOTE
+This was all your fault, from the very beginning.
+#PLAYER_INTRO_QUOTE
+Lynn! Please, stop this!
+#OPPONENT_INTRO_QUOTE
+The reason I died... it's just because of you, sis.
+#PLAYER chara_jenn
+#PLAYER_OUTFIT_ID 3
+#OPPONENT chara_jenn\storyMesh1
+#OPPONENT_OUTFIT_ID 2
+#AI_LEVEL 5
+#STAGE theLoathing
+#TIMER 100

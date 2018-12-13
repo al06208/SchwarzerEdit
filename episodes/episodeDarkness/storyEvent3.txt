@@ -1,0 +1,189 @@
+#TOP_WINDOW
+#BACKGROUND cg\cg1.jpg
+#CLOSE_WINDOW
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#CHARA_MUGSHOT chara_amy\storyMesh2
+#TEXT_BEGIN
+...don't... don't leave me alone...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+*sigh* again. She started talking *again*.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+At least it's something understandable, now. Before, it was too fast. I couldn't figure out anything.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Why are you so concerned about the random babbling of an uncoscious girl?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg1.jpg 300
+#BACKGROUND cg\cg2.jpg
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+When I was a child, I used to believe dreams were a door to a different world. A world where I could still use my arms and my father was still alive.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+I was recording my voice during nights, to listen to it in the morning. I was intrigued by what I could possibly say.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Sadly, they only thing I found out is that I snore like a mountain bear.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I can attest that. Wherever we make a night shift together, I have to wear ear plugs.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+That was just mean.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_amy\storyMesh2
+#TEXT_BEGIN
+...D... Donner, please... don't leave me here...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#TRANSITION cg\cg2.jpg 300
+#BACKGROUND cg\cg1.jpg
+#NO_BACKGROUND
+#AUTO
+#CLOSE_WINDOW
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+0.0
+0.5
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+She... she did say "Donner", didn't she?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Yes, and? It means "thunder" in German, it's just a random word, right?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+N...~ not for me.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Codename Donner, a.k.a.~ specimen 703, was... one of the inmates of branch 70X.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+The inmate who kickstarted the Black Lightning, almost one year ago.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I... I just have a bad feeling about this...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Sir, calm down. It's all just a dream, okay? You don't believe he's still alive, or?
+#TEXT_END
+#END
+
+#TRANSITION cg\cg1.jpg 300
+#BACKGROUND cg\cg2.jpg
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+One thing at a time, okay? We'd better reach a safe harbor soon.
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Delta Base is out of question, it's the very first place where Boost will look for us. Same for our personal quarters.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+St.~ Patrick is too far, and, besides, we couldn't realistically cross the Irish border with a naked, unconscious girl lying in the back of our car. This leaves us with little to no choice.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Wait! You aren't thinking about...
+#TEXT_END
+#END
+
+#TRANSITION cg\cg2.jpg 300
+#BACKGROUND cg\cg1.jpg
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Yes, I'm EXACTLY thinking about it. After all, Amy even worked there for a while.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Jeez... to think that the most secure place in this nation is a strip club in New Langdon...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+How comes the world fell down so hard, in the last century?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#AUTO
+#CLOSE_WINDOW
+#PAUSE 300
+#END

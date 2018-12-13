@@ -1,0 +1,19 @@
+#EPISODE_NAME
+The Night Calls
+#DESCRIPTION
+After the incident involving Amy's failed kidnap,
+Cyphr and Tiger start connecting the deeds of the
+Night Assassin with the girl's memory losses.
+Is there a deeper bond between them?
+#DESCRIPTION_END
+#EVENT storyEvent0
+#EVENT storyEvent1
+#MATCH storyMatch0
+#MATCH storyMatch1
+#EVENT storyEvent2
+#EVENT storyEvent3
+#MATCH storyMatch2
+#EVENT storyEvent4
+#MATCH storyMatch3
+#EVENT storyEvent5
+#EVENT storyEvent6

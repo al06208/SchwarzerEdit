@@ -1,0 +1,19 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+Yeah! I'm ready to rock!
+#OPPONENT_WIN_QUOTE
+Colder is going to make you cry, Cyphr...
+#PLAYER_INTRO_QUOTE
+I'll show you my skills, sir! I won't back down!
+#OPPONENT_INTRO_QUOTE
+It will be better for you, Cyphr. Give it your best!
+#OPPONENT_LIFE_MULTIPLIER 1
+#PLAYER_LIFE_MULTIPLIER 1
+#OPPONENT chara_tiger
+#PLAYER chara_cyphr
+#AI_LEVEL 5
+#STAGE deltaBase
+#PLAYER_OUTFIT_ID 0
+#OPPONENT_OUTFIT_ID 1
+#NO_RINGOUT
+#TIMER 100

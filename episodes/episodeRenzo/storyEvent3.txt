@@ -1,0 +1,213 @@
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+I don't know if I can trust this woman. She's gorgeous, and she's got some curves, sure, but she's someway... creepy.
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+I don't like her. She seems that kind of woman who thinks she can toy with men like they were puppies and steamroll their feelings on a whim.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+But maybe - maybe - she knows what happened to Alessandro. This is a chance I can't let go so easily.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TEXT_BEGIN
+And this is exactly what I think, when I start examining what she has to offer.
+#TEXT_END
+#END
+
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg_lite\cg_house1a.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+So, what about this, Renzo? Are you convinced now that something was off about that lab?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+First off, it's Mr.~ Rubecca for you. Are we already on first name basis, Miss Cloverfield?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Why not, Renzo? I would be pleased if you would call me Jenn.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+That's still Mr.~ Rubecca for you, *Jenn*.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Whatever, "Misterrubecca". Now, let's talk about business.
+#TEXT_END
+#END
+
+#TRANSITION cg_lite\cg_house1a.jpg 300
+#BACKGROUND cg_lite\mayerPics.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+This man you see in the pictures is - or, better, was - Doctor Lars von Mayer.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Kinda sexy, that half-killer-cyborg body. Seriously, were these pictures taken during a Halloween party?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Lars von Mayer, alias "Split Metal" or "Metallic Mayer", lost the right half of his body in a laboratory accident in Geneve, in 2051.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+What you see here, is the way they patched it in a laboratory in K:oe:ln. The scientists who saved him did a pretty remarkable job.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+"German science is the best in the world", huh?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Mayer was the head of the Schwarzer Blitz project. He was the person your brother was tasked to get out of the lab alive. Unsuccesfully, we could add.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Schauzer... what?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Schwarzer Blitz. It's German, it means "black lightning". I think Mayer came up with the name himself.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Alessandro lost his life to save this freak?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Normally, I would agree with you... but, you see, Mayer had something to explain. The authorities wanted him, and they noticed that he didn't evacuate the facility after the first explosion.
+#TEXT_END
+#END
+
+#TRANSITION cg_lite\mayerPics.jpg 300
+#BACKGROUND cg_lite\cg_house1b.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Point is, he overstepped the boundaries and took the Schwarzer Blitz project to a new direction.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+A direction which caused the Black Lightning Disaster.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Which direction?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+That's what we have to find out. And that's why I need you. Do you know the Bonzaga Holding?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Isn't it the company which sanitized the laboratory area during the months after the disaster?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Precisely. As you may know, they are throwing a memorial party next week in Euterpe to celebrate the success of the cleanup operation. All the relatives of the firefighters who died in the accident are invited.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+That excludes me... but not you.
+#TEXT_END
+#END
+
+#TRANSITION cg_lite\cg_house1b.jpg 300
+#BACKGROUND cg_lite\cg_house2a.jpg
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Wait a second. How is this connected with Alessandro's personal possessions? Wouldn't you need me to access...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+That was an innocent lie, a way to get you interested. What I really need is you letting me join that party.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+But... why?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+During the sanitation works, the technicians of the Bonzaga Holding found something that we have to retrieve at all costs, if we want to solve the puzzle...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg_lite\cg_house2a.jpg 300
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+"Metallic" Mayer's brain black box.
+#TEXT_END
+#END

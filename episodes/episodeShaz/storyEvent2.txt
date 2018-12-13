@@ -1,0 +1,112 @@
+#MUGSHOT chara_shark\Mesh51\
+##TOP_WINDOW
+#TEXT_BEGIN
+Shaz...
+#TEXT_END
+#STAGE_BACKGROUND Skyscraper\\
+#PAUSE 600
+#BGM
+..\\..\\..\\..\\stages\\Skyscraper\\music\\ResonantHopesIgnitedWills.ogg
+60.0
+0.9
+
+#END
+
+#MUGSHOT chara_shark\Mesh51\
+##TOP_WINDOW
+#TEXT_BEGIN
+You came, after all.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#BACKGROUND cg\clipBlade1.png
+#TEXT_BEGIN
+Blade! Heaven be blessed! I need your help!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+That squidmother Go put a bounty on my head! I'm desperate!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51\
+##TOP_WINDOW
+#TEXT_BEGIN
+You messed up pretty badly. Half the bounty hunters of this state are after you.
+#TEXT_END
+#PAUSE 600
+#END 
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+This is why I'm here! You wanted to meet me to help me sneak out, right?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51\
+##TOP_WINDOW
+#TEXT_BEGIN
+I can't help you, old friend. Not this time.
+#TEXT_END
+#PAUSE 600
+#END 
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Wait, what?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Blade, what the heck is that supposed to mean?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+The reason I asked you to come...
+#TEXT_END
+#PAUSE 600
+#BGM
+..\\..\\..\\..\\stages\Elevator\music\boss_krogh.ogg
+0.0
+0.8
+#END 
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+...is that so I could get my hands on you, before anyone else does!
+#TEXT_END
+#PAUSE 600
+#BGM
+..\\..\\..\\..\\stages\Elevator\music\boss_krogh.ogg
+100.0
+0.8
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+What?! Are you insane?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\Mesh51\\
+##TOP_WINDOW
+#TEXT_BEGIN
+It would be easy to say "yes", but I'm afraid I'm not.
+#TEXT_END
+#PAUSE 600
+#END

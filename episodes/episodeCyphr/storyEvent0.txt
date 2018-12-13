@@ -1,0 +1,251 @@
+#CENTER_WINDOW
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+Let me tell you a story.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#BGM
+atmosphere.ogg
+40.0
+0.9
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\cg1b.png
+#TEXT_BEGIN
+It was 2055. I was nine, at that time.
+I had already lost both my arms and my right ear, plus some of my internal organs.
+Yeah, I was something like spare parts for my grandpa. Not funny at all.
+#TEXT_END
+#PAUSE 600
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+To add insult to injury, grandpa was the boss of some local mob.
+I was going to be vivisected to extract some hi-tech crap that he put inside me to transport it safely in secret.
+I was basically screwed.
+#TEXT_END
+#PAUSE 600
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg1b.png 300
+#BACKGROUND cg\cg2b.png
+#TEXT_BEGIN
+Then, a miracle happened. The bounty hunter called "Der Wolf" saved me, killing all of grandpa's henchmen, down to the last one.
+#TEXT_END
+#PAUSE 600
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg2b.png 300
+#BACKGROUND cg\cg3b.png
+#TEXT_BEGIN
+Grandpa tried to use me as a human shield, in a last ditch effort...
+#TEXT_END
+#PAUSE 600
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg3b.png 300
+#BACKGROUND cg\cg4b.png
+#TEXT_BEGIN
+This was all but useless. Unbeknownst to us both, "Der Wolf" was my mother, his daughter. The daughter he slaughtered because she married a cop.
+Threatening me in front of her was definitely not a wise move.
+#TEXT_END
+#PAUSE 600
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+The biggest remaining piece of him was the size of a stamp. Never seen so much blood in my life.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg4b.png 300
+#BACKGROUND cg\black.jpg
+#TEXT_BEGIN
+Later, I went to live with my mother and got "Wolfchild" as a surname.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+All went well until exactly one year ago.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#TRANSITION cg\black.jpg 300
+#STAGE_BACKGROUND Euterpe\\
+#NO_BACKGROUND
+#TEXT_BEGIN
+It was 2064. She was on a mission in Euterpe.
+Then, the "Black Lightning Disaster" happened.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+My mother has never come back home.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Still, after one year, I keep on traveling every month to Euterpe.
+I keep on taking flowers to the ruins.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\cg_euterpe0.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#PAUSE 500
+#CENTER_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+She's already come back from the dead once, why can't she do that twice?
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(*people buzzing in the background*) Have you seen that girl?
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(*people buzzing in the background*) You mean the crippled one?
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(*people buzzing in the background*) Yeah, that bizarre... thing with mechanical augments. Still, she has no arms!
+Come on, nowadays there are so many places where you can get yourself fixed!
+#TEXT_END
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(*people buzzing in the background*) Maybe she's so poor she can't afford it. Or, maybe, she's just another weirdo.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+I ignore them. I ignore them as usual.
+I'm accustomed to being targeted by morons.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+Whining on her grave won't take her back.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh2\
+#TEXT_BEGIN
+What the Hell...
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#BGM
+atmosphere.ogg
+0.0
+0.9
+#END
+
+#AUTO
+#TRANSITION cg\cg_euterpe0.jpg 300
+#BACKGROUND cg\cg_euterpe1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#PAUSE 500
+#CENTER_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+Ange!
+#TEXT_END
+#PAUSE 600
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+You should stop weeping, Cyphr. She's gone for good.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+You have no right to tell me what to do, Ange!
+You are not my father.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+Your mother would share my same opinion.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+You... you can't possibly have said that!
+YOU HAVE NO RIGHT TO TALK ABOUT HER!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+Cyphr?! Wait, what are you...
+#TEXT_END
+#PAUSE 600
+#END

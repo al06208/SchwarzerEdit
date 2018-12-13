@@ -1,0 +1,502 @@
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\cg12a0.jpg
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#BGM
+moody.ogg
+100.0
+1.0
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+In your selfish foolishness, you believe that you are the only one with something to lose, right?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+This is... completely incorrect! I'm fighting for something as well, something bigger, more important than me!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg12b.jpg
+#TRANSITION cg\cg12a0.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+For you, you all, only ONE, single year has passed in your phony world! But I... I have experienced the distortions of the Shadow Gallery!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I have roamed through those hostile lands for hundreds, thousands of years, always ALONE! I counted every day, I was struggling to keep on, struggling to find a way out!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+The lifeforms, the new species, were so odd and alien to me that I couldn't even believe they were intelligent! Still... they are. I needed centuries to understand how it works!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg12c.jpg
+#TRANSITION cg\cg12b.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Every single one of them is a relay, a small part of a bigger network. There are clusters, and single units.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg12d.jpg
+#TRANSITION cg\cg12c.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+But all of them, without exception, are CONNECTED to each other! The new Earth is far from dead!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+It's the purest realization of Gaia! A living planet, thriving and flourishing! Everything, EVERYTHING is part of a whole.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Can't you see... its beauty? This is what you are destroying! THIS IS WHAT I'M FIGHTING FOR!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg12a0.jpg
+#TRANSITION cg\cg12d.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+This is why you all have to die! Because... because if you don't... that amazing world...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+...will... be obliterated.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#TRANSITION cg\cg12a0.jpg 200
+#BACKGROUND cg\cg9a.jpg
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I don't care anymore, Arkaneis... I don't care about that world.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+What I wanted... was to save the people, the places, the Earth I've learned once more to love. But now, it bears no meaning.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I... I have failed...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I... was not... strong enough...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+I'm as sad as you, Donner. Do you think it's easy for me?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+Now... let's write the word "end"... to this chapter...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+DONNER! RUN AWAY!
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+night.ogg
+0.0
+1.0
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg9b.jpg
+#TRANSITION cg\white.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+KIYOKO! Don't...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg9c.jpg
+#TRANSITION cg\white.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND
+explosion.ogg
+40
+1.5
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg9d.jpg
+#TRANSITION cg\white.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 200
+#CLOSE_WINDOW
+#SOUND
+explosion.ogg
+40
+1.5
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg9e.jpg
+#TRANSITION cg\white.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#SOUND
+explosion.ogg
+40
+1.5
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+KIYOKO!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg11a.jpg
+#TRANSITION cg\cg9e.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Kiyoko! Why? Why have you...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+You are so stupid... Donner.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+25.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+None of us stands a chance against... him...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+... even if now... he's much weaker than before.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+If you lose... we all lose...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+What's... the point of living... just ten, twenty minutes more?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg11b.jpg
+#TRANSITION cg\cg11a.jpg 200
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I'm vanishing, Kiyoko... how can I stop him?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I can not win.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+...victory... is not the only option...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg11c.jpg 300
+#BACKGROUND cg\cg11b.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#SOUND 
+static_short.ogg
+100
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\cg11c.jpg 600
+#BACKGROUND cg\cg11b.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 700
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The tide... is rising.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+But this means...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+The tide...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+A fitting end to this world.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Kiyoko, rest a bit now. I will take care of it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Arkaneis...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+It's time for the last round.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+You don't want to give up...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT boss_arkaneis
+#TEXT_BEGIN
+...~ and neither do I.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg11b.jpg 500
+#BACKGROUND cg\cg13.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+This world...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+My world...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Must be saved at any cost!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 3000
+#END

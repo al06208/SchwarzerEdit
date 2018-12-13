@@ -1,0 +1,117 @@
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#SOUND
+clock_alarm.ogg
+100
+1.0
+#PAUSE 1000
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#SOUND
+clock_alarm.ogg
+100
+1.0
+#PAUSE 1000
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#SOUND
+clock_alarm.ogg
+100
+1.0
+#PAUSE 1000
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+(radio) Howdy, pals! It's seven in the morning! Are you ready to start your day with the best music? Here's Dr.~ Strangebeat and the Eewee just for...
+#TEXT_END
+#BGM
+..\..\..\..\stages\stadium\music\test.ogg
+75.0
+1
+#END
+
+#AUTO
+#PAUSE 500
+#NO_BACKGROUND
+#CENTER_WINDOW
+#BGM
+..\..\..\..\stages\prison\music\loopFaster.ogg
+0.0
+1
+#SOUND
+beep1.ogg
+100
+1.0
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\black.jpg 300
+#BACKGROUND cg\cgbed2.png
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TOP_WINDOW
+#TEXT_BEGIN
+...again...
+#TEXT_END
+#BGM
+atmosphere.ogg
+60.0
+1
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TOP_WINDOW
+#TEXT_BEGIN
+Every night. Every single night.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TEXT_BEGIN
+One year was not enough to get over it, huh?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger\Mesh3
+#TEXT_BEGIN
+Nevermind, it will go away with time. I just have to endure it a bit more...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cgbed2.png 300
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+After all, at least I have a job to focus on.
+#TEXT_END
+#END

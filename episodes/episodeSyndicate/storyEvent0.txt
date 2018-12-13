@@ -1,0 +1,657 @@
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\black.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\black.jpg 3000
+#BACKGROUND cg\cg1a.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 3000
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+*Uuuuuh*
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+My head's hella spinnin'... I must have drunk too much...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Welcome back, Shaz.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg1a.jpg 300
+#BACKGROUND cg\cg1b.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+The heck?! Delfina?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+But this means...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg1b.jpg 300
+#BACKGROUND cg\cg1c.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+BLOODY MOONFISH! Now I remember!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+The highway! The freakin' bounty hunters! And... and...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+And now we sit here, with our hands tied, waiting for the butcher.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg1c.jpg 300
+#BACKGROUND cg\cg1d.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+That... sounds bad.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+It is.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg1d.jpg 300
+#BACKGROUND cg\cg1e.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+And you have not the slightest idea of HOW bad your situation is.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Blade! You motherangler bastard!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+I can't believe you betrayed me! I simply can't! I TRUSTED YOU!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+I could say the same. I wasn't expecting you to play both sides.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Play both sides, you say.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg1e.jpg 300
+#BACKGROUND cg\cg1f.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+You couldn't be wronger, Delfina.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+For you, for everyone, it's ELENA, now! Stop deadnaming me! Delfina's gone FOREVER!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I see. This is why you refused to kill anybody, since the last time you escaped from us?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+This is why you didn't use lethal force, while fighting Shaz? Because you THINK you can bury your past behind you, DELFINA?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Well, as sad as it sounds, YOU CAN'T. You were a member of the Syndicate. You can't wipe the board clean and start again. Listen, you may LOOK like a human, but you'll NEVER be a human.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Blade...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg1f.jpg 300
+#BACKGROUND cg\cg1d.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+So, was this your plan? Making us meet each other, so that you could get both of us in one swing?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Why didn't you trap us the first time you met with us separately?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg1d.jpg 300
+#BACKGROUND cg\cg1e.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I'm brain over brawns, 'kay? I'm neither as strong as you, Shaz, nor as capable as you, Delfina. In a direct fight, I didn't have any chance to best any of you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg1e.jpg 300
+#BACKGROUND cg\cg1f.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Besides... I genuinely wanted to save both of you. My plan was to let you meet and then hope that you'd leave the U.K.~ together, but - unfortunately - things played out differently.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+First, Delfina betrayed you and called me to organize the "delivery"...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+As I thought...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+I didn't want to run away forever, I told you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Then, a couple hours later, you betrayed her and called me to organize the very same "delivery".
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Can't say I'm surprised, at this point.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg1f.jpg 300
+#BACKGROUND cg\cg1e.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+The worst part of all this? My phone WAS controlled. So, I had to come out with an excuse with Go on why I was still in contact with you two... and I was forced to organize this trap.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Now, there's no way out. While you were sleeping, we've taken you here in Euterpe to... dispose of you in a concrete way.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+0.0
+0.5
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Bloody moonfish! Euterpe?! Like, we are in Italy?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+You would have found it out sooner, hadn't you slept so long.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Go has some business to do here, concerning this UNO meeting. You know, people to bribe, connections to make. And a building who's in desperate need of solid foundations.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Since you have tried to get away, you'll be part of the Syndicate forever, now... as the core of the main pillars of the new Ottari Tower.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100.0
+1
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg1e.jpg 300
+#BACKGROUND cg\cg1f.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+What?! WHAT?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+We will dispose of Shaz immediately, after making him forcefully eat as many gold ingots as required to have a value equivalent to the amount of money he stole. Not necessarily with his mouth.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+*gulp* That's... Bloody porpoise, I could vomit right here, right now!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+As for you, Delfina... first, we will reverse your genetic treatment to turn you back into your former self.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Slowly. Day by day. You will have to see your body changing back, detail by detail, centimeter by centimeter, until you will be completely a fishwoman again. Then, and only then, Go will have you killed.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+No! You... you can't be serious! That's... that's wrong! YOU CAN'T DO THIS!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+If I have to die, I want to die as a human!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Do you think I have any choice? Do you REALLY think I can do ANYTHING about it... more than I have already done?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Do you both believe that I'm happy with this?! If so, you have understood nothing.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Still, you have an alternative, but I need you to...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg1f.jpg 300
+#BACKGROUND cg\cg2a.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+I see you are entertaining our guests, Blade.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I thought you were still resting, Feliz. You shouldn't take your wounds lightly.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Actually, I was. But the safety of the Syndicate comes first.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+I've got orders from Go to kill both prisoners on the spot, as he had no time to attend. The UNO meeting is impending and we cannot afford troubles.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Kill them? Now? You are joking right? I still need...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+You still need time to free them and dispose of the Don, maybe?
+#TEXT_END
+#BGM
+..\..\..\..\stages\lavaCave\music\fight.ogg
+0.0
+1
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg2a.jpg 300
+#BACKGROUND cg\cg2b.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#BGM
+..\..\..\..\stages\lavaCave\music\fight.ogg
+50.0
+1
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Nonsense! What is this supposed to mean?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+That we have found out about your plan, you TRAITOR!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+What?! Feliz, this is absurd!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+No, it's just logic.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+We both know you aren't happy with Don Go's management. This perseverance of yours in finding Shaz and Delfina was suspicious, at least. Your methods too.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+You're just jealous because I've got a higher rank than you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg2b.jpg 300
+#BACKGROUND cg\cg2d.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Really? If so...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+...~ why haven't you handcuffed them but just tied their wrists with a rope? Why not killing them on the spot and, instead, suggesting Don Go those overcomplicated and slow deaths?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+The answer is simple. You WANTED to bring them HERE to get their help in OVERTHROWING Don Ottari and taking control of the Syndicate!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALAGALAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\ko.ogg
+100
+1.0
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TRANSITION cg\cg2d.jpg 300
+#BACKGROUND cg\cg2e.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+As such, I will finish them off, here and now. If you are loyal, there is no way you would be against it.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+If not, you'll become food for plankton.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Killing them now is out of question, Feliz! You don't understand!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Then, it will be a pleasure to smash your ampullae!
+#TEXT_END
+#CLOSE_WINDOW
+#END

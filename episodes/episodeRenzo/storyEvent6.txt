@@ -1,0 +1,112 @@
+#STAGE_BACKGROUND bonzaga_heat
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+*cough* *cough*
+#TEXT_END
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Damn, what the Hell did just happen?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+*cough* *cough* my head is spinning like crazy...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+I have to find Jenn... quickly...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND_PICTURE
+#TRANSITION cg_lite\heat.jpg 500
+#NO_BACKGROUND
+#PAUSE 1200
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg_lite\cg_bonzaga_jenn.jpg
+#TRANSITION cg\black.jpg 500
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Jenn! Oh, my God! She's still alive, right? She's...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+One more step and you are dead!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg_lite\cg_bonzaga_kaya_b.jpg
+#TRANSITION cg_lite\cg_bonzaga_jenn.jpg 500
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+What...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh51
+#TEXT_BEGIN
+Leave now, got it? NOW!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Calm down, okay, miss? I just want to help my friend. Could you please...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh51
+#TEXT_BEGIN
+She has seen it! She has seen it! She can't leave, this would be bad for Kiyoko!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+To Hell with this "Kiyoko"! Jenn needs help! She's wounded, please! Don't...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh51
+#TEXT_BEGIN
+I don't care! As long as Kiyoko is safe, I don't care if she dies!
+#TEXT_END
+#BGM
+..\\..\\..\\..\\stages\\bonzaga_heat\\music\inferno.ogg
+30.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+*cough* *cough* I don't think I have a choice, then...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+
+
+

@@ -1,0 +1,247 @@
+#BACKGROUND cg\cg_euterpe1.jpg
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+*pant* *pant...*
+#TEXT_END
+#PAUSE 600
+#BGM
+atmosphere.ogg
+40.0
+0.9
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+Have you calmed down, Cyphr?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+... a bit, yes.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+T... tell me. Why are you here, Ange?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+Isn't it obvious? To pay homage to Lyca.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+Come on, dressed in a full suit of armor? Really a nice way to "pay homage" to her.
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+
+#AUTO
+#TRANSITION cg\cg_euterpe1.jpg 300
+#BACKGROUND cg\cg_euterpe2.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#PAUSE 500
+##CENTER_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+The fact that I'm here does not mean I don't have other business to attend. Like you, I guess.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+Otherwise, you wouldn't wear your battle boots. And you would probably dress more... conservatively.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+I keep on being asked if I'm really a girl, you know? This is hurting my already butchered self-esteem a lot!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+And you think unzipping your shirt will solve this in anyway?
+#TEXT_END
+#PAUSE 600
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg_euterpe2.jpg 300
+#BACKGROUND cg\cg_euterpe1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#PAUSE 500
+##CENTER_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+For the last time, Ange. You. Are. Not. MY FATHER! And stop pretending you cared about my mother as well! That's nonsense!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+Nonsense, huh?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+I was on the same mission as her, the day she disappeared. I can still hear her voice, remember every single thing she told me before entering the facility. I simply can't... let it go.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cg_euterpe1.jpg 300
+#BACKGROUND cg\cg_euterpe2.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#PAUSE 500
+##CENTER_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+Yeah, and? Don't tell me that bounty hunters like you have feelings.
+#TEXT_END
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cg_euterpe2.jpg 300
+#BACKGROUND cg\cg_euterpe1.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#PAUSE 500
+##CENTER_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+She was one as well.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+Listen, I don't want to unnerve you more than needed. I just saw you there and thought to say "hi".
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+...and?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+And, on a totally unrelated note, to tell you something I've heard on the way to my last contract.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+Rumor has it that a very worn out, non-mass produced robot has been spotted near the old Etal Inc facilites in Nothern Algol.
+A robot I've already seen once.
+#TEXT_END
+#PAUSE 600
+#END
+
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+Exactly one year ago, here in Euterpe. During the mission where Lyca disappeared.
+#TEXT_END
+#PAUSE 600
+#BGM
+atmosphere.ogg
+0.0
+0.9
+#END
+
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+...it can't be the same?!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+I don't know any other details but, if I were you, I would keep an eye on the news.
+And, if I were you, I wouldn't tell it to my senior officer, if you know what I mean.
+#TEXT_END
+#PAUSE 600
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#END
+
+#AUTO
+#TRANSITION cg\cg_euterpe1.jpg 300
+#BACKGROUND cg\cg_euterpe2.jpg
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#PAUSE 500
+##CENTER_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\\Mesh2\\
+#TEXT_BEGIN
+You are not me, Ange.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+Of course not, dear. Now, I have further business to attend.
+I got a call from a guy to whom I owe a favour, back in new Langdon.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_skeleton\\
+#TEXT_BEGIN
+Be careful, Cyphr. Hope to see you soon.
+#TEXT_END
+#PAUSE 600
+#END

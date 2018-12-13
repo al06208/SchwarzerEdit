@@ -1,0 +1,308 @@
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Avycin (U.K.)
+Military Hospital and Research Facility
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#STAGE_BACKGROUND branch_70X
+#PAUSE 200
+#BGM
+tension.ogg
+65.0
+0.8
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+You look nervous, Cyphr.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital1.jpg
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Ten years ago, when I was still a kid, I was scheduled to be vivisected here. Hadn't my mother saved me...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I've heard about it. The doctors here are just a bunch of butchers. I was scared when they told me that Amy was taken here.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Do you also have a bone to pick with them?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+We can say that I and General H.~ H.~ Boost, the guy who runs this place, are not in the best terms.
+#TEXT_END
+#END
+
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\cg_hospital2.jpg
+#TRANSITION cg\cg_hospital1.jpg 300
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+Sblagala... F... Feliz...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Blade Aural, I suppose.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Let's skip the introductions, Sambiong, alright?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I wanted to apologize for the inappropriate behavior of my underlings. The kidnap was not approved by either me or Go Ottari. Feliz and the lobster acted on their own will.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Spare me the act, Aural. Everybody knows that I'm on the black list of the Fishface Crime Syndicate since the moment I have put some defectors under protection.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I'm not saying that we are not hating you to the guts. I'm just explaining that this was not a course of action we had any involvement with.
+#TEXT_END
+#END
+
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\cg_hospital3.jpg
+#TRANSITION cg\cg_hospital2.jpg 300
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+In any case, now that I know that Feliz's wounds are not life-threatening and he's already recovering, there's no need for me to stay here.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Just one word of caution, though. We owe you one here, Sambiong, but you shouldn't interfere with the Syndicate...
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_hospital3.jpg
+#TRANSITION cg\cg_hospital3b.jpg 300
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+... especially now that you started caring for that girl.
+#TEXT_END
+#BGM
+tension.ogg
+0.0
+0.8
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Keep your threats for yourself, Mr.~ Aural.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Do you REALLY think I have any choice to do so, Sambiong?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+If you need to reach me, ask Gaetano. You will find him at his usual place.
+#TEXT_END
+#END
+
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\cg_hospital1.jpg
+#TRANSITION cg\cg_hospital3.jpg 300
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Sir? What should we do now? Talk with the lobster?
+#TEXT_END
+#BGM
+tension.ogg
+75.0
+0.8
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+The lobster does not talk in any understandable way. I'll wait for the wounded fishman to wake up and ask him some questions.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+In the meanwhile, I want you to interrogate Amy.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+ME?! Why me?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Because I'm too... emotionally involved. I want to believe her innocent, Cyphr. I need someone with an objective point of view on the situation.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Fine, fine, I believe I can do that.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+She will be here in a minute.
+#TEXT_END
+#END
+
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\cg_hospital4.jpg
+#TRANSITION cg\cg_hospital1.jpg 300
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_amy
+#TEXT_BEGIN
+Tiger! Miss Wolfchild! I am most grateful for your arrival.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Oh, come on! She's already on first name basis with you?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Cyphr, PLEASE.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\hit_weak.ogg
+100
+1.0
+#BGM
+tension.ogg
+0.0
+0.8
+#END
+
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\cg_hospital5.jpg
+#TRANSITION cg\cg_hospital4.jpg 300
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALAGALAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\ko.ogg
+100
+1.0
+#BGM
+..\..\..\..\stages\branch_70X\music\combatMission.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+What's wrong with him?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+He reacted to the brat! He's charging at her!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+I'll keep him under control, sir! Take the annoyi... Miss Yang to safety!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+You haven't your combat boots with you! It's a suicide!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Then, come back fast and help me taming it! Quick!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALAGALAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\ko.ogg
+100
+1.0
+#END

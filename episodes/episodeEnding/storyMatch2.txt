@@ -1,0 +1,17 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+It's harder than I thought...
+#OPPONENT_WIN_QUOTE
+You are so pitiful, Ange.
+#PLAYER_INTRO_QUOTE
+Let's settle this, Red!
+#OPPONENT_INTRO_QUOTE
+You couldn't just stay idle, could you?
+#OPPONENT_LIFE_MULTIPLIER 10.0
+#PLAYER_LIFE_MULTIPLIER 2.0
+#PLAYER chara_skeleton\Mesh3
+#OPPONENT boss_arkaneis
+#AI_LEVEL 5
+#STAGE TheLoathing
+#WIN_CONDITION Percentage 90.0
+#TIMER 100

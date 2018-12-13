@@ -1,0 +1,139 @@
+#TOP_WINDOW
+#BACKGROUND cg_lite\cg_eut0a2.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+A portable plasmacaster. I didn't know that musicians used to play with such dangerous toys.
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a2.jpg 300
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+I could say the same about your smoke grenades, Miss.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Who are you?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a.jpg 300
+#BACKGROUND cg_lite\cg_eut0a2.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Haven't I already introduced myself?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a2.jpg 300
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+I've never heard of you before. And I knew all of Alessandro's close friends, at least by name.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a.jpg 300
+#BACKGROUND cg_lite\cg_eut0a2.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Okay, don't play rough. Truth is, I'm a member of the Irish army. Sergeant Jennifer Cloverfield. I worked with your brother on a couple assignments.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a2.jpg 300
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Bullshit. Alessandro was no soldier.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a.jpg 300
+#BACKGROUND cg_lite\cg_eut0a2.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Maybe not, but as a firefighter he helped me many times. For example, recovering intel when storming into buildings of interest to "save civilians".
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg_lite\cg_eut0a2.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+Point is, the laboratory which blew up... was one of such buildings. And I'm quite sure that the explosion was triggered by someone.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a2.jpg 300
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Someone... who?
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a.jpg 300
+#BACKGROUND cg_lite\cg_eut0a2.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+A specimen from the lab, or so it seems. I've collected a pretty nice piece of evidence I'm anxious to show you.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TRANSITION cg_lite\cg_eut0a2.jpg 300
+#BACKGROUND cg_lite\cg_eut0a.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+It seems that you already have all that you need. Why are you bothering me?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg_lite\cg_eut0a.jpg 300
+#BACKGROUND cg_lite\cg_eut1d.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+I need access to your brother's private possessions, Renzo. And you are the only one who can help me.
+#TEXT_END
+#END
+
+#BACKGROUND cg_lite\cg_eut1d.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+What about it? I offer you your vengeance, you offer me your support. Isn't it a win/win situation?
+#TEXT_END
+#END
+
+#TRANSITION cg_lite\cg_eut1d.jpg 300
+#BACKGROUND cg_lite\cg_eut2d.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Vengeance won't take him back. Still, I have nothing to lose to listen to you. Only one word of advice: make a fool out of me and you are dead.
+#TEXT_END
+#END
+
+#BACKGROUND cg_lite\cg_eut2d.jpg
+#CHARA_MUGSHOT chara_jenn\Mesh3
+#TEXT_BEGIN
+You won't be disappointed. That's a promise.
+#TEXT_END
+#END

@@ -1,0 +1,403 @@
+#AUTO
+#TOP_WINDOW
+#BACKGROUND cg\cg2a.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+night.ogg
+100.0
+1.0
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Donner, what... what is that?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+I thought you gave up on your original plan!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+It's time, then. I hoped this moment would never come.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Donner? What... what does it mean?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I have never been the one in control. And now, the main actor is coming to the board...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg2a.jpg 300
+#BACKGROUND cg\cg2b.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...~and there's nothing you all can possibly do, despite believing so.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Trust me, it's better to give up now and accept your fate.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+So, I presume you are the only Donner left.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+The original one.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+...~ so many people? Damn, this isn't good!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\cg2b.jpg 300
+#BACKGROUND cg\cg2c.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Hi, Jacko. Nice to see you survived. I'd suggest you to savour the moment, as soon this place will be just a steaming pile of ashes.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+You don't look like you are in the position to threaten anybody.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg2c.jpg 300
+#BACKGROUND cg\cg2d.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+You are denser than I expected, Ange. I'm not threatening anybody. *He* will do this.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+He? Who's "he"?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton\mesh3
+#TEXT_BEGIN
+It's just a trick to sidetrack us, Johnson. He's trying to gain time.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Better dispose of him quickly, then.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg2d.jpg 300
+#BACKGROUND cg\cg2e.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#BGM
+moody.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+Don't you DARE attack him, you punks! We will fight to death to protect him!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Nobody of you will harm our knight in shining armor!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+He DOESN'T want to destroy anything! He DOESN'T! He's just trying... to build a better world for us all!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+A world where distortion technology and genetic slicing is not used to create creatures like him... and like us.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+Listen! If something bad happen today, during THAT meeting, ALL distortion plants will be switched off!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+And as soon as the news report that it was the fault of a genetically modified soldier, governments will HAVE to force stricter regulations on the practice!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+Can't you figure out the beauty of this future?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg2e.jpg 300
+#BACKGROUND cg\cg2c.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+No more mutants. No more RealLifeAnime-created monsters. The end of the Bonzaga Holding and Zavira Genetics.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+The end of legal genetical reprofiling.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_tiger
+#TEXT_BEGIN
+I must say, I'm not totally against it. But... doing so by means of terror and killing innocents...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg2c.jpg 300
+#BACKGROUND cg\cg2e.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+Those politicians are not innocent! Not in the slightest!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+We've fought Donner to make him reduce the scope of his actions! He won't destroy the whole Euterpe! Just... just enough of it to dispose of those parasites!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+A small sacrifice, compared to the benefits.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+The reason we followed him from the beginning. He gave us a purpose.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+He gave us a reason to keep on living.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Kiyoko... Kaya...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg2e.jpg 300
+#BACKGROUND cg\cg2f.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#BGM
+moody.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I'm sorry.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+That was the lie I wanted to believe in.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\mesh50
+#TEXT_BEGIN
+L... lie?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+What does it mean?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+That the death toll will be far higher than you could possibly have imagined.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Far higher than any of you could possibly have imagined.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg2f.jpg 300
+#BACKGROUND cg\cg2d.jpg
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#BGM
+moody.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Now, I've had enough of it. Time to settle the score, Donner.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END

@@ -1,0 +1,81 @@
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\black.jpg
+#PAUSE 0
+#NO_BUFFER_TIME
+#CLOSE_WINDOW
+#BGM
+moody.ogg
+100.0
+1.0
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\black.jpg 2000
+#BACKGROUND cg\cg6h.jpg
+#PAUSE 1500
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Ah, ah, ah.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I can't. I can't give up now. But what can I do?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>If I get switched off to replace this reactor, I will be deleted.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I simply can't get the shark now. I HAVE to recover the specimen.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I have to. I HAVE TO.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg3.jpg 300
+#BACKGROUND cg\black.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I will put the world on fire, if needed. I WANT to survive, I'm not settling for ANYTHING less!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I will find that brat, wherever she hides... and finally get my freedom back!
+#TEXT_END
+#CLOSE_WINDOW
+#END

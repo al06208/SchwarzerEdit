@@ -1,0 +1,19 @@
+#EPISODE_NAME
+Fish out of Water
+#DESCRIPTION
+Having escaped H-168 Krave, Shaz and Elena think
+about a way to escape from the Fishface Syndicate.
+Their individual solutions, though, are not 
+exactly compatible.
+#DESCRIPTION_END
+#EVENT storyEvent0
+#EVENT storyEvent1
+#MATCH storyMatch0
+#EVENT storyEvent2
+#EVENT storyEvent3
+#EVENT storyEvent4
+#MATCH storyMatch1a
+#MATCH storyMatch1b
+#EVENT storyEvent5
+#MATCH storyMatch2
+#EVENT storyEvent6

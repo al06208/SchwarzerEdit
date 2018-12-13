@@ -1,0 +1,21 @@
+#EPISODE_NAME
+Trip to Darkness
+#DESCRIPTION
+Amy is still unconscious after Lejl took over.
+However, her mind escapes to a dimension where
+everything looks real and unreal at the same time:
+the rifts of the Shadow Gallery.
+#DESCRIPTION_END
+#EVENT storyEvent0
+#EVENT censored\storyEvent0b_censored
+#EVENT censored\storyEvent1_censored
+#MATCH censored\storyMatch0_censored
+#EVENT censored\storyEvent2_censored
+#EVENT storyEvent3
+#EVENT storyEvent4
+#MATCH storyMatch1
+#EVENT storyEvent6
+#MATCH storyMatch2
+#MATCH storyMatch3
+#EVENT storyEvent7
+#EVENT storyEvent8

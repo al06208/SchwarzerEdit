@@ -1,0 +1,17 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+Go back home, kid.
+#OPPONENT_WIN_QUOTE
+Huh... that was, like, the worst dance ever.
+#PLAYER_INTRO_QUOTE
+I'm respectfully asking you to leave me alone.
+#OPPONENT_INTRO_QUOTE
+Come on! Seriously?! With such revealing clothes on?
+#OPPONENT_LIFE_MULTIPLIER 0.6
+#PLAYER_LIFE_MULTIPLIER 1.1
+#OPPONENT chara_renzo\Mesh1
+#PLAYER chara_amy\Mesh1
+#AI_LEVEL 4
+#STAGE coqHeureux
+#NO_RINGOUT
+#TIMER 100

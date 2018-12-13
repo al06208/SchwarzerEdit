@@ -1,0 +1,30 @@
+#BEGIN
+
+Shaz 2000 3000
+Blade! What does this bullcrap mean?!
+Shaz 400 2000
+I thought you wanted to help me!
+Blade 1000 1500
+Please, Shaz...
+Blade 500 3000
+Don't make it more complicated than it already is!
+Shaz 1000 2000
+We were like brothers, pal!
+Shaz 10 2000
+You REALLY wanna hand me in?
+Blade 1000 2000
+You betrayed us!
+Blade 10 3000
+You stole the cash and took the bush!
+Blade 1000 3000
+I trusted you, Shaz! But you...
+Shaz 1000 2000
+I wanted to quit, pal.
+Shaz 1000 2000 
+And I couldn't, not in any other way.
+Blade 1000 3000
+How sad you'll be forced to quit your life, then.
+Shaz 1000 3000
+Blade...
+
+#END

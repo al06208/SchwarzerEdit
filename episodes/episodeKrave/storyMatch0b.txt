@@ -1,0 +1,15 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+>Yes! Two out of two! My lucky streak goes on!
+#OPPONENT_WIN_QUOTE
+And you would be a killer robot? Amateur.
+#PLAYER_INTRO_QUOTE
+>Fish arm and touch faith! Dum, dum, du-dum dum!
+#OPPONENT_INTRO_QUOTE
+Listen, you are messing with the wrong person.
+#PLAYER_LIFE_MULTIPLIER 3.2
+#PLAYER chara_krave\Mesh2
+#OPPONENT chara_elena
+#AI_LEVEL 5
+#STAGE EncorpSurfaceStation
+#TIMER 100

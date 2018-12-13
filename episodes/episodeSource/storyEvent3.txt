@@ -1,0 +1,87 @@
+#AUTO
+#BACKGROUND cg\black.jpg
+#NO_BACKGROUND
+#PAUSE 0
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg2c.jpg
+#PAUSE 100
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+1
+#BGM
+..\..\..\..\stages\branch_70X\music\combatMission.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+Take this, you bastard!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+*UGH*
+#TEXT_END
+#END
+
+#TRANSITION cg\cg2c.jpg 300
+#BACKGROUND cg\cg2_0.jpg
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Well done, Kaya! Quick, we must hurry!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Why didn't we emerge nearer?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I can't bend the Shadow Gallery at will. This was the nearest we could get!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The residual distortion is too strong!
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg2a.jpg
+#TRANSITION cg\cg2_0.jpg 300
+#PAUSE 500
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+We got company again...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+Stand where you are! You are under arrest!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+In your dreams, maybe!
+#TEXT_END
+#END

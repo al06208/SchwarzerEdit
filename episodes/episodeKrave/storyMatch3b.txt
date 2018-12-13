@@ -1,0 +1,16 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+>Oh, yes! Double the prize!
+#OPPONENT_WIN_QUOTE
+This monster...
+#OPPONENT_INTRO_QUOTE
+J... Jarkins! You killed Jarkins!
+#PLAYER_INTRO_QUOTE
+>So... uhm, how was the soldier that I slaughtered called?
+#PLAYER chara_krave\Mesh2
+#OPPONENT event_soldier
+#AI_LEVEL 6
+#STAGE AcidPit
+#TIMER 100
+#PLAYER_LIFE_MULTIPLIER 2.3
+#OPPONENT_LIFE_MULTIPLIER 0.75

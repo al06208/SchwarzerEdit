@@ -1,0 +1,17 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+Why? Why aren't you fighting back?!
+#OPPONENT_WIN_QUOTE
+...
+#PLAYER_INTRO_QUOTE
+This is the end of the line.
+#OPPONENT_INTRO_QUOTE
+Jacko...
+#OPPONENT_LIFE_MULTIPLIER 0.8
+#PLAYER_LIFE_MULTIPLIER 1
+#PLAYER chara_johnson
+#OPPONENT event_donner
+#AI_LEVEL 20
+#STAGE EuterpeGrave
+#WIN_CONDITION Percentage 30.0
+#TIMER 100

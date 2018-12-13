@@ -1,0 +1,199 @@
+#AUTO
+#BACKGROUND cg\cg_algol4.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#BGM
+..\..\..\..\stages\Algol\music\invasion.ogg
+40.0
+0.5
+#PAUSE 0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\storyMesh50
+#TEXT_BEGIN
+They are professionals, sis. Way out of our league...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\storyMesh1
+#TEXT_BEGIN
+We... we can't give up like this!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+Trust me, you've never had a choice. Now, take us to your boss, cutie.
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_algol5.jpg
+#TRANSITION cg\cg_algol4.jpg 300
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Look who came to visit me. It's nice to see you again, Jacko.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_algol6a.jpg
+#TRANSITION cg\cg_algol5.jpg 300
+#PAUSE 300
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I will give you a present to remember this meeting.
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg_algol6b.jpg
+#TRANSITION cg\cg_algol6a.jpg 300
+#NO_BACKGROUND
+#PAUSE 300
+#TEXT_BEGIN
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+0.5
+#END
+
+#AUTO
+#BACKGROUND cg\cg_algol6d.jpg
+#TRANSITION cg\cg_algol6c.jpg 500
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 1500
+#CLOSE_WINDOW
+#SOUND
+explosion.ogg
+40
+0.8
+#BGM
+night.ogg
+0.0
+1.0
+#END
+
+#AUTO
+#NO_BACKGROUND
+#TOP_WINDOW
+#BACKGROUND cg\cg_algol7.jpg
+#TRANSITION cg\cg_algol6d.jpg 300
+#TEXT_BEGIN
+#TEXT_END
+#SOUND
+explosion.ogg
+40
+0.8
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+AGH!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+NO!
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_algol8.jpg
+#TRANSITION cg\cg_algol7.jpg 300
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+J... Johnson... that was the same kind of electric beam that almost killed me in Euterpe!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+C... codename "Donner"? This... this doesn't make any sense! He died in the Black Lightning Disaster!
+#TEXT_END
+#END
+
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\cg_algol5.jpg
+#TRANSITION cg\cg_algol8.jpg 300
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 0
+#BGM
+night.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Apparently not, Jacko. I'm still alive and kicking, as you can see with your blurry eyes.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I see that you haven't lost your habit of dressing like a B-movie monk. And, by the way, my name is JOHNSON.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Having memory troubles? I see.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_algol6a.jpg
+#TRANSITION cg\cg_algol5.jpg 300
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Well, "Johnson"... it is high time that we say goodbye to each other.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_algol5.jpg
+#TRANSITION cg\cg_algol6a.jpg 300
+#PAUSE 300
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Not so fast. I have many questions for you.
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_algol6a.jpg
+#TRANSITION cg\cg_algol5.jpg 300
+#PAUSE 300
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Oh, really?
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_algol6b.jpg
+#TRANSITION cg\cg_algol6a.jpg 300
+#PAUSE 300
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+0.5
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+If you survive, I could consider answering some of them.
+#TEXT_END
+#END

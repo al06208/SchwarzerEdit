@@ -1,0 +1,214 @@
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg_cyphr1.jpg
+#PAUSE 200
+#BGM
+..\..\..\..\stages\deltaBase\music\wontolla_rain.ogg
+30.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+That goddamn bolthead! "Galactic excellence" my ass!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Once I fix my power boots, I will kick his butt so hard that he will PRAY never to have been assembled in the first place!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Verdammter Eisenschei:ss:kopf! Du bist so gut wie tot! Ich werde dir...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Hi, Cyphr.
+#TEXT_END
+#END
+
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\cg_cyphr2.jpg
+#TRANSITION cg\cg_cyphr1.jpg 300
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Commander Sambiong! I didn't hear you coming in! Since when...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Enough to hear you swearing like a German trucker.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+You have a bone to pick with that outlaw robot, don't you?
+#TEXT_END
+#END
+
+#AUTO
+#NO_BACKGROUND
+#BACKGROUND cg\cg_cyphr1.jpg
+#TRANSITION cg\cg_cyphr2.jpg 300
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+The robot who claims to have killed my mother, after having destroyed both my equipment AND my morale?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+How could you possibly ask something so dumb, sir?! Did you follow a special class?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Are you still mad at me?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Mad at you? For having gone helping that annoying brat from yesterday while I was lying unconscious on the ground, almost raped by a giant metal bastard?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+How could I possibly be mad at you?
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_cyphr2.jpg
+#TRANSITION cg\cg_cyphr1.jpg 300
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Listen, Cyphr... I'm sorry, okay? I would have never thought that something like that could happen...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Yet, you went helping the brat. Do you like they way she *doesn't* dress, sir?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+The Night Assassin almost killed a sharkman, yesterday. And - guess what? Amy was there again.
+#TEXT_END
+#BGM
+..\..\..\..\stages\deltaBase\music\wontolla_rain.ogg
+0.0
+1.0
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeAmy\cg\cgN3a.png
+#NO_BACKGROUND
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I don't know what to make out of this, but...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_cyphr1.jpg
+#TRANSITION ..\episodeAmy\cg\cgN3a.png 300
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Okay, boss, you convinced me. There HAS to be a connection, after all.
+#TEXT_END
+#BGM
+..\..\..\..\stages\deltaBase\music\wontolla_rain.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+I'm going to the military hospital now. Could you please come with me in civilian clothes? I could need your help.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+By her... again? Goddamnit!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+That's enough, Cyphr. Calm. Down.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Commander Sambiong... do you think I'm too... self-centered?
+#TEXT_END
+#END
+
+#BACKGROUND cg\cg_cyphr2.jpg
+#TRANSITION cg\cg_cyphr1.jpg 300
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Just a little bit. It's not that if I take care of another girl, I'm forgetting about you.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+You are my best collaborator, but this does NOT mean that you have to be at the center of my thoughts every single second!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_cyphr\Mesh5
+#TEXT_BEGIN
+Sounds fair. Alright, give me just ten minutes to complete this fix and I'll come with you.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2
+#TEXT_BEGIN
+Good. Thanks, Cyphr.
+#TEXT_END
+#END

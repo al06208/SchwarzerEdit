@@ -1,0 +1,17 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+>It's still... not enough? How?
+#OPPONENT_WIN_QUOTE
+>I shouldn't have helped Silman.
+#PLAYER_INTRO_QUOTE
+>No hard feelings, huh? Just trying to survive.
+#OPPONENT_INTRO_QUOTE
+>You idiot.
+#PLAYER_LIFE_MULTIPLIER 1.3
+#OPPONENT_LIFE_MULTIPLIER 3.5
+#PLAYER event_broken_krave
+#OPPONENT chara_graf
+#AI_LEVEL 5
+#STAGE Algol
+#WIN_CONDITION Percentage 80.0
+#TIMER 100

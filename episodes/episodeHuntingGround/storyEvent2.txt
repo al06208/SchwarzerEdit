@@ -1,0 +1,331 @@
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+Emptiness.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+Here I'm safe.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+Emptiness.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+Alone.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+Nothing outside.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+A perfect tranquillity.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+He's not here.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+I'm safe.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TOP_WINDOW
+#TEXT_BEGIN
+No, you are not.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+Who's there?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TOP_WINDOW
+#TEXT_BEGIN
+This is not you, Cyphy.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TOP_WINDOW
+#TEXT_BEGIN
+Where is the girl who faced the unknown? Who had no fear of fighting an... entity capable of shifting through dimensions?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#TOP_WINDOW
+#TEXT_BEGIN
+Where is that grown up woman, now? I see only a scared child.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgL1.jpg
+#TRANSITION cg\black.jpg 600
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 1200
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+I'm afraid.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+He made me feel so powerless. He violated my self-confidence.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+He killed me.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Well, yes. Denying it won't make the pill sweeter.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+You were totally outclassed... and, now, you still have no chance.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+So, why should I fight?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Because if you don't, he will kill Tiger.
+And then, he will violate you once more.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Escaping now is just delaying the inevitable.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+But what can I do?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Alone? Nothing.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgL2.jpg
+#TRANSITION cg\cgL1.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+But Tiger is there. And Dkrav'lest is there. Together you CAN do something.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+You are stronger than this, Cyphy. You have to react.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+What would your mother say, if she could see you?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Do you really want to give in so easily?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+You are right. I can't.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgL1.jpg
+#TRANSITION cg\cgL2.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+That's the Cyphy I know.
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+Are you really here, Lejl?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Dead women tell no tales, Cyphy.
+#TEXT_END
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\laugh_shortest.ogg
+100
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\mesh5
+#TEXT_BEGIN
+This is not an answer.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night
+#TEXT_BEGIN
+Unfortunately, it is.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\black.jpg
+#TRANSITION cg\cgL1.jpg 200
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 300
+#END
+
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+Now, it's all up to you.
+#TEXT_END
+#CLOSE_WINDOW
+#END

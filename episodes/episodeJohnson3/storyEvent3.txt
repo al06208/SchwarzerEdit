@@ -1,0 +1,627 @@
+#AUTO
+#TOP_WINDOW
+#NO_BACKGROUND
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 200
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+There was no room for indecision. I had to keep strong and go on.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I closed my eyes, followed that creepy guy and his cyborg buddy through the portal.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+Just... I wasn't ready to what I was going to see.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TEXT_BEGIN
+I wasn't ready at all.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG1.jpg
+#TRANSITION cg\black.jpg 600
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+50.0
+1.0
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+...~ this place is horrifying! I... think I may need to throw up.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Sign me in. I'm completely lost. I can't even understand where's up, down, left or right...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>My sensors are jammed. I'm almost blind. This is... unsettling.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Is... is this place even real?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Oh, it's even MORE real than our so-called real world, Miss Husler.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Think about it! How can a world where people have violet hair or purple eyes even be real? Our chromosomes cannot express genes for those particular colours.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Still, they are quite common, these days. I wonder how it happened.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Spare me the bullshit, please.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG2.jpg
+#TRANSITION cg\cgSG1.jpg 300
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Oh. My. God. What is THAT THING supposed to be?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf
+#TEXT_BEGIN
+>A living organism, apparently. I sense heat. And a heartbeat.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG2c.jpg
+#TRANSITION cg\cgSG2.jpg 32
+#PAUSE 32
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#NO_BUFFER_TIME
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG2b.jpg
+#TRANSITION cg\cgSG2c.jpg 32
+#PAUSE 400
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#NO_BUFFER_TIME
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG2c.jpg
+#TRANSITION cg\cgSG2b.jpg 32
+#PAUSE 32
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#NO_BUFFER_TIME
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG2.jpg
+#TRANSITION cg\cgSG2c.jpg 32
+#PAUSE 400
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#NO_BUFFER_TIME
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Disgusting.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG1.jpg
+#TRANSITION cg\cgSG2.jpg 300
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Mind your language, Miss. We are their guests, after all.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+As if a thing like that could be intelligent.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Want to know the truth?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+No, thanks.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Bravo, Miss! Ignorance is truly bliss!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cgSG3.jpg
+#TRANSITION cg\cgSG1.jpg 300
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Where are we, exactly? You seem to know a lot of stuff about this place.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+This is the Shadow Gallery, Mr.~ Johnson. At least, the man named Donner called it this way.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+A place where reality bends, dimensions mix, time doesn't flow in a a straight line... and strange encounters can occur.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Apparently, this place can "store" copies of whoever entered it at least once... or is dead.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+How do you...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#BACKGROUND cg\cgSG1.jpg
+#TRANSITION cg\cgSG3.jpg 300
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Northern Algol is my domain, the Night was my mystery. I am a good observer, and I can eavesdrop pretty well.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Who do you think allowed Donner and those two dolls to occupy the Witch Tower, without getting harmed by the plants?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+What does it mean?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cgSG3.jpg
+#TRANSITION cg\cgSG1.jpg 300
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Information, Johnson. Information is more important than anything else.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Donner knows something that I still can't fully grasp. I totally want to find him as well.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Something about what?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+About everything.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cgSG2.jpg
+#TRANSITION cg\cgSG3.jpg 300
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\Mesh4
+#TEXT_BEGIN
+God, there's another one...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG2c.jpg
+#TRANSITION cg\cgSG2.jpg 32
+#PAUSE 32
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#NO_BUFFER_TIME
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG2b.jpg
+#TRANSITION cg\cgSG2c.jpg 32
+#PAUSE 400
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#NO_BUFFER_TIME
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG2c.jpg
+#TRANSITION cg\cgSG2b.jpg 32
+#PAUSE 32
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#NO_BUFFER_TIME
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG2.jpg
+#TRANSITION cg\cgSG2c.jpg 32
+#PAUSE 400
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#NO_BUFFER_TIME
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cgSG1.jpg
+#TRANSITION cg\cgSG2.jpg 300
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+We'd better hurry. Nobody knows when the next tide will rise.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Tide?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo\mesh99
+#TEXT_BEGIN
+Something you don't want to experience.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+Jenn? Is that... you?
+#TEXT_END
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+0.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+That voice...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG4a.jpg
+#TRANSITION cg\cgSG1.jpg 300
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+No! NO!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+That's impossible. Impossible!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+It isn't, sis.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+LYNN?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG4b.jpg
+#TRANSITION cg\cgSG4a.jpg 300
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 200
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Lynn! You... you can't be here! You are dead!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Yet, I am in front of you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+Jenn! That's just an illusion! Haven't you heard the guy?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+STAY OUT OF IT, JOHNSON!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Lynn! Prove me you are... you!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Your first kiss was with a girl, and you kept regretting it until you turned sixteen.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Your first boyfriend was a university student who always talked about Celtic myths.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+You have never liked strawberries, you kept on forcing me to eat them while mom was not watching.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+It's... it's you! God, it's really you!
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+50.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+You have become so beautiful! How... how have you...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG4d.jpg
+#TRANSITION cg\cgSG4c.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#CLOSE_WINDOW
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+80
+1
+#BGM
+..\\..\\..\\..\\stages\\euterpe\\music\\shapeInSnow.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+I'm DEAD, sis. I'm DEAD because of you. I'm trapped HERE because of you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn\mesh4
+#TEXT_BEGIN
+Lynn...?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cgSG4e.jpg
+#TRANSITION cg\cgSG4d.jpg 300
+#NO_BACKGROUND
+#TEXT_BEGIN
+#TEXT_END
+#PAUSE 500
+#BGM
+..\..\..\..\stages\theLoathing\music\stage_bgm.ogg
+50.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+I took that shot for you! For your stunt at the power plant!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Your reckless actions... severed my life!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Now, I WANT IT BACK!
+#TEXT_END
+#CLOSE_WINDOW
+#END

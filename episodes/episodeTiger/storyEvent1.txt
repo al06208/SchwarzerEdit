@@ -1,0 +1,82 @@
+#BACKGROUND cg\cg1.png
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+L... Let me go! For God's sake, let me go!
+#TEXT_END
+#BGM
+..\..\..\..\stages\prison\music\loopFaster.ogg
+40.0
+1
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh4
+#TEXT_BEGIN
+You won't go anywhere. Not with a leg broken like that.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+N... no! Help me! I created you! I gave you life!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh4
+#TEXT_BEGIN
+Yes, and? Does this mean that I have to let you kill or torture other innocent creatures... like Shabeel?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+That was a mistake! He shouldn't have died in the experiment, and...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh4
+#TEXT_BEGIN
+... and you recycled him as a cyborg. That's it? That's how much you cared for us?! Using him as a guinea pig, with a backup plan not to lose your precious specimen?!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+No, I...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh4
+#TEXT_BEGIN
+You were like a father to us. We trusted you!
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(speakers) Last call: The emergency paths leading to Sector 70X will be sealed in ten seconds. Please, evacuate the sector immediately.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh4
+#TEXT_BEGIN
+This is the end, Doctor. I hope we won't meet again.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+Sambiong! Please! Don't... don't leave me here! Sambiong!!!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg1.png 300
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#TEXT_BEGIN
+SAMBIOOOOONG!!!
+#TEXT_END
+#END

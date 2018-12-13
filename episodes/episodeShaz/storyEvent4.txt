@@ -1,0 +1,94 @@
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+...
+#TEXT_END
+#STAGE_BACKGROUND elevator\\
+#PAUSE 600
+#BGM
+..\\..\\..\\..\\stages\Elevator\music\boss_krogh.ogg
+100.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Blade's dossier is quite clear. Deep genetical reprofiling, huh?
+I didn't even think it was feasible.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+She's looking like a human now, except for one arm and... huh, the gills.
+Go's henchfishes got her before she could complete the treatment.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+She... killed them all. And here there are some pictures...
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+*glom*
+Okay, next page.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+"She has been recently spotted several times near the Encorp facilities. Every attempt of retrieval has been unsuccessful. Several men lost."
+#TEXT_END
+#PAUSE 800
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Quite clear.
+Since she still has some fish features, she is surely trying to have them fixed before Go can find her again.
+#TEXT_END
+#PAUSE 800
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Encorp is pretty much the only place she could have gone for such high level genetical recombination.
+#TEXT_END
+#PAUSE 800
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+...
+#TEXT_END
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Between "hunt" and "be hunted", I prefer the first. I'm a Great White, after all!
+#TEXT_END
+#PAUSE 500
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Ok, I will pay a visit to Encorp headquarters!
+Yeah, let's do it!
+Maybe this won't get me anywhere... but do I have any other choices?
+#TEXT_END
+#PAUSE 800
+#END
+
+#CHARA_MUGSHOT chara_shark\\
+#TEXT_BEGIN
+Duh. Rhetoric question.
+#TEXT_END
+#PAUSE 600
+#END

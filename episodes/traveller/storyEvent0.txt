@@ -1,0 +1,275 @@
+#BACKGROUND cg\cgTr1.jpg
+#TEXT_BEGIN
+Welcome back to a new episode of "Traveller - Beyond the Boundaries of Science". I'm Res Vertighel and tonight I will lead you through the mysteries of the Dead Zone... and its curse.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#END
+
+#AUTO
+#TRANSITION cg\cgTr1.jpg 300
+#BACKGROUND cg\cgTr4.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+As any modern history book reports, the Dead Zone is a vast region of the Irish isle completely sealed from the outside world. A long, fortified wall, equipped with automoatic heavy artillery, works as a separator between us and what lies out there.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cgTr4.jpg 300
+#BACKGROUND cg\cgTr2.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+The only way in and out is through the two dome cities of St.~ Patrick SHIELD - on the British side - and Correa DOME, on the opposite side.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+But why? What is the reason of this forced quarantine, which has lasted continously for almost fifty years?
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cgTr2.jpg 300
+#BACKGROUND cg\cgTr3.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TEXT_BEGIN
+In 2015, a previously unknown species of reptilian-like creatures suddenly made its appearance in the heart of Ireland, swarming a vast section of the country.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+The creaures were breeding too fast to be eliminated effectively, leaving no choice but to evacuate the infested area and build a containment zone.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+Those creatures are what we collectively name today as Haemophages. Several different kind of subspecies have been identified, after the first sightings. Among those, the almost blind Noctiphage and the sewage-drinking Lymatophage.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+The origin of the creatures is currently unknown. There has never been any official statement on their appearance.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cgTr3.jpg 300
+#BACKGROUND cg\cgTr4.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+Since then, however, the quarantine area has been sealed and designated as "The Dead Zone".
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+Many of the people working on projects related to the Dead Zone Wall or the Dead Zone Recovery Program died or suffered from unexplained accidents throughout the years immediately following its creation.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+This has generated rumors of a "curse of the Dead Zone", as if the creatures were actually created by humans and that was the retribution for having engineered such a plague.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+For many decades, nobody would have dared establishing any settlements there.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cgTr4.jpg 300
+#BACKGROUND cg\cgTr5.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TEXT_BEGIN
+Fast forward thirty-tree years, we finally reach 2038. On that year, the entertainment colossus RealLifeAnime decided to use the Haemophages as cheap cannon fodder for a reality show.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+RealLifeAnime allegedly suffered from the curse of Dead Zone already in 2015: A couple weeks after the emergency, the main database of the company burned down to ashes, leaving no records behind.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+This caused a financial damage estimated in several hundred thousands euro.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cgTr5.jpg 300
+#BACKGROUND cg\cgTr5d.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TEXT_BEGIN
+Egon Kramers, then executive producer of the "NEXT" division, poured huge amounts of fundings in the creation of an artificial desert inside the Dead Zone, with the idea of using it as the "perfect set for a show".
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+This feature alone required months of work and at least three casualties, all due to creature attacks.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+Still, this was nothing compared to what would have happened.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cgTr5d.jpg 300
+#BACKGROUND cg\cgTr5e.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TEXT_BEGIN
+Following mysterious circumstances, Egon Kramers and a former employee of the company, Stevan Ezequiel Schneider, disappeared. Kramers was found with his head blasted off, while Schneider's body was never recovered.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cgTr5e.jpg 300
+#BACKGROUND cg\cgTr5f.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TEXT_BEGIN
+Moreover, the lead technician of the expedition, Wentzel Herzog, died by heart attack just two years later, leaving behind a three years old daughter.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+Is this accident connected with the creatures? Is it just the curse of the Dead Zone?
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cgTr5f.jpg 300
+#BACKGROUND cg\cgTr5.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TEXT_BEGIN
+Another member of the expedition, Victor Kreen, went up to become a major player in the robot industry. Mr.~ Kreen always refused to produce any statement on what happened back then.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cgTr5.jpg 300
+#BACKGROUND cg\cgTr1.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#TEXT_BEGIN
+We, at Traveller, managed to get our hands on exclusive witnesses and original footage from that expedition, footage that could show the hint of a connection between RealLifeAnime and the appearance of the Haemophages.
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#TEXT_BEGIN
+After the advertisements, we...
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\black.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 3000
+#BGM
+..\..\..\..\stages\deltaBase\music\wontolla_rain.ogg
+0.0
+1.0
+#SOUND
+beep1.ogg
+100
+1.0
+#END

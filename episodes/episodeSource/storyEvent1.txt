@@ -1,0 +1,153 @@
+#AUTO
+#BACKGROUND cg\cg2.jpg
+#PAUSE 100
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\branch_70X\music\combatMission.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+That's it. This is the place.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I can feel it.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+It's not that simple. The room you want to reach... is far ahead.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+There will be a lot of security.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+*GRRRRRR!*
+#TEXT_END
+#END
+
+#TRANSITION cg\cg2.jpg 300
+#BACKGROUND cg\cg2_0.jpg
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Kaya...?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+I... I simply can't forget it...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+That bastard abused of us both, right here.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg2_0.jpg 300
+#BACKGROUND cg\cg2.jpg
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+I. Hate. This. Place!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Please, calm down. Calm down. It's the past, okay? That pig is dead. I killed it for you.
+#TEXT_END
+#END
+
+#TRANSITION cg\cg2.jpg 300
+#BACKGROUND cg\cg2_0.jpg
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Before we start, I want to thank you both.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+You have filled the emptiness of my life. Thanks to you, I have found something that was worth being saved.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Now, I'm not sure anymore if what I want to do is... right. It could end up... badly, for you. And for me as well.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+We will stay with you to the bitter end.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+You are our hero.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Our knight in shining armor.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#TRANSITION cg\cg2_0.jpg 300
+#BACKGROUND cg\cg2.jpg
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Okay, let's do this. Together until the end.
+#TEXT_END
+#END
+
+#AUTO
+#BACKGROUND cg\cg2a.jpg
+#TRANSITION cg\cg2.jpg 300
+#PAUSE 500
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+Hey, you three! This is a restricted area, you are not allowed to be here.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+How the heck did you...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+Just. Shut. Up!
+#TEXT_END
+#END

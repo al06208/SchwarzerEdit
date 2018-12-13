@@ -1,0 +1,243 @@
+#AUTO
+#BACKGROUND cg\black.jpg
+#NO_BACKGROUND
+#PAUSE 0
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg2b.jpg
+#TRANSITION cg\white.jpg 300
+#PAUSE 100
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#SOUND
+explosion.ogg
+40
+0.8
+#BGM
+..\..\..\..\stages\branch_70X\music\combatMission.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+AAAAAH! AAAAAAAAAH!
+#TEXT_END
+#END
+
+#TRANSITION cg\cg2b.jpg 300
+#BACKGROUND cg\cg2.jpg
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+The path is clear. Let's run!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Right at your back, Donner!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+We're near. I can see the entrance.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg2e.jpg
+#TRANSITION cg\cg2.jpg 300
+#PAUSE 500
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+70X...? Is this a bad joke?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+No, it's not.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+That fat bastard wanted to recreate the Schwarzer Blitz laboratory. He was so proud of this that he always boasted it, before abusing us!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+This is not the last door, is it?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh50
+#TEXT_BEGIN
+Correct. There is a final one, after this corridor. For that, you will need one of us.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Then, let's rumble.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg3a.jpg
+#TRANSITION cg\cg2e.jpg 300
+#PAUSE 500
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+One last corridor. One last corridor before the core.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+Donner! Look!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko
+#TEXT_BEGIN
+There's somebody there!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg3b.jpg
+#TRANSITION cg\cg3a.jpg 300
+#PAUSE 500
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\branch_70X\music\combatMission.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+##CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+I assume you are surprised.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+##CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+Well, not as surprised as me. Your plan was deceptively simple, huh? Blowing up a distortion core during a UNO meeting.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+##CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+It was difficult to convince the Bonzaga estate of this possibility, so they didn't allow me to improve the security of this place.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+##CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+Yet, I'm here, now... Red.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Ange...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg3c.jpg
+#TRANSITION cg\cg3b.jpg 300
+#PAUSE 500
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+This is not the best place for a reunion... nor for a funeral.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+But, well, I guess it can't be helped.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\cg3d.jpg
+#TRANSITION cg\cg3c.jpg 300
+#PAUSE 500
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+I have resolved myself to bring an end to everything! I won't let you stop me, Ange!
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\story_bonzaga_research_corridor\music\PocketApocalypse_MissingPiece_intro.ogg
+40.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_donner
+#TEXT_BEGIN
+Let this be our last confrontation, old comrade.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_skeleton
+#TEXT_BEGIN
+I would have liked our reunion to play different, Red. But it seems I have no choices.
+#TEXT_END
+#CLOSE_WINDOW
+#END

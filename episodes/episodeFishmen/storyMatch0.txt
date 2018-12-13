@@ -1,0 +1,17 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+W... wait! Have I killed him?! Oh, no! I hope I didn't overreact!
+#OPPONENT_WIN_QUOTE
+Those were... huh, honest compliments, awright?!
+#PLAYER_INTRO_QUOTE
+You've be warned one too many times!
+#OPPONENT_INTRO_QUOTE
+I... I was joking! I was joking!
+#OPPONENT_LIFE_MULTIPLIER 0.8
+#PLAYER_LIFE_MULTIPLIER 1.1
+#OPPONENT chara_renzo\Mesh1
+#PLAYER chara_elena\Mesh1
+#AI_LEVEL 4
+#STAGE coqHeureux
+#NO_RINGOUT
+#TIMER 100

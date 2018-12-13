@@ -1,0 +1,304 @@
+#TOP_WINDOW
+#BACKGROUND cg\cg1b.jpg
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+...this is awful. He's probably going to do a massacre... again.
+#TEXT_END
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+40.0
+0.5
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+And we can't do... anything about it.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Sadly. We're too little to late. We have to prepare ourselves for the consequences.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+As unfortunate as it sounds, we're cut out. Even if we booked an airplane on the fly, there's no way we can take off this evening.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+We would have to reach Shard or London to depart, and this will cost us a lot of time.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg1c.jpg
+#TRANSITION cg\cg1b.jpg 300
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+So, you are telling me that we are... giving up?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Do we have ANY other choice?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg1d.jpg
+#TRANSITION cg\cg1c.jpg 300
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Actually, yes.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Now, it's time to spit out the full truth. First, my real name is Jenn Husler, not Jennifer Cloverfield. And I've neither worked with nor known your brother personally, Renzo.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+I just played the role, because I needed access to the party at the Bonzaga mansion. The information I gathered pointed at you as the best choice, as you are... easy to manipulate, we can say. Still, I haven't lied about my target.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Mayer's brain was just one piece of the puzzle... and my personal goal.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Officially, though, I needed to find proof that Sanjuro Bonzaga wanted to rebuild the Schwarzer Blitz laboratory.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg1a.jpg
+#TRANSITION cg\cg1d.jpg 300
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+Ma che caz... You've NEVER known my brother?! You have LIED to me until now?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+I apologize for having used you, Renzo, but deception is my specialty: I'm a spy under the Irish Army.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+And this now comes in handy, for a lot of stuff. For example, I can ask for a military airplane to take us all to Euterpe, in twenty minutes.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+There is a small private airport owned by Mr.~ Daevka we can have access to. A helicopter will take us there, and we'll be able to take off for Italy. We should be able to arrive before dawn, have some rest, and head for the city centre.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+You played me quite well. I... honestly believed your story.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+You could have kept your deception a secret... and I wouldn't have even noticed.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg1d.jpg
+#TRANSITION cg\cg1a.jpg 300
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+I know, but I need you both to trust me, the REAL me: the woman who's lost her beloved sister due to her own, selfish actions. This woman here in front of you.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+I am tired of being a fake... and this emergency is too severe. I don't want to hide anymore.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+How can I believe THIS story?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I can give you a reason.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND ..\episodeJohnson3\cg\cgSG4e.jpg
+#NO_BACKGROUND
+#PAUSE 500
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+In the Shadow Gallery, we met a "clone" of Jenn's dead sister. When she saw her, when se was killed again in front of her... her pain, her rage... were all genuine. She was aching from every pore of her skin.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TOP_WINDOW
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg1b.jpg
+#NO_BACKGROUND
+#PAUSE 500
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+That was DEFINITELY not an act. That was the REAL Jenn surfacing. A strong yet frail woman who's never completely coped with her past.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+So, we are more similar than I thought, huh?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Probably, this is the reason why I felt I could get along with you, Renzo. We went through a similar pain.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+I want to find proof that her killers financed Mayer's experiments.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_johnson
+#TEXT_BEGIN
+I need to find the truth about myself and the Schwarzer Blitz project.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+And I have to find out who's responsible for Alessandro's death.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_renzo
+#TEXT_BEGIN
+I guess this means we should all pay a visit to Euterpe, isn't it?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TOP_WINDOW
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+That's the spirit, boys. Let's call that chopper and ask for a lift!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#BACKGROUND cg\black.jpg
+#TRANSITION cg\cg1b.jpg 300
+#PAUSE 500
+#CLOSE_WINDOW
+#NO_BACKGROUND
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+No lies. No deception. This time, I'll just be myself.
+#TEXT_END
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+I owe this to you, Lynn.
+#TEXT_END
+#END

@@ -1,0 +1,16 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+Cutie, without that sword you are not that great.
+#OPPONENT_WIN_QUOTE
+You are playing with fire.
+#PLAYER_INTRO_QUOTE
+We have a score to settle, sweetie.
+#OPPONENT_INTRO_QUOTE
+Why do you keep coming after us?
+#OPPONENT_LIFE_MULTIPLIER 1
+#PLAYER_LIFE_MULTIPLIER 1
+#OPPONENT chara_kiyoko\storyMesh50
+#PLAYER chara_jenn\Mesh4
+#AI_LEVEL 5
+#STAGE Algol
+#TIMER 100

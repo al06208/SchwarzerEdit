@@ -1,0 +1,130 @@
+#NO_BACKGROUND
+#NO_BACKGROUND_PICTURE
+#CENTER_WINDOW
+#CLOSE_WINDOW
+#TEXT_BEGIN
+Euterpe, 14th April, 2064.
+03:06 AM
+#TEXT_END
+#END
+
+#TRANSITION cg\black.jpg 300
+#STAGE_BACKGROUND prison\
+#TOP_WINDOW
+#TEXT_BEGIN
+(speakers)... a drill. I repeat, this is NOT a drill. Evacuate the laboratory immediately. Follow the indications to get to the nearest emergency exit.
+#TEXT_END
+#BGM
+..\..\..\..\stages\prison\music\loopFaster.ogg
+40.0
+1
+#PAUSE 600
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(speakers) The emergency paths leading to Sector 70X will be sealed to prevent specimens from escaping containment. Follow the instruction to avoid the restricted areas.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(speakers) I repeat: this is NOT a drill. Evacuate the laboratory...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TOP_WINDOW
+#TEXT_BEGIN
+Stop this farce, Sambiong, and step back! You don't understand!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\white.jpg 300
+#BACKGROUND cg\cg0.png
+#CHARA_MUGSHOT chara_tiger\Mesh4
+#TEXT_BEGIN
+I understand more than you think, "father". I won't let you out!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+B... but why?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh4
+#TEXT_BEGIN
+You are dangerous.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+Dangerous? YOU are dangerous! YOU are the beast, not I!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh4
+#TEXT_BEGIN
+Yeah, right? It's thanks to you if I'm like this. It's thanks to you that Shabeel...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+You seek revenge for him? How stupid! Revenge is useless, if you can't survive it!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+Don't you want to live, Sambiong? Yes, surely you want! Who would be so stupid to desire death for themselves?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh4
+#TEXT_BEGIN
+You will never leave this place, Doctor Mayer. You will never create another monster like me.
+#TEXT_END
+#END
+
+#TOP_WINDOW
+#TEXT_BEGIN
+(speakers) The emergency paths leading to Sector 70X will be sealed in one minute. Please, evacuate the sector immediately.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+Ach! Let me go, Sambiong! Nobody of us wants to die here!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh4
+#TEXT_BEGIN
+That's not true.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh4
+#TEXT_BEGIN
+I want YOU to die here, father!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_graf\Mesh3
+#TEXT_BEGIN
+You bastard! Get out of my way!!!
+#TEXT_END
+#END

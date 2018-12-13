@@ -1,0 +1,14 @@
+#EPISODE_NAME
+End of the Beginning
+#DESCRIPTION
+As the Shadow Gallery emerges into the real
+world, all the people involved finally gather
+in Euterpe. The day of reckoning has started.
+#DESCRIPTION_END
+#EVENT storyEvent0
+#EVENT storyEvent1
+#EVENT storyEvent3
+#EVENT storyEvent4
+#EVENT storyEvent5
+#EVENT storyEvent2
+#EVENT explanation

@@ -1,0 +1,373 @@
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg6a.jpg
+#PAUSE 0
+#NO_BUFFER_TIME
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\AcidPit\music\acid_armor_low.ogg
+35.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>...~ aaaaaand that's pretty much the reason I'm here, now.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Do. You. Understand?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>It's not that I'm evil or anything, 'kay? It's more that I NEEDED to recharge.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Sure, you could argue that I had no right to smash those cars and to kill the owners, but I believe you will forgive me, since I did it to survive.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+Y... you monster!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Don't try to flatter me, it's useless. If you really want to be of any help, you could just take part to a simple experiment.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg6a.jpg 200
+#BACKGROUND cg\cg6b.jpg
+#PAUSE 400
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Is that acid-like sewage down there lethal? I'm afraid we won't find out until we try.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+Y... you can't be serious! Of course it's lethal! I mean, there is a high concentration of hydrochloric acid diluted to avoid infestations of lymatophages!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I see.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg6b.jpg 200
+#BACKGROUND cg\cg6c.jpg
+#PAUSE 300
+#SOUND
+thud.ogg
+100.0
+1.0
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\AcidPit\music\acid_armor_low.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+NOOOOOOO!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Unfortunately, I'm a supporter of the scientific method.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg6c.jpg 200
+#BACKGROUND cg\cg6d.jpg
+#PAUSE 300
+#SOUND
+splash.ogg
+100.0
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT event_soldier
+#TEXT_BEGIN
+AAAAAAH! AAAAAAAH!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Aaaand the result is... YES! It's lethal! A new progress for science!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Now it's high time I track the shark back...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldierB.png
+#TEXT_BEGIN
+He's there! Quick!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg6d.jpg 200
+#BACKGROUND cg\cg6e.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>... or maybe not...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldierB.png
+#TEXT_BEGIN
+Don't dare to move, you freak!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+Thomson! Thomson is down there! Oh my God!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldierB.png
+#TEXT_BEGIN
+Someone go help him, NOW!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>How are you, gentlemen? Fancy taking part in a scientific experiment?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg6e.jpg 200
+#BACKGROUND cg\cg6e2.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I want to know how many seconds a human being can survive without his head.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldierB.png
+#TEXT_BEGIN
+Shut that trap. We are not here to fight, unless you react.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+We've got orders to take you to General Boost. Alive. Now.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg6e2.jpg 200
+#BACKGROUND cg\cg6f2.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+>I'm officially a moron. I should have guessed they called for reinforcements, after I slaughtered the first one. Maybe they even had a dead man switch.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+>I hate my overconfidence, this was just a plain mistake. Now I'm cornered. I can sense ten, fifteen soldiers around the facility...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+>...~ and, obviously, the only exit is behind me. Well done, idiot. Well. Done.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+>My tanks are still low on fuel. I can take out two or three of them, but all...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+>*sigh*
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#TEXT_BEGIN
+>I can't risk being destroyed, but I'm afraid I have no chances, this time.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg6f.jpg 200
+#BACKGROUND cg\cg6e.jpg
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Fine, but try out anything fancy and I will use your ribcages as a percussion instrument.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg6e.jpg 200
+#BACKGROUND cg\cg6e2.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I've always wanted to find out if they sound different depending on the human they belonged to.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldierB.png
+#TEXT_BEGIN
+If it were for me, I would order my men to smash you to pieces. You ruthlessly killed Jarkins and Shimmer, almost murdered Thomson!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg6e2.jpg 200
+#BACKGROUND cg\cg6e.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Have you never stepped on a bunch of ants? Ever felt guilty for that, meatbag?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+For God's sake, they had families and children!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>I'm sure ant queens have lots of children as well, but you wouldn't feel bad smashing them anyway, right?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldier.png
+#TEXT_BEGIN
+Captain, I destroy this bastard!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT soldierB.png
+#TEXT_BEGIN
+Calm down, Kerenski. We have our hands tied, unfortunately. General Boost wants to meet him. You know what that means, right?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TRANSITION cg\cg6e.jpg 200
+#BACKGROUND cg\cg6e2.jpg
+#CHARA_MUGSHOT chara_krave\Mesh2
+#TEXT_BEGIN
+>Well, off we go! Time to meet your ant queen, I guess.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#CENTER_WINDOW
+#NO_BACKGROUND
+#TRANSITION cg\cg6e2.jpg 1200
+#NO_BACKGROUND_PICTURE
+#PAUSE 300
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#CENTER_WINDOW
+#TEXT_BEGIN
+>Let's see what I can gain from this unexpected turn of the events.
+#TEXT_END
+#CLOSE_WINDOW
+#END

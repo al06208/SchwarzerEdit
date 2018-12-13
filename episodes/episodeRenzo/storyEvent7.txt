@@ -1,0 +1,115 @@
+#BACKGROUND cg_lite\cg_bonzaga_kaya_b.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+*cough* *cough* the smoke is... unbearable...
+#TEXT_END
+#BGM
+..\\..\\..\\..\\stages\\bonzaga_heat\\music\inferno.ogg
+60.0
+1.0
+#END
+
+#BACKGROUND cg_lite\cg_bonzaga_kaya_b.jpg
+#CHARA_MUGSHOT chara_kiyoko\Mesh51
+#TEXT_BEGIN
+*cough* *cough* I... *cough* I can't...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh51
+#TEXT_BEGIN
+*cough* if I don't escape now... *cough* I could... *cough*
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_kiyoko\Mesh51
+#TEXT_BEGIN
+*cough* Damn, damn, damn!
+#TEXT_END
+#END
+
+#BACKGROUND cg_lite\heat.jpg
+#TRANSITION cg_lite\cg_bonzaga_kaya_b.jpg 500
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+*cough* she's running away! *cough*
+#TEXT_END
+#END
+
+#BACKGROUND cg_lite\heat.jpg
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+*cough* I have to take Jenn out!
+#TEXT_END
+#END
+
+#BACKGROUND cg_lite\bonzaga_going_out.jpg
+#TRANSITION cg_lite\heat.jpg 300
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Jenn? *cough* Jenn, can you hear me?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Loud... and clear, kid... *cough*
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+I dodged that strike *cough* quite well...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Keep on for one more minute, I'm taking you out.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+That thing *cough* *cough*... that thing had no face, Renzo...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+I... couldn't see anything... but a multiform, ever-changing... void.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+Listen, we will talk outside, alright? I don't know how much time the building will resist...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+I... leave it to you, Renzo-boy...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+Your brother... would be proud of you, you know...? Risking your life... to save someone you know since so little time...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_renzo\Mesh3
+#TEXT_BEGIN
+This has nothing to do with Alessandro. Leaving people to die is just... not my style.
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_jenn
+#TEXT_BEGIN
+As you wish to believe...
+#TEXT_END
+#CLOSE_WINDOW
+#END

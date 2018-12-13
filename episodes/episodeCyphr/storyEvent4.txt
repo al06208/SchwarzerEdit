@@ -1,0 +1,166 @@
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+Ok, it's enough. Good job, Cyphr.
+Still, I'm not completely convinced that Colder will be easy to handle.
+#TEXT_END
+#BACKGROUND cg\cg_delta2b.jpg
+#PAUSE 600
+#BGM
+..\..\..\..\stages\deltaBase\music\wontolla_rain.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Oh, I will give him a run for his money.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+The target will most likely show up this evening at the night club. Dress casually, but wear your battle gear.
+Try being friendly, before resorting to violence.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+Remember that our goal is to make him join our team, while covering this up as an "arrest"... not to straight up beating him into a pulp, okay?
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_delta2b.jpg 300
+#BACKGROUND cg\cg_delta2a.jpg
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+So, everything as usual. Let's hope General Boost doesn't find it out!
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+If he finds it out, we're both pretty much screwed.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+And what about... collateral damage?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+I will take care of it. Anyway, try to reduce the casualties to the minimum.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+Mr.~ Daevka, the owner of the club, is an old greedy bastard from EXODUS, and he'll probably have a heart attack if you break too much stuff.
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_delta2a.jpg 300
+#BACKGROUND cg\cg_delta2b.jpg
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Roger, sir! Any other indications?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+Yes. If the target manages to run away, at least tell him that an outlaw robot has been spotted here in New Langdon. And was looking for a sharkman.
+#TEXT_END
+#PAUSE 600
+#END
+
+#AUTO
+#TRANSITION cg\cg_delta2c.jpg 300
+#BACKGROUND cg\cg_delta2b.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#PAUSE 500
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+100
+1.0
+#BGM
+..\..\..\..\stages\deltaBase\music\wontolla_rain.ogg
+0.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+A... an outlaw robot?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+I know it sounds strange but...
+#TEXT_END
+#PAUSE 600
+#END
+
+#TRANSITION cg\cg_delta2b.jpg 300
+#BACKGROUND cg\cg_delta2a.jpg
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+No, not at all.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+I mean, it's not the first time I hear about something like this.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Is there any chance that the same... thing was seen in Northern Algol, recently?
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+It seems like you have more intel than me on the topic. As you know, Northern Algol is a ghost city.
+I don't have any reports from there. I'll try to gather information on this robot, if it's important to you.
+#TEXT_END
+#PAUSE 600
+#BGM
+..\..\..\..\stages\deltaBase\music\wontolla_rain.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_cyphr\
+#TEXT_BEGIN
+Thanks, sir.
+#TEXT_END
+#PAUSE 600
+#END
+
+#CHARA_MUGSHOT chara_tiger\Mesh2\
+#TEXT_BEGIN
+Good luck, Cyphr. Hope you won't need it.
+#TEXT_END
+#PAUSE 600
+#END

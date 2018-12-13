@@ -1,0 +1,16 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+...it's not over yet.
+#OPPONENT_WIN_QUOTE
+Now, the path is clear.
+#PLAYER_INTRO_QUOTE
+I simply can't give in!
+#OPPONENT_INTRO_QUOTE
+I will defend my world!
+#OPPONENT_LIFE_MULTIPLIER 3.0
+#PLAYER_LIFE_MULTIPLIER 3.0
+#PLAYER chara_donner
+#OPPONENT boss_arkaneis
+#AI_LEVEL 5
+#STAGE TheLoathing
+#TIMER 100

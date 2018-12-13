@@ -1,0 +1,7 @@
+#EPISODE_NAME
+Epilogue
+#DESCRIPTION
+The Second Black Lightning has been averted.
+It's time for the people involved to start a new life...
+#DESCRIPTION_END
+#EVENT epilogue

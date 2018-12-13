@@ -1,0 +1,19 @@
+#NO_OF_ROUNDS 1
+#PLAYER_WIN_QUOTE
+Blade...
+#OPPONENT_WIN_QUOTE
+Nobody can escape from the Fishface Crime Syndicate. Not even you, Shaz...
+#PLAYER_INTRO_QUOTE
+Pal, please! What are thirty thousand euro against our friendship?
+#OPPONENT_INTRO_QUOTE
+Do you REALLY believe I'm doing it for money?
+#OPPONENT_LIFE_MULTIPLIER 1
+#PLAYER_LIFE_MULTIPLIER 1
+#OPPONENT chara_shark\Mesh51
+#PLAYER chara_shark
+#AI_LEVEL 6
+#STAGE Skyscraper
+#PLAYER_OUTFIT_ID 0
+#NO_RINGOUT
+#TIMER 100
+#DIALOGUE_IN_BATTLE storyMatch1-Dialogue.txt

@@ -1,0 +1,497 @@
+#TOP_WINDOW
+#NO_BACKGROUND
+#BACKGROUND cg\cg3a.jpg
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#BGM
+..\..\..\..\stages\lavaCave\music\fight.ogg
+30.0
+1.0
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+*ugh* It looked much easier, when Johnson did it...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALASH...
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\flight.ogg
+100
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Shaz, NOW!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg3b.jpg
+#TRANSITION cg\cg3a.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 800
+#SOUND 
+trigger.ogg
+100
+0.5
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg3c.jpg
+#TRANSITION cg\cg3b.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+What the fu...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg3d.jpg
+#TRANSITION cg\cg3c.jpg 300
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+100
+0.8
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+DAMN!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+SBLAGALAGALAGALASH!
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\ko.ogg
+100
+1.0
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg4a.jpg
+#TRANSITION cg\cg3d.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_elena
+#TEXT_BEGIN
+Come on, let's head out! We can't lose time!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Right behind ya!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg4b.jpg
+#TRANSITION cg\cg4a.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+*ugh* the door... the door is locked! You won't manage to...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+Huh, really? It looks actually quite open!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg4c.jpg
+#TRANSITION cg\cg4b.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 800
+#SOUND 
+..\..\..\..\common\sound_effects\hitF02.wav
+100
+0.7
+#END
+
+#CHARA_MUGSHOT chara_shark
+#TEXT_BEGIN
+See ya never, losers!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg4d.jpg
+#TRANSITION cg\cg4c.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\..\stages\lavaCave\music\fight.ogg
+0.0
+1.0
+#PAUSE 800
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+What? I'm sure I've actually locked it!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Huh, I *may* have forgotten to close the door properly, just after coming in...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Okay, we might have screwed it up, Feliz.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+"We"?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I should have REALLY handcuffed them...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#BACKGROUND cg\cg4e.jpg
+#TRANSITION cg\cg4d.jpg 300
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+...~ but everything was going fine, UNTIL you two idiots showed up!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_lobster
+#TEXT_BEGIN
+*sblagalash...*
+#TEXT_END
+#SOUND 
+..\..\..\..\characters\chara_lobster\sounds\ko.ogg
+100
+1.0
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Yeah, I was ALSO talking about you, lobster!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+So... huh, you weren't going to betray Don Go? I thought...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Next time you think about thinking something, PLEASE start headbutting a wall instead!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+I'll call those two morons-for-hire that I took with us. Now, we need all the available help to take Shaz and Delfina back before Go notices that...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#TEXT_BEGIN
+*aehm* before I notice what?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg4f.jpg
+#TRANSITION cg\cg4e.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 400
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+30.0
+0.5
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Holy whale on a motorcycle! Don Go?! HERE?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+We. Are. Fried.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+Weren't... weren't you in a meeting, sir?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg5c.jpg
+#TRANSITION cg\cg4f.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#MUGSHOT go.png
+#TEXT_BEGIN
+There was a half-an-hour break, so I decided to step by and see how you have handled the situation...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT go.png
+#TEXT_BEGIN
+...~ but, mostly, I came here to watch Shaz dying after forcefully eating all those gold ingots. This would make a really fun appetizer before the meeting starts again.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT go.png
+#TEXT_BEGIN
+So...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg5a.jpg
+#TRANSITION cg\cg5c.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 100
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg5b.jpg
+#TRANSITION cg\cg5a.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 100
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg5c.jpg
+#TRANSITION cg\cg5b.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 100
+#END
+
+#MUGSHOT go.png
+#TEXT_BEGIN
+...~ where is he?
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg4f.jpg
+#TRANSITION cg\cg5c.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+They managed to escape, sir. Both he and Delfina.
+#TEXT_END
+#CLOSE_WINDOW
+#BGM
+..\..\..\bgm\menu(astral)_cut2.ogg
+0.0
+0.5
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh51
+#TEXT_BEGIN
+It was my fault.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg5d.jpg
+#TRANSITION cg\cg4f.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 300
+#END
+
+#MUGSHOT go.png
+#TEXT_BEGIN
+Okay, let's put it this way, Blade: I DON'T care whose fault it is, I just want you to find them before the end of my meeting.
+#TEXT_END
+#BGM
+night.ogg
+100
+1.0
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT go.png
+#TEXT_BEGIN
+That is, in two and half hours. Take both of them back and I'll forget about this debacle.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT go.png
+#TEXT_BEGIN
+Take at least one of them back and your punishment will be mild. After all, everyone makes mistakes.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT go.png
+#TEXT_BEGIN
+Fail completely and I'll reserve the treatment you suggested for Shaz for you, Feliz AND the lobster.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+Wait! Why me and the lobster?!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT go.png
+#TEXT_BEGIN
+Because I'm sure you have a fair share of responsibility, despite what Blade said.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#NO_BACKGROUND
+#BACKGROUND cg\cg5c.jpg
+#TRANSITION cg\cg5d.jpg 300
+#AUTO
+#TEXT_BEGIN
+#TEXT_END
+#CLOSE_WINDOW
+#PAUSE 500
+#END
+
+#MUGSHOT go.png
+#TEXT_BEGIN
+So, bunch of motheranglers, do your best, if you don't want to be sold in slices at the nearby fish market.
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#MUGSHOT go.png
+#TEXT_BEGIN
+GO! NOW!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_shark\Mesh99
+#TEXT_BEGIN
+YES, SIR!
+#TEXT_END
+#CLOSE_WINDOW
+#END

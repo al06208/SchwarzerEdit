@@ -1,0 +1,143 @@
+#BACKGROUND cg\cg13.jpg
+#BGM
+night.ogg
+100.0
+1.0
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+Nnnngghhh...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+I can't stand it anymore I can't stand it anymore I can't...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg13b.jpg 200
+#BACKGROUND cg\cg13.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 300
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+1.5
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+The Night! My darling walking...
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+NO! My darling walking NOTHING! I'm not the Night, I'm not the Night, I'M NOT THE NIGHT!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh4
+#TEXT_BEGIN
+You... are doomed, Lejl. Doomed as we are...
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+I don't... I won't... I won't give in! I WON'T GIVE IN!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+I... WANT to see Cyphy once more! I NEED to! And Tiger! I want to talk to both of them, one more time!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+Cyphy... Tiger... help me, help me, please! PLEASE!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg13b.jpg 200
+#BACKGROUND cg\cg13.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 300
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+1.5
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+*AGH* Why? Whywhywhywhywhywhywhywhy?
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+Why couldn't I be happy... not even once in my life?! DAMN! DAMN! DAAAAAMN!
+#TEXT_END
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+Aylin, take over! TAKE OVER! I can't stand it, I refuse to be conscious while my mind is being dispersed!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg13b.jpg 200
+#BACKGROUND cg\cg13.jpg
+#NO_BACKGROUND
+#TOP_WINDOW
+#CLOSE_WINDOW
+#PAUSE 300
+#SOUND 
+..\..\..\..\characters\chara_night\arcade\sounds\turning.ogg
+60
+1.5
+#END
+
+#CHARA_MUGSHOT chara_night\Mesh3
+#TEXT_BEGIN
+A... Aylin, please, I beg you! WAKE UP! WAKE UP!
+#TEXT_END
+#CLOSE_WINDOW
+#END
+
+#AUTO
+#TRANSITION cg\cg13.jpg 300
+#BACKGROUND cg\black.jpg
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#TOP_WINDOW
+#BGM
+night.ogg
+0.0
+1.0
+#PAUSE 300
+#END
+
+#CENTER_WINDOW
+#TEXT_BEGIN
+WAKE UP!
+#TEXT_END
+#NO_BACKGROUND
+#CLOSE_WINDOW
+#END
