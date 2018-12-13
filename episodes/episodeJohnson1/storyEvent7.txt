@@ -112,7 +112,7 @@ I'll shoot him, Blade!
 
 #CHARA_MUGSHOT chara_shark\Mesh51
 #TEXT_BEGIN
-Hell no! Stop! If you shoot, it's like calling the police and telling them "hey guys, can you please take us under arrest?".
+Hell no! Stop! Shooting now would be like calling the police and telling them, "Hey guys, could you please arrest us?"
 #TEXT_END
 #PAUSE 600
 #END

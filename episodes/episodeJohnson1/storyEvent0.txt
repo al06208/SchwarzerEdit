@@ -39,7 +39,7 @@ How come people just mind their own business, without even taking a glance at wh
 #NO_BACKGROUND_PICTURE
 #CENTER_WINDOW
 #TEXT_BEGIN
-Maybe I'm just brooding too much. Please, be free to contradict me at any time.
+Maybe I'm just brooding too much. Please, feel free to contradict me at any time.
 I 'll just leave you one further question to help you formulate an answer.
 #TEXT_END
 #PAUSE 600
