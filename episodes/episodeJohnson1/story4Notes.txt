@@ -1,0 +1,16 @@
+~~~~~~
+"(bartender) We already went through it. THAT is the best one."
+changed to
+"(bartender) We already went through it all. That's the best one left."
+clarifying a bit since we open on this scene
+~~~~~~
+"May I offer it, Mr.~ Colder?"
+changed to
+"Put in on my tab. Mr.~ Colder?"
+this one was tricky- Johnson is offering to buy Shaz's drink, but he already ordered it, so "Can I buy you a drink?" doesn't quite fit. Instead, Johnson tells the bartender to charge him for Shaz's drink, then addresses Shaz.
+~~~~~~
+"Uh, maybe. I have really no good memory."
+changed to
+"Uh, maybe. I really don't have a good memory."
+mostly just a grammar fix
+~~~~~~

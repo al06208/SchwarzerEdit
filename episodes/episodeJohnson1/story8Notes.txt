@@ -1,0 +1,11 @@
+~~~~~~
+"Just figured out that if I twisted his antennas, he would have been pretty much done for good. Real lobsters use them as primary sensors, after all."
+changed to
+"I just figured if I twisted his antennas, he would be done for good. Real lobsters use them as primary sensors, after all."
+changed mostly for flow
+~~~~~~
+"The only way I could survive until now."
+changed to
+"It's how I survived this long."
+original is technically correct, but sounds kind of awkward, so I tried to smooth it out
+~~~~~~

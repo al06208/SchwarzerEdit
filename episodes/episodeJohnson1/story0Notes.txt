@@ -1,0 +1,10 @@
+~~~~~~
+"It's like everyone - me included - is suffering from some sort of prosopagnosia, when looking at it. Feel free to browse some medical encyclopedia, I have enough spare time to wait for you to find what it is."
+changed to
+"It's like everyone - me included - is suffering from some sort of prosopagnosia when looking at it. Feel free to look through a medical encyclopedia; I have time."
+-The 'Medical Encyclopedia' line implies that the reader is going to look up "prosopagnosia", so the last part of that sentence seems to be redundant
+~~~~~~
+"In that case, he WILL pray to forget my face."
+changed to
+"In that case, he will PRAY to forget my face."
+shifting the emphasis improves the sentence's rhythm

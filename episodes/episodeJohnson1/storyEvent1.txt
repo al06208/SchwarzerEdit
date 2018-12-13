@@ -12,7 +12,7 @@
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-You can stop pretending you are not following me, Mister.
+You can stop pretending you're not following me, Mister.
 #TEXT_END
 #PAUSE 600
 #END
@@ -21,14 +21,14 @@ You can stop pretending you are not following me, Mister.
 #BACKGROUND cg\cg_river1.jpg
 #CHARA_MUGSHOT chara_renzo\
 #TEXT_BEGIN
-Okay, okay. I won't waste my and your time.
+Okay, okay. I won't waste your or my time.
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-You could start by presenting yourself and telling me why you started playing the stalker.
+You could start by showing yourself and telling me why you were stalking me.
 #TEXT_END
 #PAUSE 600
 #END
@@ -42,21 +42,21 @@ My name is Renzo, Renzo Rubecca. Like the famous composer, you know? I'm his son
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-I don't like neoclassical music. And I don't like you. What's your business with me?
+I don't like neoclassical music, and I don't like you. What's your business with me?
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_renzo\
 #TEXT_BEGIN
-Your face... I can't really see it. That was kinda curious.
+Your face... I can't really see it. That's kinda curious.
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-Oh, someone who noticed. Well done, you won a cookie.
+Oh, someone noticed. Well done, do you want a cookie?
 #TEXT_END
 #PAUSE 600
 #END
@@ -70,7 +70,7 @@ You think I'm not serious.
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-Wasn't that obvious?
+Was it that obvious?
 #TEXT_END
 #PAUSE 600
 #END
@@ -97,14 +97,14 @@ What if I say something like... "Black Lightning Disaster"?
 
 #CHARA_MUGSHOT chara_renzo\
 #TEXT_BEGIN
-You are speechless, ain't you? It was exactly as I felt when you...
+You're speechless, ain't you? It's exactly as I felt when you...
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-Listen. Whatever deeds you think I did, I didn't do them.
+Listen. Whatever things you think I did, I didn't do them.
 I'm not the person you are looking for.
 #TEXT_END
 #PAUSE 600

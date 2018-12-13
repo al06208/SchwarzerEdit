@@ -1,0 +1,15 @@
+~~~~~~
+"Ya f'ckin kiddin'? Why do ya wanna go there?!"
+changed to
+"Ya fuckin' kiddin'? Why do ya wanna go there?!"
+Changed to be consistent with Shaz not censoring himself in "Deep Trouble"
+~~~~~~
+"Sounds fair. Bartender? I pay what the sharkman drank until now. How much is it?"
+changed to
+"Sounds fair. Bartender? I'll pay the sharkman's tab. How much is it?"
+Makes a bit more sense in English this way- people drinking in bars usually run up a tab, so Johnson is paying it
+~~~~~~
+"That's something many say. Now, I have some business to attend. Have a nice evening."
+changed to
+"A lot of people say that. Now, I have some business to attend to. Have a nice evening."
+technically not wrong, but awkward- new line flows better

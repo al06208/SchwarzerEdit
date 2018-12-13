@@ -11,7 +11,7 @@ About two hours later
 #TRANSITION cg\black.jpg 300
 #CHARA_MUGSHOT chara_shark\Mesh99
 #TEXT_BEGIN
-Okay, Blade, where are we putting these crates?
+Okay, Blade. Where are we putting these crates?
 #TEXT_END
 #STAGE_BACKGROUND docks\
 #PAUSE 600
@@ -39,7 +39,7 @@ Do you think we'll have problems with the border police?
 #TOP_WINDOW
 #CHARA_MUGSHOT chara_shark\Mesh51
 #TEXT_BEGIN
-Recently, they started being really annoying. I just hope Lady Luck is on our side, today.
+They started being really annoying recently. I just hope Lady Luck is on our side today.
 #TEXT_END
 #PAUSE 600
 #END
@@ -105,7 +105,7 @@ Who are you? What's your business here?
 
 #CHARA_MUGSHOT chara_johnson
 #TEXT_BEGIN
-A sparrow whistled something about a night ride to Ireland. In which case, I would be interested in taking part to.
+A sparrow whistled something about a night ride to Ireland. I would be interested in taking part, too.
 #TEXT_END
 #END
 
@@ -118,21 +118,21 @@ Who told you that?
 
 #CHARA_MUGSHOT chara_johnson
 #TEXT_BEGIN
-Sorry, this is classified information. I don't want to put my informant in danger.
+Sorry, that's classified information. I don't want to put my informant in danger.
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_johnson
 #TEXT_BEGIN
-And now, let's talk about business, since you asked. Would you allow me on your ship, provided I pay you a fee?
+Now, let's talk about business, since you asked. Would you allow me on your ship, provided I pay you a fee?
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_shark\Mesh51
 #TEXT_BEGIN
-You could be a cop. Or, worse, a saboteur. In both cases, you aren't welcome.
+You could be a cop. Or worse, a saboteur. Either way, you aren't welcome.
 #TEXT_END
 #PAUSE 600
 #END
@@ -141,14 +141,14 @@ You could be a cop. Or, worse, a saboteur. In both cases, you aren't welcome.
 #BACKGROUND cg\cg_docks2.jpg
 #CHARA_MUGSHOT chara_johnson
 #TEXT_BEGIN
-And what if I'm really a genuine customer? A customer who could... well, let's say, send a nice picture to the police right now? Something like a selfie with three fishfaces and a smuggled cargo, together with coordinates?
+And if I'm really a genuine customer? A customer who could... well, let's say, send a nice picture to the police right now? Something like a selfie with three fishfaces and some smuggled cargo, plus coordinates?
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_shark\Mesh51
 #TEXT_BEGIN
-Listen, I'm not tender with whistleblowers. I'm pretty patient, but you are crossing the line.
+Listen, I don't go easy on snitches. I'm pretty patient, but you're crossing the line.
 #TEXT_END
 #PAUSE 600
 #END
@@ -164,7 +164,7 @@ What if we make a deal? You give me a ride, I forget about what I saw.
 #BACKGROUND cg\cg_docks1.jpg
 #CHARA_MUGSHOT chara_shark\Mesh51
 #TEXT_BEGIN
-Oh, you'll forget that for sure. Don't believe that you'd be the first corpse to rest on the sand down there.
+Oh, you'll forget, that's for sure. Don't think you'd be the first corpse on the sand down there.
 #TEXT_END
 #PAUSE 600
 #END
@@ -207,7 +207,7 @@ SBLAGA???
 
 #CHARA_MUGSHOT chara_shark\Mesh51
 #TEXT_BEGIN
-Wait! Are you crazy?! Don't taunt him, for Poseidon's sake! He will...
+Wait! Are you crazy?! Don't taunt him, for Poseidon's sake! He'll...
 #TEXT_END
 #PAUSE 600
 #END

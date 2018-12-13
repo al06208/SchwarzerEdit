@@ -2,7 +2,7 @@
 #CENTER_WINDOW
 #NO_BACKGROUND
 #TEXT_BEGIN
-Northern Algol, huh? It's already four years, since that "accident" happened.
+Northern Algol, huh? It's already been four years since that "accident" happened.
 #TEXT_END
 #PAUSE 600
 #BGM
@@ -14,7 +14,7 @@ atmosphere.ogg
 #NO_BACKGROUND
 #CENTER_WINDOW
 #TEXT_BEGIN
-Maybe, "accident" is not the right word. I believe that "deliberate massacre" is a more convincing one.
+Maybe "accident" is not the right word. I believe "deliberate massacre" is more accurate.
 #TEXT_END
 #PAUSE 600
 #END
@@ -22,7 +22,7 @@ Maybe, "accident" is not the right word. I believe that "deliberate massacre" is
 #NO_BACKGROUND
 #CENTER_WINDOW
 #TEXT_BEGIN
-A serial killer, nicknamed Rosenmaester, exterminated the city population using blood-sucking flowers.
+A serial killer, nicknamed Rosenmaester, exterminated the city's population using blood-sucking flowers.
 #TEXT_END
 #PAUSE 600
 #END
@@ -30,7 +30,7 @@ A serial killer, nicknamed Rosenmaester, exterminated the city population using 
 #NO_BACKGROUND
 #CENTER_WINDOW
 #TEXT_BEGIN
-Pretty B-movie-ish, if you ask me, but who am I to judge? In any case, three million people died. And now, Northern Algol is something like a open-air graveyard. A bunch of lifeless ruins.
+Pretty B-movie-ish, if you ask me, but who am I to judge? In any case, three million people died. Now, Northern Algol is something like an open-air graveyard. A bunch of lifeless ruins.
 #TEXT_END
 #PAUSE 600
 #END
@@ -40,7 +40,7 @@ Pretty B-movie-ish, if you ask me, but who am I to judge? In any case, three mil
 #NO_BACKGROUND
 #CENTER_WINDOW
 #TEXT_BEGIN
-Some people used to travel there for making some cheap "found footage" movies. Heck, there was even a horror series a couple months ago. The truth is, Northern Algol is still dangerous. The damn flowers have never withered.
+People used to travel there to make cheap "found footate" movies. Heck, there was a horror series filmed there a couple months ago. The truth is, Northern Algol is still dangerous. Those damn flowers never withered.
 #TEXT_END
 #PAUSE 600
 #END
@@ -48,7 +48,7 @@ Some people used to travel there for making some cheap "found footage" movies. H
 #NO_BACKGROUND
 #CENTER_WINDOW
 #TEXT_BEGIN
-Touch them, and you are as dry as desert sand.
+Touch them, and you're as dry as desert sand.
 #TEXT_END
 #PAUSE 600
 #END
@@ -56,7 +56,7 @@ Touch them, and you are as dry as desert sand.
 #NO_BACKGROUND
 #CENTER_WINDOW
 #TEXT_BEGIN
-Nobody in his right mind would live there. I could have simply classified the kid's statement to "trash".
+Nobody in his right mind would live there. I could have simply classified that kid's statement as "trash".
 #TEXT_END
 #PAUSE 600
 #END
@@ -64,7 +64,7 @@ Nobody in his right mind would live there. I could have simply classified the ki
 #NO_BACKGROUND
 #CENTER_WINDOW
 #TEXT_BEGIN
-Except that the news said something about an unknown military robot being spotted there. Another thing which shouldn't surely be walking the dead streets of a deader city.
+Except the news said something about an unknown military robot being spotted there. Another thing that surely shouldn't be walking the dead streets of a deader city.
 #TEXT_END
 #PAUSE 600
 #END
@@ -72,7 +72,7 @@ Except that the news said something about an unknown military robot being spotte
 #NO_BACKGROUND
 #CENTER_WINDOW
 #TEXT_BEGIN
-Oh, and the sudden, unexpected peak in EM emission in the area. Yeah, you know, the kind of things which one would see in some cheap mystery TV show.
+Oh, and the sudden, unexpected peak in EM emission in the area. Yeah, you know, the kind of things one would see in a cheap mystery TV show.
 #TEXT_END
 #PAUSE 600
 #END
@@ -80,7 +80,7 @@ Oh, and the sudden, unexpected peak in EM emission in the area. Yeah, you know, 
 #NO_BACKGROUND
 #CENTER_WINDOW
 #TEXT_BEGIN
-Too many strange coincidences. And I don't belive in coincidences. Not at all.
+Too many strange coincidences. And I don't believe in coincidences- not at all.
 #TEXT_END
 #PAUSE 600
 #END
@@ -88,7 +88,7 @@ Too many strange coincidences. And I don't belive in coincidences. Not at all.
 #NO_BACKGROUND
 #CENTER_WINDOW
 #TEXT_BEGIN
-Now, the one million pounds question: how do I get there?
+Now, the million pound question: how do I get there?
 #TEXT_END
 #PAUSE 600
 #END
@@ -96,7 +96,7 @@ Now, the one million pounds question: how do I get there?
 #NO_BACKGROUND
 #CENTER_WINDOW
 #TEXT_BEGIN
-Reaching Ireland means ferry or airplane. Ferry or airplane mean identity card. And, technically, I don't have one, since I do not exist.
+Reaching Ireland means ferry or airplane. Ferry or airplane means identity card. And technically, I don't have one, since I don't exist.
 #TEXT_END
 #PAUSE 600
 #END

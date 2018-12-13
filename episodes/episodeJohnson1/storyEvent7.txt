@@ -75,14 +75,14 @@ Now that your "superweapon" is gone, can we PLEASE resume our business conversat
 
 #CHARA_MUGSHOT chara_shark\Mesh51
 #TEXT_BEGIN
-Are you kidding?! Nobody can tame the lobster this way! We need up to four people to even restrain it! And you... you pummeled him alone?!
+Are you kidding?! Nobody can tame the lobster! We need at least four people to even restrain it! And you... you pummeled him alone?!
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_shark\Mesh51
 #TEXT_BEGIN
-Are you a freakin' monster?! I can't even understand what colour is your skin, goddammit!
+Are you a freakin' monster?! I can't even understand what colour your skin is, goddammit!
 #TEXT_END
 #PAUSE 600
 #END
@@ -96,7 +96,7 @@ My appearance is an unfortunate consequence of some events of the recent past, w
 
 #CHARA_MUGSHOT chara_johnson
 #TEXT_BEGIN
-I'm ready to do to you what I did to the lobster, if you still think you can't help me. And then, I'll hijack your ship and go to Ireland alone, if necessary.
+I'm ready to do to you what I did to the lobster, if you still don't think you can help me. Then I'll hijack your ship and go to Ireland alone, if necessary.
 #TEXT_END
 #PAUSE 600
 #END
@@ -105,21 +105,21 @@ I'm ready to do to you what I did to the lobster, if you still think you can't h
 #BACKGROUND cg\cg_docks4b.jpg
 #CHARA_MUGSHOT chara_shark\Mesh99
 #TEXT_BEGIN
-I shoot him, Blade!
+I'll shoot him, Blade!
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_shark\Mesh51
 #TEXT_BEGIN
-Hell, no! Stop! If you shoot, it's like calling the police and telling them "hey guys, can you please take us under arrest?".
+Hell no! Stop! If you shoot, it's like calling the police and telling them "hey guys, can you please take us under arrest?".
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_shark\Mesh99
 #TEXT_BEGIN
-The Werza is arriving anytime soon! We can't lose time!
+The Werza is arriving soon! We can't waste time!
 #TEXT_END
 #PAUSE 600
 #END
@@ -149,7 +149,7 @@ Johnson. My name is Johnson.
 
 #CHARA_MUGSHOT chara_shark\Mesh51
 #TEXT_BEGIN
-Mr.~ Johnson. I'm not going to say it's a pleasure to meet you, but at the moment I see no other possibility than helping you.
+Mr.~ Johnson. I'm not going to say it's a pleasure to meet you, but at the moment I see no other option but helping you.
 #TEXT_END
 #PAUSE 600
 #END
@@ -179,14 +179,14 @@ What?! Don Ottari won't...
 
 #CHARA_MUGSHOT chara_shark\Mesh51
 #TEXT_BEGIN
-Shut. The Hell. Up. I take full responsibility.
+Shut. The Hell. Up. I'll take full responsibility.
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_johnson
 #TEXT_BEGIN
-Wise decision. Now, let me help you patch the lobster...
+Wise decision. Now, let me help you patch up the lobster...
 #TEXT_END
 #PAUSE 600
 #END
@@ -209,7 +209,7 @@ Huh, sure...
 
 #CHARA_MUGSHOT chara_shark\Mesh51
 #TEXT_BEGIN
-(I didn't know monsters like him existed. Heck, we are all mutants, fair and square, but this guy...)
+(I didn't know monsters like him existed. Heck, we're all mutants, fair and square, but this guy...)
 #TEXT_END
 #PAUSE 600
 #END

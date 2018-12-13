@@ -1,0 +1,6 @@
+~~~~~~
+"Some people used to travel there for making some cheap "found footage" movies. Heck, there was even a horror series a couple months ago. The truth is, Northern Algol is still dangerous. The damn flowers have never withered."
+changed to
+"People used to travel there to make cheap "found footate" movies. Heck, there was a horror series filmed there a couple months ago. The truth is, Northern Algol is still dangerous. Those damn flowers never withered."
+mostly pruning unnecessary words to make the line sound better
+~~~~~~

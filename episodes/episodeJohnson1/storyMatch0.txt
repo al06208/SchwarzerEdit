@@ -2,9 +2,9 @@
 #PLAYER_WIN_QUOTE
 ... so, you are just a young moron.
 #OPPONENT_WIN_QUOTE
-Now, you'll tell mewhat I want to hear, amico.
+Now you'll tell me what I want to hear, amico.
 #PLAYER_INTRO_QUOTE
-Why have you used that name?
+Why did you use that name?
 #OPPONENT_INTRO_QUOTE
 So, your memory isn't so faulty, huh?
 #OPPONENT_LIFE_MULTIPLIER 1

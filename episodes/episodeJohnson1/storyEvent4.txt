@@ -1,6 +1,6 @@
 #CHARA_MUGSHOT chara_shark\
 #TEXT_BEGIN
-This booze is not so good. Bartender! I asked for the best one!
+This booze is... not so good. Bartender! I asked for your best one!
 #TEXT_END
 #BACKGROUND ..\episodeCyphr\cg\cg_coq1.jpg
 #PAUSE 600
@@ -11,7 +11,7 @@ This booze is not so good. Bartender! I asked for the best one!
 #END
 
 #TEXT_BEGIN
-(bartender) We already went through it. THAT is the best one.
+(bartender) We already went through it all. That's the best one left.
 #TEXT_END
 #PAUSE 600
 #END
@@ -24,7 +24,7 @@ Pretty sad for a pub.
 #END
 
 #TEXT_BEGIN
-(bartender) This is no pub, you blockhead! This is a night club with strippers and alcohol! Do you think that people come here to taste fine Irish whiskey?!
+(bartender) This isn't a pub, you blockhead! This is a night club, with strippers and alcohol! Do you think people come here to taste fine Irish whiskey?!
 #TEXT_END
 #PAUSE 600
 #END
@@ -54,7 +54,7 @@ Don't know who the heck this Colder is. Name's Gaetano Trasimeno.
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-Please, spare me your fake Italian accent! We've already gone through this at least twice!
+Please, spare me the fake Italian accent! We've already gone through this at least twice!
 #TEXT_END
 #PAUSE 600
 #END
@@ -68,14 +68,14 @@ Do we know each other, pal?
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-We've already met something like six times, Mr.~ "Trasimeno". I am called Johnson. You usally call me "blurry face", when you recognize me. Not so flattering, huh?
+We've already met something like six times, Mr.~ "Trasimeno". I am called Johnson. You usually call me "blurry face", when you recognize me. Not so flattering, huh?
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_shark\
 #TEXT_BEGIN
-Uh, maybe. I have really no good memory.
+Uh, maybe. I really don't have a good memory.
 #TEXT_END
 #PAUSE 600
 #END
@@ -103,21 +103,21 @@ Uh, maybe. I have really no good memory.
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-I knew it would have ended up like this.
+I knew it would end up like this.
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_shark\
 #TEXT_BEGIN
-W.. wait! That's my beer! Why did you take it?!
+W.. wait! That's my beer! Why'd you take it?!
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-Now, I will make you remember, Mr.~ "Trasimeno". And it won't be pleasant. Not at all.
+Now. I'll make you remember, Mr.~ "Trasimeno". And it won't be pleasant. Not at all.
 #TEXT_END
 #PAUSE 600
 #END

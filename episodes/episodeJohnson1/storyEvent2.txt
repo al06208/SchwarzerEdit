@@ -1,7 +1,7 @@
 #CHARA_MUGSHOT chara_johnson\
 #BACKGROUND cg\cg_river2a.jpg
 #TEXT_BEGIN
-So, Mr.~ Rubecca? Is it everything fine, now?
+So, Mr.~ Rubecca? Is everything fine, now?
 #TEXT_END
 #PAUSE 600
 #BGM
@@ -12,14 +12,14 @@ So, Mr.~ Rubecca? Is it everything fine, now?
 
 #CHARA_MUGSHOT chara_renzo\
 #TEXT_BEGIN
-Okay, okay! Time up! Time up!
+Okay, okay! Time out! Time out!
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-I can't hear you. Were you saying anything?
+I can't hear you. Were you saying something?
 #TEXT_END
 #PAUSE 600
 #END
@@ -33,7 +33,7 @@ S... stop! That hurts! Damn, what are your heels made up of?!
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-Learn a bit of respect, you idiot. I'm sick of scum like you telling me "You ruined my life!~ You are the bad guy!" and so on and so forth.
+Learn some respect, you idiot. I'm sick of scum like you telling me "You ruined my life!~ You're the bad guy!" and so on and so forth.
 #TEXT_END
 #PAUSE 600
 #END
@@ -47,7 +47,7 @@ You used a certain name before. You called me "Mr.~ Schwarzer Blitz", am I wrong
 
 #CHARA_MUGSHOT chara_renzo\
 #TEXT_BEGIN
-I... I'll only speak in presence of my lawyer.
+I... I'll only speak in the presence of my lawyer.
 #TEXT_END
 #PAUSE 600
 #END
@@ -56,7 +56,7 @@ I... I'll only speak in presence of my lawyer.
 #BACKGROUND cg\cg_river2b.jpg
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-Do you know that the channel here is quite deep? I wonder how many days would pass, before someone found a corpse...
+Did you know that the channel here is quite deep? I wonder how many days would pass, before someone found your corpse...
 #TEXT_END
 #PAUSE 600
 #END
@@ -70,7 +70,7 @@ Accidents happen. People disappear. It's a sad world.
 
 #CHARA_MUGSHOT chara_renzo\
 #TEXT_BEGIN
-W... wait! Okay, no more jokes! I speak! Lo giuro!
+W... wait! Okay, no more jokes! I'll speak! Lo giuro!
 #TEXT_END
 #PAUSE 600
 #END
@@ -80,7 +80,7 @@ W... wait! Okay, no more jokes! I speak! Lo giuro!
 #BACKGROUND cg\cg_river2a.jpg
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-Answer my questions! How did you find me, youngster?
+Answer my questions! How did you find me, kid?
 #TEXT_END
 #PAUSE 600
 #END
@@ -102,14 +102,14 @@ How are you connected to Euterpe?
 #CHARA_MUGSHOT chara_renzo\
 #TEXT_BEGIN
 My brother died there. I want to understand why. The only thing I knew was... to look for a faceless guy.
-And my informants... they say that they saw a guy like that recently, in Northern Algol.
+And my informants... they say that they saw a guy like that recently in Northern Algol.
 #TEXT_END
 #PAUSE 600
 #END
 
 #CHARA_MUGSHOT chara_renzo\
 #TEXT_BEGIN
-I arrived here yesterday, wanted to get there... but, then, I saw you.
+I arrived here yesterday. I wanted to get there, but... then, I saw you.
 #TEXT_END
 #PAUSE 600
 #END
@@ -125,7 +125,7 @@ I arrived here yesterday, wanted to get there... but, then, I saw you.
 #BACKGROUND cg\cg_river2b.jpg
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-I've never been to that scary place, you know? The one you look for, the one who did that... I'm also looking for him.
+I've never been to that scary place, you know? The one you're looking for, the one who did that... I'm also looking for him.
 #TEXT_END
 #PAUSE 600
 #END
@@ -139,7 +139,7 @@ He ruined my life as well.
 
 #CHARA_MUGSHOT chara_renzo\
 #TEXT_BEGIN
-How can I believe you?
+Why should I believe you?
 #TEXT_END
 #PAUSE 600
 #END
@@ -148,7 +148,7 @@ How can I believe you?
 #BACKGROUND cg\cg_river2a.jpg
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-Do you think that I would have left you alive, if I were him?
+Do you think that I would have left you alive if I were him?
 #TEXT_END
 #PAUSE 600
 #END
@@ -162,7 +162,7 @@ Do you think that I would have left you alive, if I were him?
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-I'm not him, kid. And now, it's time to do something for this hot weather. You know how to swim, right?
+I'm not him, kid. Now, why don't we do something about this hot weather? You know how to swim, right?
 #TEXT_END
 #PAUSE 600
 #END
@@ -196,7 +196,7 @@ WAAAAH! You bastard!
 
 #CHARA_MUGSHOT chara_johnson\
 #TEXT_BEGIN
-I hope we won't meet anytime soon, Mr.~ Rubecca. In any case, thank you for the precious information.
+I hope we don't meet again anytime soon, Mr.~ Rubecca. In any case, thank you for the precious information.
 #TEXT_END
 #PAUSE 600
 #END
