@@ -70,7 +70,7 @@ Accidents happen. People disappear. It's a sad world.
 
 #CHARA_MUGSHOT chara_renzo\
 #TEXT_BEGIN
-W... wait! Okay, no more jokes! I'll speak! Lo giuro!
+W... wait! Okay, no more jokes! I speak! Lo giuro!
 #TEXT_END
 #PAUSE 600
 #END

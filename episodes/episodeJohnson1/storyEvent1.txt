@@ -49,7 +49,7 @@ I don't like neoclassical music, and I don't like you. What's your business with
 
 #CHARA_MUGSHOT chara_renzo\
 #TEXT_BEGIN
-Your face... I can't really see it. That's kinda curious.
+Your face... I can't really see it. That was kinda curious.
 #TEXT_END
 #PAUSE 600
 #END
@@ -97,7 +97,7 @@ What if I say something like... "Black Lightning Disaster"?
 
 #CHARA_MUGSHOT chara_renzo\
 #TEXT_BEGIN
-You're speechless, ain't you? It's exactly as I felt when you...
+You are speechless, ain't you? It's exactly as I felt when you...
 #TEXT_END
 #PAUSE 600
 #END
